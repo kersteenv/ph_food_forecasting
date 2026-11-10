@@ -1,0 +1,4 @@
+commodity,category,unit,observations,markets,first_month,last_month,min_price,median_price,max_price,obs_Pre-pandemic,obs_Pandemic,obs_Post-pandemic,obs_Excluded,series,longest_series_months,eligible_series,tier
+Chicken,"meat, fish and eggs",KG,68,9,2020-05,2020-12,64.4,130.0,180.0,0,68,0,0,9,8,0,none (0)
+Maize (white),cereals and tubers,KG,83,11,2020-05,2022-04,18.0,28.0,50.0,0,83,0,0,11,16,0,none (0)
+Rice (premium),cereals and tubers,KG,471,63,2020-05,2020-12,33.4,45.6,53.4,0,471,0,0,63,8,0,none (0)

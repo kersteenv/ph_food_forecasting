@@ -1,0 +1,10 @@
+window,metric,series,ties_%,gm_ratio_all,ci_all,non_tied,sarima_better_%_of_non_tied,gm_ratio_non_tied,ci_non_tied,verdict_all
+Pre-pandemic,MAE,153,43.8,1.061,0.999-1.181,86,44.2,1.11,0.998-1.346,no clear winner
+Pre-pandemic,RMSE,153,43.8,1.058,1.000-1.177,86,44.2,1.106,1.000-1.339,no clear winner
+Pre-pandemic,MAPE,153,43.8,1.058,1.000-1.166,86,44.2,1.106,1.000-1.313,naive better
+Pandemic,MAE,2004,52.3,1.057,1.040-1.075,956,42.6,1.124,1.087-1.165,naive better
+Pandemic,RMSE,2004,52.0,1.054,1.038-1.071,961,42.0,1.115,1.080-1.154,naive better
+Pandemic,MAPE,2004,52.0,1.059,1.043-1.077,961,42.1,1.128,1.090-1.168,naive better
+Post-pandemic,MAE,2005,34.2,1.007,0.995-1.021,1320,49.5,1.011,0.992-1.033,no clear winner
+Post-pandemic,RMSE,2005,33.5,1.009,0.996-1.022,1334,51.1,1.013,0.994-1.033,no clear winner
+Post-pandemic,MAPE,2005,33.5,1.009,0.996-1.023,1334,49.9,1.013,0.994-1.036,no clear winner

@@ -1,0 +1,10 @@
+window,model,observations,pooled_MAPE,median_series_MAPE
+Pandemic,naive,24048,12.08,8.22
+Pandemic,sarima,24048,12.68,8.64
+Pandemic,snaive,24048,14.7,11.81
+Post-pandemic,naive,24053,11.94,9.64
+Post-pandemic,sarima,24053,11.82,9.81
+Post-pandemic,snaive,24053,14.09,12.41
+Pre-pandemic,naive,1763,10.1,7.29
+Pre-pandemic,sarima,1763,10.19,7.8
+Pre-pandemic,snaive,1763,12.88,10.76

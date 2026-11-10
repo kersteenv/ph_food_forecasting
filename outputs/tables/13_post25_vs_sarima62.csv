@@ -1,0 +1,4 @@
+window,group,metric,series,ties_%,gm_ratio,ci,verdict
+Post-pandemic,all,MAE,2005,21.8,1.019,1.005-1.031,sarima better
+Post-pandemic,all,RMSE,2005,21.1,1.018,1.006-1.030,sarima better
+Post-pandemic,all,MAPE,2005,21.1,1.018,1.004-1.031,sarima better

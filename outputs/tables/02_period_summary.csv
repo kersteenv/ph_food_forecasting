@@ -1,0 +1,4 @@
+period,rows,months,markets,commodities,start,end
+Pre-COVID,11246,50,17,20,2016-01-15,2020-02-15
+During-COVID,104527,37,83,62,2020-05-15,2023-05-15
+Post-COVID,94566,37,83,59,2023-06-15,2026-06-15

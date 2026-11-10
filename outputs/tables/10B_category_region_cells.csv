@@ -1,0 +1,69 @@
+admin1,category,series,markets,median_pct,reliable
+Autonomous region in Muslim Mindanao,cereals and tubers,21,5,15.4,True
+Autonomous region in Muslim Mindanao,"meat, fish and eggs",31,5,14.3,True
+Autonomous region in Muslim Mindanao,pulses and nuts,7,5,12.3,True
+Autonomous region in Muslim Mindanao,vegetables and fruits,61,5,10.4,True
+Cordillera Administrative region,cereals and tubers,29,6,21.5,True
+Cordillera Administrative region,"meat, fish and eggs",57,6,15.7,True
+Cordillera Administrative region,pulses and nuts,6,5,9.4,True
+Cordillera Administrative region,vegetables and fruits,88,6,25.0,True
+National Capital region,cereals and tubers,5,1,17.3,False
+National Capital region,"meat, fish and eggs",17,1,12.4,False
+National Capital region,pulses and nuts,2,1,20.6,False
+National Capital region,vegetables and fruits,19,1,32.7,False
+Region I,cereals and tubers,16,4,19.1,True
+Region I,"meat, fish and eggs",45,4,18.4,True
+Region I,pulses and nuts,5,3,9.1,True
+Region I,vegetables and fruits,54,4,22.8,True
+Region II,cereals and tubers,20,4,18.7,True
+Region II,"meat, fish and eggs",45,4,16.7,True
+Region II,pulses and nuts,8,4,20.9,True
+Region II,vegetables and fruits,48,4,33.2,True
+Region III,cereals and tubers,26,7,20.7,True
+Region III,"meat, fish and eggs",98,7,16.4,True
+Region III,pulses and nuts,9,6,13.5,True
+Region III,vegetables and fruits,117,7,33.6,True
+Region IV-A,cereals and tubers,25,5,18.7,True
+Region IV-A,"meat, fish and eggs",63,5,13.2,True
+Region IV-A,pulses and nuts,3,2,16.7,False
+Region IV-A,vegetables and fruits,88,5,24.5,True
+Region IV-B,cereals and tubers,22,5,19.1,True
+Region IV-B,"meat, fish and eggs",66,5,16.5,True
+Region IV-B,pulses and nuts,10,5,15.0,True
+Region IV-B,vegetables and fruits,63,5,15.4,True
+Region IX,cereals and tubers,21,4,23.2,True
+Region IX,"meat, fish and eggs",49,4,12.1,True
+Region IX,pulses and nuts,5,4,10.9,True
+Region IX,vegetables and fruits,69,4,18.8,True
+Region V,cereals and tubers,27,6,24.7,True
+Region V,"meat, fish and eggs",58,6,16.6,True
+Region V,pulses and nuts,13,6,12.7,True
+Region V,vegetables and fruits,92,6,27.6,True
+Region VI,cereals and tubers,28,6,21.7,True
+Region VI,"meat, fish and eggs",81,6,18.6,True
+Region VI,pulses and nuts,2,2,14.6,False
+Region VI,vegetables and fruits,74,6,23.0,True
+Region VII,cereals and tubers,18,4,21.5,True
+Region VII,"meat, fish and eggs",33,4,14.1,True
+Region VII,pulses and nuts,5,4,10.1,True
+Region VII,vegetables and fruits,58,4,16.5,True
+Region VIII,cereals and tubers,26,6,20.4,True
+Region VIII,"meat, fish and eggs",72,6,15.5,True
+Region VIII,pulses and nuts,11,6,5.6,True
+Region VIII,vegetables and fruits,90,6,21.9,True
+Region X,cereals and tubers,22,5,26.0,True
+Region X,"meat, fish and eggs",49,5,17.5,True
+Region X,pulses and nuts,5,5,14.0,True
+Region X,vegetables and fruits,78,5,27.6,True
+Region XI,cereals and tubers,24,6,26.8,True
+Region XI,"meat, fish and eggs",57,6,16.5,True
+Region XI,pulses and nuts,9,5,14.5,True
+Region XI,vegetables and fruits,78,6,24.9,True
+Region XII,cereals and tubers,16,4,25.9,True
+Region XII,"meat, fish and eggs",42,4,17.0,True
+Region XII,pulses and nuts,6,3,9.3,True
+Region XII,vegetables and fruits,62,4,21.9,True
+Region XIII,cereals and tubers,24,5,21.3,True
+Region XIII,"meat, fish and eggs",52,5,13.9,True
+Region XIII,pulses and nuts,4,2,-0.2,False
+Region XIII,vegetables and fruits,81,5,20.1,True

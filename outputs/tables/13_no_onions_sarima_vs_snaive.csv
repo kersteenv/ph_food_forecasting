@@ -1,0 +1,10 @@
+window,group,metric,series,ties_%,gm_ratio,ci,verdict
+Pre-pandemic,all,MAE,137,0.7,0.625,0.539-0.710,sarima better
+Pre-pandemic,all,RMSE,137,0.7,0.662,0.571-0.749,sarima better
+Pre-pandemic,all,MAPE,137,0.7,0.622,0.541-0.704,sarima better
+Pandemic,all,MAE,1948,0.3,0.724,0.700-0.749,sarima better
+Pandemic,all,RMSE,1948,0.3,0.744,0.722-0.769,sarima better
+Pandemic,all,MAPE,1948,0.3,0.718,0.693-0.743,sarima better
+Post-pandemic,all,MAE,1949,0.2,0.767,0.748-0.787,sarima better
+Post-pandemic,all,RMSE,1949,0.2,0.791,0.771-0.812,sarima better
+Post-pandemic,all,MAPE,1949,0.2,0.753,0.735-0.773,sarima better

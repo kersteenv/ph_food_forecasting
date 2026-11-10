@@ -1,0 +1,10 @@
+metric,value
+rows,210339
+columns,16
+start_date,2016-01-15
+end_date,2026-06-15
+n_markets,97
+n_commodities,66
+n_regions,17
+duplicate_keys,0
+missing_cells,0

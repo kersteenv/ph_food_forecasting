@@ -1,0 +1,10 @@
+window,horizon,naive,sarima,snaive
+Pandemic,1-3,7.63,8.13,14.48
+Pandemic,4-6,11.54,12.03,15.35
+Pandemic,7-12,14.58,15.28,14.48
+Post-pandemic,1-3,8.52,8.34,16.36
+Post-pandemic,4-6,12.39,11.89,14.11
+Post-pandemic,7-12,13.43,13.52,12.95
+Pre-pandemic,1-3,7.42,7.29,13.63
+Pre-pandemic,4-6,11.54,11.35,13.73
+Pre-pandemic,7-12,10.66,10.98,12.09

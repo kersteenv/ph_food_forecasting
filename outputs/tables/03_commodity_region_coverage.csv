@@ -1,0 +1,1029 @@
+admin1,commodity,Pre-COVID,During-COVID,Post-COVID,min_cov,passes
+Autonomous region in Muslim Mindanao,Anchovies,0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Bananas (saba),0.0,0.6756756756756757,1.0,0.0,False
+Autonomous region in Muslim Mindanao,"Beans (green, fresh)",0.0,0.21621621621621623,0.35135135135135137,0.0,False
+Autonomous region in Muslim Mindanao,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Autonomous region in Muslim Mindanao,Beans (string),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Bitter melon,0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Bottle gourd,0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Cabbage,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Autonomous region in Muslim Mindanao,Cabbage (chinese),0.0,0.6756756756756757,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Calamansi,0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Carrots,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Autonomous region in Muslim Mindanao,Choko,0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Coconut,0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Crab,0.0,0.5405405405405406,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Eggplants,0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Eggs,1.0,1.0,1.0,1.0,True
+Autonomous region in Muslim Mindanao,Eggs (duck),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Fish (fresh),0.975609756097561,0.0,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Fish (frigate tuna),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Fish (redbelly yellowtail fusilier),0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Fish (slipmouth),0.0,0.5405405405405406,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Garlic,0.8780487804878049,1.0,1.0,0.8780487804878049,True
+Autonomous region in Muslim Mindanao,Ginger,0.0,0.6756756756756757,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Groundnuts (unshelled),0.0,0.1891891891891892,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Maize (white),0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Maize (yellow),0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Mangoes (piko),0.0,1.0,0.972972972972973,0.0,False
+Autonomous region in Muslim Mindanao,Meat (beef),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Autonomous region in Muslim Mindanao,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Autonomous region in Muslim Mindanao,Meat (pork),1.0,1.0,1.0,1.0,True
+Autonomous region in Muslim Mindanao,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Onions (red),1.0,1.0,1.0,1.0,True
+Autonomous region in Muslim Mindanao,Onions (white),0.0,0.6756756756756757,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Pineapples,0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Potatoes (Irish),1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Autonomous region in Muslim Mindanao,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,"Rice (regular, milled)",1.0,1.0,1.0,1.0,True
+Autonomous region in Muslim Mindanao,Rice (special),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Rice (well milled),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Semolina (white),0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Semolina (yellow),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+Autonomous region in Muslim Mindanao,Sweet potatoes,1.0,1.0,1.0,1.0,True
+Autonomous region in Muslim Mindanao,Taro,0.0,1.0,1.0,0.0,False
+Autonomous region in Muslim Mindanao,Tomatoes,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Autonomous region in Muslim Mindanao,Water spinach,0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,Anchovies,0.0,0.5405405405405406,0.0,0.0,False
+Cordillera Administrative region,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Bananas (saba),0.0,0.6756756756756757,1.0,0.0,False
+Cordillera Administrative region,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Cordillera Administrative region,Beans (string),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Bitter melon,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Bottle gourd,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Cabbage,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Cordillera Administrative region,Cabbage (chinese),0.0,0.21621621621621623,0.35135135135135137,0.0,False
+Cordillera Administrative region,Calamansi,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Carrots,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Cordillera Administrative region,Chicken,0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,Choko,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Coconut,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Crab,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Eggplants,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Eggs,0.6585365853658537,1.0,1.0,0.6585365853658537,False
+Cordillera Administrative region,Eggs (duck),0.0,0.1891891891891892,0.0,0.0,False
+Cordillera Administrative region,Fish (fresh),0.975609756097561,0.0,0.0,0.0,False
+Cordillera Administrative region,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,"Fish (mackerel, fresh)",0.0,0.05405405405405406,0.0,0.0,False
+Cordillera Administrative region,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Fish (slipmouth),0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Garlic,1.0,1.0,1.0,1.0,True
+Cordillera Administrative region,Ginger,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Groundnuts (unshelled),0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,Maize (white),0.0,0.32432432432432434,0.0,0.0,False
+Cordillera Administrative region,Maize (yellow),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Mandarins,0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Mangoes (piko),0.0,0.13513513513513514,0.0,0.0,False
+Cordillera Administrative region,Meat (beef),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Cordillera Administrative region,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Cordillera Administrative region,Meat (pork),1.0,1.0,1.0,1.0,True
+Cordillera Administrative region,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Onions (red),1.0,1.0,1.0,1.0,True
+Cordillera Administrative region,Onions (white),1.0,0.5405405405405406,0.0,0.0,False
+Cordillera Administrative region,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,Pineapples,0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Potatoes (Irish),1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Cordillera Administrative region,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,"Rice (regular, milled)",0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Cordillera Administrative region,Rice (special),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Rice (well milled),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Semolina (yellow),0.0,0.5405405405405406,0.0,0.0,False
+Cordillera Administrative region,Shrimp (endeavor),0.0,0.21621621621621623,0.0,0.0,False
+Cordillera Administrative region,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Cordillera Administrative region,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Cordillera Administrative region,Sweet Potato leaves,0.0,0.21621621621621623,0.02702702702702703,0.0,False
+Cordillera Administrative region,Sweet potatoes,1.0,1.0,1.0,1.0,True
+Cordillera Administrative region,Taro,0.0,0.5405405405405406,0.0,0.0,False
+Cordillera Administrative region,Tomatoes,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Cordillera Administrative region,Water spinach,0.0,0.5405405405405406,0.0,0.0,False
+National Capital region,Anchovies,0.0,1.0,1.0,0.0,False
+National Capital region,Bananas (lakatan),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Bananas (saba),0.0,0.21621621621621623,0.0,0.0,False
+National Capital region,"Beans (green, fresh)",0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+National Capital region,Bitter melon,0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Bottle gourd,0.0,1.0,1.0,0.0,False
+National Capital region,Cabbage,0.5609756097560976,0.7297297297297297,1.0,0.5609756097560976,False
+National Capital region,Cabbage (chinese),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Calamansi,0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Carrots,0.5609756097560976,0.7297297297297297,1.0,0.5609756097560976,False
+National Capital region,Choko,0.0,1.0,1.0,0.0,False
+National Capital region,Coconut,0.0,1.0,1.0,0.0,False
+National Capital region,Crab,0.0,0.5135135135135135,0.0,0.0,False
+National Capital region,Eggplants,0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Eggs,0.5609756097560976,0.7297297297297297,1.0,0.5609756097560976,False
+National Capital region,Fish (fresh),0.5853658536585366,0.0,0.0,0.0,False
+National Capital region,Fish (frigate tuna),0.0,1.0,1.0,0.0,False
+National Capital region,"Fish (mackerel, fresh)",0.0,0.4594594594594595,1.0,0.0,False
+National Capital region,Fish (milkfish),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+National Capital region,Fish (roundscad),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+National Capital region,Fish (threadfin bream),0.0,1.0,1.0,0.0,False
+National Capital region,Fish (tilapia),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Garlic,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+National Capital region,Ginger,0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+National Capital region,Groundnuts (unshelled),0.0,0.21621621621621623,0.0,0.0,False
+National Capital region,Maize (yellow),0.0,0.05405405405405406,0.0,0.0,False
+National Capital region,Mandarins,0.0,0.5405405405405406,0.0,0.0,False
+National Capital region,Mangoes (carabao),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Mangoes (piko),0.0,0.02702702702702703,0.0,0.0,False
+National Capital region,Meat (beef),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,"Meat (beef, chops with bones)",0.6097560975609756,0.7297297297297297,1.0,0.6097560975609756,False
+National Capital region,"Meat (chicken, whole)",0.6097560975609756,0.7297297297297297,1.0,0.6097560975609756,False
+National Capital region,Meat (pork),1.0,0.7297297297297297,1.0,0.7297297297297297,False
+National Capital region,"Meat (pork, hock)",0.0,0.5135135135135135,0.0,0.0,False
+National Capital region,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+National Capital region,Onions (red),0.6097560975609756,0.7297297297297297,1.0,0.6097560975609756,False
+National Capital region,Onions (white),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+National Capital region,Papaya,0.0,0.2702702702702703,0.0,0.0,False
+National Capital region,Pineapples,0.0,0.21621621621621623,0.0,0.0,False
+National Capital region,Potatoes (Irish),0.6097560975609756,0.4594594594594595,1.0,0.4594594594594595,False
+National Capital region,"Rice (milled, superior)",0.9512195121951219,0.0,0.0,0.0,False
+National Capital region,"Rice (regular, milled)",0.9512195121951219,0.7297297297297297,1.0,0.7297297297297297,False
+National Capital region,Rice (special),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Rice (well milled),0.0,0.7297297297297297,1.0,0.0,False
+National Capital region,Semolina (yellow),0.0,0.16216216216216217,0.0,0.0,False
+National Capital region,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+National Capital region,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+National Capital region,Squashes,0.0,0.5405405405405406,0.35135135135135137,0.0,False
+National Capital region,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+National Capital region,Sweet potatoes,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+National Capital region,Taro,0.0,0.5405405405405406,0.0,0.0,False
+National Capital region,Tomatoes,0.5609756097560976,0.7297297297297297,1.0,0.5609756097560976,False
+National Capital region,Water spinach,0.0,1.0,1.0,0.0,False
+Region I,Anchovies,0.0,1.0,1.0,0.0,False
+Region I,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region I,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region I,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region I,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region I,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region I,Beans (string),0.0,1.0,1.0,0.0,False
+Region I,Bitter melon,0.0,1.0,1.0,0.0,False
+Region I,Bottle gourd,0.0,0.5405405405405406,0.0,0.0,False
+Region I,Cabbage,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region I,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region I,Calamansi,0.0,1.0,1.0,0.0,False
+Region I,Carrots,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region I,Choko,0.0,1.0,1.0,0.0,False
+Region I,Coconut,0.0,1.0,1.0,0.0,False
+Region I,Crab,0.0,1.0,1.0,0.0,False
+Region I,Eggplants,0.0,1.0,1.0,0.0,False
+Region I,Eggs,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region I,Eggs (duck),0.0,0.21621621621621623,0.0,0.0,False
+Region I,Fish (fresh),0.5853658536585366,0.0,0.0,0.0,False
+Region I,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region I,"Fish (mackerel, fresh)",0.0,0.6756756756756757,1.0,0.0,False
+Region I,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region I,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region I,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region I,Fish (slipmouth),0.0,0.21621621621621623,0.0,0.0,False
+Region I,Fish (threadfin bream),0.0,1.0,1.0,0.0,False
+Region I,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region I,Garlic,0.14634146341463414,1.0,1.0,0.14634146341463414,False
+Region I,Ginger,0.0,1.0,1.0,0.0,False
+Region I,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region I,Maize (white),0.0,0.21621621621621623,0.0,0.0,False
+Region I,Maize (yellow),0.0,0.21621621621621623,0.0,0.0,False
+Region I,Mandarins,0.0,0.05405405405405406,0.0,0.0,False
+Region I,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region I,Meat (beef),0.0,1.0,1.0,0.0,False
+Region I,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Region I,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Region I,Meat (pork),1.0,1.0,1.0,1.0,True
+Region I,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region I,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region I,Onions (red),1.0,1.0,1.0,1.0,True
+Region I,Onions (white),1.0,0.21621621621621623,0.0,0.0,False
+Region I,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region I,Pineapples,0.0,0.21621621621621623,0.0,0.0,False
+Region I,Potatoes (Irish),1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Region I,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region I,"Rice (regular, milled)",0.8780487804878049,1.0,1.0,0.8780487804878049,True
+Region I,Rice (special),0.0,1.0,1.0,0.0,False
+Region I,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region I,Semolina (yellow),0.0,0.5405405405405406,0.0,0.0,False
+Region I,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Region I,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region I,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region I,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+Region I,Sweet potatoes,0.5853658536585366,0.21621621621621623,0.0,0.0,False
+Region I,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region I,Tomatoes,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region I,Water spinach,0.0,0.21621621621621623,0.0,0.0,False
+Region II,Anchovies,0.0,0.7837837837837838,1.0,0.0,False
+Region II,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region II,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region II,Bananas (saba),0.0,0.21621621621621623,0.0,0.0,False
+Region II,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region II,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region II,Beans (string),0.0,1.0,1.0,0.0,False
+Region II,Bitter melon,0.0,1.0,1.0,0.0,False
+Region II,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region II,Cabbage,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region II,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region II,Calamansi,0.0,1.0,1.0,0.0,False
+Region II,Carrots,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region II,Chicken,0.0,0.21621621621621623,0.0,0.0,False
+Region II,Choko,0.0,1.0,1.0,0.0,False
+Region II,Coconut,0.0,1.0,1.0,0.0,False
+Region II,Crab,0.0,1.0,1.0,0.0,False
+Region II,Eggplants,0.0,1.0,1.0,0.0,False
+Region II,Eggs,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region II,Eggs (duck),0.0,1.0,1.0,0.0,False
+Region II,Fish (fresh),0.5609756097560976,0.0,0.0,0.0,False
+Region II,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region II,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region II,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region II,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region II,Fish (slipmouth),0.0,0.02702702702702703,0.0,0.0,False
+Region II,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Region II,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region II,Garlic,0.975609756097561,0.972972972972973,1.0,0.972972972972973,True
+Region II,Ginger,0.0,1.0,1.0,0.0,False
+Region II,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region II,Groundnuts (unshelled),0.0,1.0,1.0,0.0,False
+Region II,Maize (yellow),0.0,1.0,1.0,0.0,False
+Region II,Mandarins,0.0,0.9459459459459459,1.0,0.0,False
+Region II,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region II,Meat (beef),0.0,1.0,1.0,0.0,False
+Region II,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Region II,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Region II,Meat (pork),1.0,1.0,1.0,1.0,True
+Region II,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region II,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region II,Onions (red),1.0,1.0,1.0,1.0,True
+Region II,Onions (white),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region II,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region II,Pineapples,0.0,0.972972972972973,1.0,0.0,False
+Region II,Potatoes (Irish),1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Region II,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region II,"Rice (regular, milled)",0.8292682926829268,1.0,1.0,0.8292682926829268,True
+Region II,Rice (special),0.0,1.0,1.0,0.0,False
+Region II,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region II,Semolina (white),0.0,0.21621621621621623,0.0,0.0,False
+Region II,Semolina (yellow),0.0,1.0,1.0,0.0,False
+Region II,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Region II,Shrimp (tiger),0.0,0.972972972972973,1.0,0.0,False
+Region II,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region II,Sweet Potato leaves,0.0,1.0,0.972972972972973,0.0,False
+Region II,Sweet potatoes,0.5609756097560976,0.21621621621621623,0.0,0.0,False
+Region II,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region II,Tomatoes,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region II,Water spinach,0.0,0.21621621621621623,0.0,0.0,False
+Region III,Anchovies,0.0,1.0,1.0,0.0,False
+Region III,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region III,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region III,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region III,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region III,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region III,Beans (string),0.0,1.0,1.0,0.0,False
+Region III,Bitter melon,0.0,1.0,1.0,0.0,False
+Region III,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region III,Cabbage,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region III,Cabbage (chinese),0.0,0.21621621621621623,0.35135135135135137,0.0,False
+Region III,Calamansi,0.0,1.0,1.0,0.0,False
+Region III,Carrots,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region III,Chicken,0.0,0.21621621621621623,0.0,0.0,False
+Region III,Choko,0.0,1.0,1.0,0.0,False
+Region III,Coconut,0.0,1.0,1.0,0.0,False
+Region III,Crab,0.0,1.0,1.0,0.0,False
+Region III,Eggplants,0.0,1.0,1.0,0.0,False
+Region III,Eggs,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region III,Eggs (duck),0.0,1.0,1.0,0.0,False
+Region III,Fish (fresh),0.975609756097561,0.0,0.0,0.0,False
+Region III,Fish (frigate tuna),0.0,0.6756756756756757,1.0,0.0,False
+Region III,"Fish (mackerel, fresh)",0.0,0.6756756756756757,1.0,0.0,False
+Region III,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region III,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region III,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region III,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+Region III,Fish (threadfin bream),0.0,1.0,1.0,0.0,False
+Region III,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region III,Garlic,0.0,0.7837837837837838,1.0,0.0,False
+Region III,Ginger,0.0,1.0,1.0,0.0,False
+Region III,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region III,Groundnuts (unshelled),0.0,1.0,1.0,0.0,False
+Region III,Maize (white),0.0,0.02702702702702703,0.0,0.0,False
+Region III,Mandarins,0.0,1.0,1.0,0.0,False
+Region III,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region III,Mangoes (piko),0.0,1.0,0.972972972972973,0.0,False
+Region III,Meat (beef),0.0,1.0,1.0,0.0,False
+Region III,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Region III,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Region III,Meat (pork),1.0,1.0,1.0,1.0,True
+Region III,"Meat (pork, hock)",0.0,0.972972972972973,1.0,0.0,False
+Region III,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region III,Onions (red),1.0,1.0,1.0,1.0,True
+Region III,Onions (white),1.0,1.0,1.0,1.0,True
+Region III,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region III,Pineapples,0.0,1.0,1.0,0.0,False
+Region III,Potatoes (Irish),1.0,1.0,1.0,1.0,True
+Region III,"Rice (milled, superior)",0.926829268292683,0.0,0.0,0.0,False
+Region III,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region III,"Rice (regular, milled)",0.926829268292683,1.0,1.0,0.926829268292683,True
+Region III,Rice (special),0.0,1.0,1.0,0.0,False
+Region III,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region III,Semolina (yellow),0.0,0.21621621621621623,0.0,0.0,False
+Region III,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Region III,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region III,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region III,Sweet Potato leaves,0.0,1.0,0.972972972972973,0.0,False
+Region III,Sweet potatoes,1.0,0.21621621621621623,0.0,0.0,False
+Region III,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region III,Tomatoes,1.0,1.0,1.0,1.0,True
+Region III,Water spinach,0.0,0.21621621621621623,0.0,0.0,False
+Region IV-A,Anchovies,0.0,1.0,1.0,0.0,False
+Region IV-A,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region IV-A,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region IV-A,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region IV-A,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region IV-A,Beans (mung),0.6097560975609756,0.21621621621621623,0.0,0.0,False
+Region IV-A,Beans (string),0.0,0.21621621621621623,0.35135135135135137,0.0,False
+Region IV-A,Bitter melon,0.0,1.0,1.0,0.0,False
+Region IV-A,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region IV-A,Cabbage,1.0,1.0,1.0,1.0,True
+Region IV-A,Cabbage (chinese),0.0,0.21621621621621623,0.35135135135135137,0.0,False
+Region IV-A,Calamansi,0.0,0.6756756756756757,1.0,0.0,False
+Region IV-A,Carrots,1.0,1.0,1.0,1.0,True
+Region IV-A,Choko,0.0,1.0,1.0,0.0,False
+Region IV-A,Coconut,0.0,1.0,1.0,0.0,False
+Region IV-A,Crab,0.0,1.0,1.0,0.0,False
+Region IV-A,Eggplants,0.0,1.0,1.0,0.0,False
+Region IV-A,Eggs,1.0,1.0,1.0,1.0,True
+Region IV-A,Eggs (duck),0.0,1.0,1.0,0.0,False
+Region IV-A,Fish (fresh),0.975609756097561,0.0,0.0,0.0,False
+Region IV-A,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region IV-A,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region IV-A,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region IV-A,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region IV-A,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region IV-A,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+Region IV-A,Fish (threadfin bream),0.0,1.0,1.0,0.0,False
+Region IV-A,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region IV-A,Garlic,0.12195121951219512,0.7837837837837838,1.0,0.12195121951219512,False
+Region IV-A,Ginger,0.0,1.0,1.0,0.0,False
+Region IV-A,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region IV-A,Groundnuts (unshelled),0.0,1.0,1.0,0.0,False
+Region IV-A,Maize (yellow),0.0,0.8108108108108109,1.0,0.0,False
+Region IV-A,Mandarins,0.0,0.9459459459459459,1.0,0.0,False
+Region IV-A,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region IV-A,Mangoes (piko),0.0,1.0,0.972972972972973,0.0,False
+Region IV-A,Meat (beef),0.0,1.0,1.0,0.0,False
+Region IV-A,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Region IV-A,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Region IV-A,Meat (pork),1.0,1.0,1.0,1.0,True
+Region IV-A,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region IV-A,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region IV-A,Onions (red),1.0,1.0,1.0,1.0,True
+Region IV-A,Onions (white),1.0,0.21621621621621623,0.0,0.0,False
+Region IV-A,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region IV-A,Pineapples,0.0,1.0,1.0,0.0,False
+Region IV-A,Potatoes (Irish),1.0,1.0,1.0,1.0,True
+Region IV-A,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region IV-A,"Rice (regular, milled)",0.8536585365853658,1.0,1.0,0.8536585365853658,True
+Region IV-A,Rice (special),0.0,1.0,1.0,0.0,False
+Region IV-A,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region IV-A,Semolina (white),0.0,0.02702702702702703,0.0,0.0,False
+Region IV-A,Semolina (yellow),0.0,0.6756756756756757,1.0,0.0,False
+Region IV-A,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Region IV-A,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region IV-A,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region IV-A,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+Region IV-A,Sweet potatoes,1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Region IV-A,Taro,0.0,1.0,1.0,0.0,False
+Region IV-A,Tomatoes,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region IV-A,Water spinach,0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,Anchovies,0.0,1.0,1.0,0.0,False
+Region IV-B,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region IV-B,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region IV-B,Bananas (saba),0.0,0.6756756756756757,1.0,0.0,False
+Region IV-B,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region IV-B,Beans (mung),0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region IV-B,Beans (string),0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,Bitter melon,0.0,1.0,1.0,0.0,False
+Region IV-B,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region IV-B,Cabbage,0.975609756097561,1.0,1.0,0.975609756097561,True
+Region IV-B,Cabbage (chinese),0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,Calamansi,0.0,1.0,1.0,0.0,False
+Region IV-B,Carrots,0.975609756097561,1.0,1.0,0.975609756097561,True
+Region IV-B,Chicken,0.0,0.1891891891891892,0.0,0.0,False
+Region IV-B,Choko,0.0,1.0,1.0,0.0,False
+Region IV-B,Coconut,0.0,1.0,1.0,0.0,False
+Region IV-B,Crab,0.0,1.0,1.0,0.0,False
+Region IV-B,Eggplants,0.0,1.0,1.0,0.0,False
+Region IV-B,Eggs,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region IV-B,Eggs (duck),0.0,1.0,1.0,0.0,False
+Region IV-B,Fish (fresh),0.9512195121951219,0.0,0.0,0.0,False
+Region IV-B,Fish (frigate tuna),0.0,0.6756756756756757,1.0,0.0,False
+Region IV-B,"Fish (mackerel, fresh)",0.0,1.0,1.0,0.0,False
+Region IV-B,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region IV-B,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region IV-B,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region IV-B,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+Region IV-B,Fish (threadfin bream),0.0,1.0,1.0,0.0,False
+Region IV-B,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region IV-B,Garlic,0.0,0.972972972972973,1.0,0.0,False
+Region IV-B,Ginger,0.0,1.0,1.0,0.0,False
+Region IV-B,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region IV-B,Groundnuts (unshelled),0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,Maize (yellow),0.0,1.0,1.0,0.0,False
+Region IV-B,Mandarins,0.0,0.9459459459459459,1.0,0.0,False
+Region IV-B,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region IV-B,Mangoes (piko),0.0,0.9459459459459459,0.972972972972973,0.0,False
+Region IV-B,Meat (beef),0.0,1.0,1.0,0.0,False
+Region IV-B,"Meat (beef, chops with bones)",0.975609756097561,1.0,1.0,0.975609756097561,True
+Region IV-B,"Meat (chicken, whole)",0.975609756097561,1.0,1.0,0.975609756097561,True
+Region IV-B,Meat (pork),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region IV-B,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region IV-B,Onions (red),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region IV-B,Onions (white),0.975609756097561,0.5405405405405406,0.0,0.0,False
+Region IV-B,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,Pineapples,0.0,1.0,1.0,0.0,False
+Region IV-B,Potatoes (Irish),0.975609756097561,0.6756756756756757,1.0,0.6756756756756757,False
+Region IV-B,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,"Rice (regular, milled)",0.8292682926829268,1.0,1.0,0.8292682926829268,True
+Region IV-B,Rice (special),0.0,1.0,1.0,0.0,False
+Region IV-B,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region IV-B,Semolina (yellow),0.0,0.6756756756756757,1.0,0.0,False
+Region IV-B,Shrimp (endeavor),0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region IV-B,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region IV-B,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,Sweet potatoes,0.975609756097561,0.21621621621621623,0.0,0.0,False
+Region IV-B,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region IV-B,Tomatoes,0.975609756097561,1.0,1.0,0.975609756097561,True
+Region IV-B,Water spinach,0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Anchovies,0.0,1.0,1.0,0.0,False
+Region IX,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region IX,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region IX,Bananas (saba),0.0,0.21621621621621623,0.0,0.0,False
+Region IX,"Beans (green, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region IX,Beans (string),0.0,1.0,1.0,0.0,False
+Region IX,Bitter melon,0.0,1.0,1.0,0.0,False
+Region IX,Bottle gourd,0.0,0.5405405405405406,0.0,0.0,False
+Region IX,Cabbage,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region IX,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region IX,Calamansi,0.0,1.0,1.0,0.0,False
+Region IX,Carrots,1.0,1.0,1.0,1.0,True
+Region IX,Chicken,0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Choko,0.0,1.0,1.0,0.0,False
+Region IX,Coconut,0.0,1.0,1.0,0.0,False
+Region IX,Crab,0.0,1.0,1.0,0.0,False
+Region IX,Eggplants,0.0,1.0,1.0,0.0,False
+Region IX,Eggs,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region IX,Eggs (duck),0.0,0.16216216216216217,0.0,0.0,False
+Region IX,Fish (fresh),0.975609756097561,0.0,0.0,0.0,False
+Region IX,Fish (frigate tuna),0.0,0.5405405405405406,0.0,0.0,False
+Region IX,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region IX,Fish (redbelly yellowtail fusilier),0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region IX,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+Region IX,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region IX,Garlic,0.4146341463414634,0.7837837837837838,1.0,0.4146341463414634,False
+Region IX,Ginger,0.0,1.0,1.0,0.0,False
+Region IX,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region IX,Groundnuts (unshelled),0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Maize (white),0.0,0.16216216216216217,0.0,0.0,False
+Region IX,Maize (yellow),0.0,0.16216216216216217,0.02702702702702703,0.0,False
+Region IX,Mandarins,0.0,0.16216216216216217,0.0,0.0,False
+Region IX,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region IX,Mangoes (piko),0.0,0.13513513513513514,0.0,0.0,False
+Region IX,Meat (beef),0.0,1.0,1.0,0.0,False
+Region IX,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Region IX,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Region IX,Meat (pork),1.0,1.0,1.0,1.0,True
+Region IX,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region IX,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region IX,Onions (red),1.0,1.0,1.0,1.0,True
+Region IX,Onions (white),0.12195121951219512,0.21621621621621623,0.0,0.0,False
+Region IX,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Pineapples,0.0,1.0,1.0,0.0,False
+Region IX,Potatoes (Irish),0.975609756097561,0.6756756756756757,1.0,0.6756756756756757,False
+Region IX,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region IX,"Rice (regular, milled)",0.9024390243902439,1.0,1.0,0.9024390243902439,True
+Region IX,Rice (special),0.0,1.0,1.0,0.0,False
+Region IX,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region IX,Semolina (white),0.0,1.0,1.0,0.0,False
+Region IX,Semolina (yellow),0.0,1.0,1.0,0.0,False
+Region IX,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Region IX,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region IX,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region IX,Sweet Potato leaves,0.0,1.0,0.972972972972973,0.0,False
+Region IX,Sweet potatoes,0.6097560975609756,0.21621621621621623,0.0,0.0,False
+Region IX,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region IX,Tomatoes,1.0,1.0,1.0,1.0,True
+Region IX,Water spinach,0.0,1.0,1.0,0.0,False
+Region V,Anchovies,0.0,1.0,1.0,0.0,False
+Region V,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region V,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region V,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region V,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region V,Beans (mung),0.5365853658536586,1.0,1.0,0.5365853658536586,False
+Region V,Beans (string),0.0,1.0,1.0,0.0,False
+Region V,Bitter melon,0.0,1.0,1.0,0.0,False
+Region V,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region V,Cabbage,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region V,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region V,Calamansi,0.0,1.0,1.0,0.0,False
+Region V,Carrots,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region V,Choko,0.0,1.0,1.0,0.0,False
+Region V,Coconut,0.0,1.0,1.0,0.0,False
+Region V,Crab,0.0,1.0,1.0,0.0,False
+Region V,Eggplants,0.0,1.0,1.0,0.0,False
+Region V,Eggs,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region V,Eggs (duck),0.0,0.5405405405405406,0.0,0.0,False
+Region V,Fish (fresh),0.975609756097561,0.0,0.0,0.0,False
+Region V,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region V,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region V,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region V,Fish (redbelly yellowtail fusilier),0.0,0.8648648648648649,1.0,0.0,False
+Region V,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region V,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+Region V,Fish (threadfin bream),0.0,1.0,1.0,0.0,False
+Region V,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region V,Garlic,0.12195121951219512,0.7837837837837838,1.0,0.12195121951219512,False
+Region V,Ginger,0.0,1.0,1.0,0.0,False
+Region V,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region V,Groundnuts (unshelled),0.0,1.0,1.0,0.0,False
+Region V,Mandarins,0.0,0.5405405405405406,0.0,0.0,False
+Region V,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region V,Mangoes (piko),0.0,0.16216216216216217,0.0,0.0,False
+Region V,Meat (beef),0.0,1.0,1.0,0.0,False
+Region V,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Region V,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Region V,Meat (pork),1.0,1.0,1.0,1.0,True
+Region V,"Meat (pork, hock)",0.0,0.5135135135135135,0.0,0.0,False
+Region V,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region V,Onions (red),1.0,1.0,1.0,1.0,True
+Region V,Onions (white),1.0,1.0,1.0,1.0,True
+Region V,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region V,Pineapples,0.0,0.10810810810810811,0.0,0.0,False
+Region V,Potatoes (Irish),1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Region V,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region V,"Rice (regular, milled)",0.8536585365853658,1.0,1.0,0.8536585365853658,True
+Region V,Rice (special),0.0,1.0,1.0,0.0,False
+Region V,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region V,Semolina (white),0.0,1.0,1.0,0.0,False
+Region V,Semolina (yellow),0.0,0.21621621621621623,0.0,0.0,False
+Region V,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Region V,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region V,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region V,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+Region V,Sweet potatoes,1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Region V,Taro,0.0,1.0,1.0,0.0,False
+Region V,Tomatoes,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region V,Water spinach,0.0,1.0,1.0,0.0,False
+Region VI,Anchovies,0.0,1.0,1.0,0.0,False
+Region VI,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region VI,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region VI,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region VI,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region VI,Beans (mung),0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region VI,Beans (string),0.0,1.0,1.0,0.0,False
+Region VI,Bitter melon,0.0,1.0,1.0,0.0,False
+Region VI,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region VI,Cabbage,0.5365853658536586,1.0,1.0,0.5365853658536586,False
+Region VI,Cabbage (chinese),0.0,0.6756756756756757,1.0,0.0,False
+Region VI,Calamansi,0.0,1.0,1.0,0.0,False
+Region VI,Carrots,0.5365853658536586,1.0,1.0,0.5365853658536586,False
+Region VI,Choko,0.0,1.0,1.0,0.0,False
+Region VI,Coconut,0.0,1.0,1.0,0.0,False
+Region VI,Crab,0.0,1.0,1.0,0.0,False
+Region VI,Eggplants,0.0,1.0,1.0,0.0,False
+Region VI,Eggs,0.7560975609756098,1.0,1.0,0.7560975609756098,False
+Region VI,Eggs (duck),0.0,1.0,1.0,0.0,False
+Region VI,Fish (fresh),0.5365853658536586,0.0,0.0,0.0,False
+Region VI,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region VI,"Fish (mackerel, fresh)",0.0,0.6756756756756757,1.0,0.0,False
+Region VI,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region VI,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region VI,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region VI,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+Region VI,Fish (threadfin bream),0.0,1.0,1.0,0.0,False
+Region VI,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region VI,Garlic,0.5121951219512195,0.7837837837837838,1.0,0.5121951219512195,False
+Region VI,Ginger,0.0,1.0,1.0,0.0,False
+Region VI,Groundnuts (shelled),0.0,0.5405405405405406,0.0,0.0,False
+Region VI,Groundnuts (unshelled),0.0,1.0,1.0,0.0,False
+Region VI,Maize (yellow),0.0,0.21621621621621623,0.8648648648648649,0.0,False
+Region VI,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region VI,Mangoes (piko),0.0,0.21621621621621623,0.0,0.0,False
+Region VI,Meat (beef),0.0,1.0,1.0,0.0,False
+Region VI,"Meat (beef, chops with bones)",0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VI,"Meat (chicken, whole)",0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VI,Meat (pork),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VI,"Meat (pork, hock)",0.0,0.6756756756756757,1.0,0.0,False
+Region VI,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region VI,Onions (red),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VI,Onions (white),0.975609756097561,0.21621621621621623,0.0,0.0,False
+Region VI,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region VI,Pineapples,0.0,1.0,1.0,0.0,False
+Region VI,Potatoes (Irish),0.975609756097561,0.6756756756756757,1.0,0.6756756756756757,False
+Region VI,"Rice (milled, superior)",1.0,0.0,0.0,0.0,False
+Region VI,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region VI,"Rice (regular, milled)",1.0,1.0,1.0,1.0,True
+Region VI,Rice (special),0.0,1.0,1.0,0.0,False
+Region VI,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region VI,Semolina (white),0.0,0.21621621621621623,0.0,0.0,False
+Region VI,Semolina (yellow),0.0,1.0,1.0,0.0,False
+Region VI,Shrimp (endeavor),0.0,0.21621621621621623,0.0,0.0,False
+Region VI,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region VI,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region VI,Sweet Potato leaves,0.0,0.6756756756756757,0.972972972972973,0.0,False
+Region VI,Sweet potatoes,0.5365853658536586,0.21621621621621623,0.0,0.0,False
+Region VI,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region VI,Tomatoes,0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region VI,Water spinach,0.0,0.6756756756756757,1.0,0.0,False
+Region VII,Anchovies,0.0,1.0,1.0,0.0,False
+Region VII,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region VII,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region VII,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region VII,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region VII,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region VII,Beans (string),0.0,1.0,1.0,0.0,False
+Region VII,Bitter melon,0.0,1.0,1.0,0.0,False
+Region VII,Bottle gourd,0.0,0.5405405405405406,0.0,0.0,False
+Region VII,Cabbage,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region VII,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region VII,Calamansi,0.0,1.0,1.0,0.0,False
+Region VII,Carrots,0.5853658536585366,1.0,1.0,0.5853658536585366,False
+Region VII,Choko,0.0,1.0,1.0,0.0,False
+Region VII,Coconut,0.0,1.0,1.0,0.0,False
+Region VII,Crab,0.0,1.0,1.0,0.0,False
+Region VII,Eggplants,0.0,1.0,1.0,0.0,False
+Region VII,Eggs,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region VII,Fish (fresh),0.5853658536585366,0.0,0.0,0.0,False
+Region VII,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region VII,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region VII,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region VII,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region VII,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region VII,Fish (slipmouth),0.0,0.21621621621621623,0.0,0.0,False
+Region VII,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Region VII,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region VII,Garlic,0.8292682926829268,1.0,1.0,0.8292682926829268,True
+Region VII,Ginger,0.0,1.0,1.0,0.0,False
+Region VII,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region VII,Groundnuts (unshelled),0.0,0.21621621621621623,0.0,0.0,False
+Region VII,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region VII,Meat (beef),0.0,1.0,1.0,0.0,False
+Region VII,"Meat (beef, chops with bones)",0.975609756097561,0.6756756756756757,1.0,0.6756756756756757,False
+Region VII,"Meat (chicken, whole)",0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VII,Meat (pork),1.0,1.0,1.0,1.0,True
+Region VII,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region VII,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region VII,Onions (red),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VII,Onions (white),0.975609756097561,0.21621621621621623,0.0,0.0,False
+Region VII,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region VII,Pineapples,0.0,0.21621621621621623,0.0,0.0,False
+Region VII,Potatoes (Irish),0.975609756097561,0.6756756756756757,1.0,0.6756756756756757,False
+Region VII,"Rice (milled, superior)",1.0,0.0,0.0,0.0,False
+Region VII,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region VII,"Rice (regular, milled)",1.0,1.0,1.0,1.0,True
+Region VII,Rice (special),0.0,1.0,1.0,0.0,False
+Region VII,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region VII,Semolina (white),0.0,1.0,1.0,0.0,False
+Region VII,Semolina (yellow),0.0,0.4864864864864865,0.0,0.0,False
+Region VII,Shrimp (endeavor),0.0,0.16216216216216217,0.0,0.0,False
+Region VII,Shrimp (tiger),0.0,0.972972972972973,1.0,0.0,False
+Region VII,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region VII,Sweet Potato leaves,0.0,1.0,0.972972972972973,0.0,False
+Region VII,Sweet potatoes,0.9024390243902439,0.21621621621621623,0.0,0.0,False
+Region VII,Taro,0.0,1.0,1.0,0.0,False
+Region VII,Tomatoes,0.7317073170731707,1.0,1.0,0.7317073170731707,False
+Region VII,Water spinach,0.0,1.0,1.0,0.0,False
+Region VIII,Anchovies,0.0,1.0,1.0,0.0,False
+Region VIII,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region VIII,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region VIII,Bananas (saba),0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region VIII,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region VIII,Beans (string),0.0,1.0,1.0,0.0,False
+Region VIII,Bitter melon,0.0,1.0,1.0,0.0,False
+Region VIII,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region VIII,Cabbage,0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VIII,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region VIII,Calamansi,0.0,0.6756756756756757,1.0,0.0,False
+Region VIII,Carrots,0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VIII,Choko,0.0,1.0,1.0,0.0,False
+Region VIII,Coconut,0.0,1.0,1.0,0.0,False
+Region VIII,Crab,0.0,1.0,1.0,0.0,False
+Region VIII,Eggplants,0.0,1.0,1.0,0.0,False
+Region VIII,Eggs,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region VIII,Eggs (duck),0.0,0.32432432432432434,0.0,0.0,False
+Region VIII,Fish (fresh),0.9512195121951219,0.0,0.0,0.0,False
+Region VIII,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,"Fish (mackerel, fresh)",0.0,0.6756756756756757,1.0,0.0,False
+Region VIII,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region VIII,Fish (redbelly yellowtail fusilier),0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region VIII,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+Region VIII,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region VIII,Garlic,0.0,0.7837837837837838,1.0,0.0,False
+Region VIII,Ginger,0.0,1.0,1.0,0.0,False
+Region VIII,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region VIII,Groundnuts (unshelled),0.0,1.0,1.0,0.0,False
+Region VIII,Maize (white),0.0,0.3783783783783784,0.0,0.0,False
+Region VIII,Mandarins,0.0,1.0,1.0,0.0,False
+Region VIII,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region VIII,Mangoes (piko),0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,Meat (beef),0.0,1.0,1.0,0.0,False
+Region VIII,"Meat (beef, chops with bones)",0.6829268292682927,1.0,1.0,0.6829268292682927,False
+Region VIII,"Meat (chicken, whole)",0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VIII,Meat (pork),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VIII,"Meat (pork, hock)",0.0,0.6756756756756757,1.0,0.0,False
+Region VIII,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region VIII,Onions (red),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VIII,Onions (white),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VIII,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,Pineapples,0.0,1.0,1.0,0.0,False
+Region VIII,Potatoes (Irish),0.975609756097561,0.6756756756756757,1.0,0.6756756756756757,False
+Region VIII,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,"Rice (regular, milled)",0.8292682926829268,1.0,1.0,0.8292682926829268,True
+Region VIII,Rice (special),0.0,1.0,1.0,0.0,False
+Region VIII,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region VIII,Semolina (white),0.0,1.0,1.0,0.0,False
+Region VIII,Shrimp (endeavor),0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region VIII,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region VIII,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,Sweet potatoes,0.975609756097561,0.21621621621621623,0.0,0.0,False
+Region VIII,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region VIII,Tomatoes,0.975609756097561,1.0,1.0,0.975609756097561,True
+Region VIII,Water spinach,0.0,1.0,1.0,0.0,False
+Region X,Anchovies,0.0,1.0,1.0,0.0,False
+Region X,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region X,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region X,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region X,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region X,Beans (mung),0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region X,Beans (string),0.0,1.0,1.0,0.0,False
+Region X,Bitter melon,0.0,1.0,1.0,0.0,False
+Region X,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region X,Cabbage,0.5121951219512195,1.0,1.0,0.5121951219512195,False
+Region X,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region X,Calamansi,0.0,1.0,1.0,0.0,False
+Region X,Carrots,0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region X,Choko,0.0,1.0,1.0,0.0,False
+Region X,Coconut,0.0,1.0,1.0,0.0,False
+Region X,Crab,0.0,1.0,1.0,0.0,False
+Region X,Eggplants,0.0,1.0,1.0,0.0,False
+Region X,Eggs,0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region X,Eggs (duck),0.0,0.21621621621621623,0.0,0.0,False
+Region X,Fish (fresh),0.926829268292683,0.0,0.0,0.0,False
+Region X,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region X,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region X,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region X,Fish (redbelly yellowtail fusilier),0.0,0.21621621621621623,0.0,0.0,False
+Region X,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region X,Fish (slipmouth),0.0,0.21621621621621623,0.0,0.0,False
+Region X,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Region X,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region X,Garlic,0.24390243902439024,0.7837837837837838,1.0,0.24390243902439024,False
+Region X,Ginger,0.0,1.0,1.0,0.0,False
+Region X,Groundnuts (shelled),0.0,0.5405405405405406,0.0,0.0,False
+Region X,Maize (white),0.0,0.43243243243243246,0.0,0.0,False
+Region X,Maize (yellow),0.0,0.7837837837837838,1.0,0.0,False
+Region X,Mandarins,0.0,0.10810810810810811,0.0,0.0,False
+Region X,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region X,Meat (beef),0.0,1.0,1.0,0.0,False
+Region X,"Meat (beef, chops with bones)",0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region X,"Meat (chicken, whole)",0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region X,Meat (pork),0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region X,"Meat (pork, hock)",0.0,0.6756756756756757,1.0,0.0,False
+Region X,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region X,Onions (red),0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region X,Onions (white),0.9512195121951219,0.5405405405405406,0.0,0.0,False
+Region X,Papaya,0.0,0.6756756756756757,1.0,0.0,False
+Region X,Pineapples,0.0,1.0,1.0,0.0,False
+Region X,Potatoes (Irish),0.9512195121951219,0.6756756756756757,1.0,0.6756756756756757,False
+Region X,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region X,"Rice (regular, milled)",0.8536585365853658,1.0,1.0,0.8536585365853658,True
+Region X,Rice (special),0.0,1.0,1.0,0.0,False
+Region X,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region X,Semolina (white),0.0,1.0,1.0,0.0,False
+Region X,Semolina (yellow),0.0,0.21621621621621623,0.0,0.0,False
+Region X,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Region X,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region X,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region X,Sweet Potato leaves,0.0,0.6756756756756757,0.972972972972973,0.0,False
+Region X,Sweet potatoes,0.5121951219512195,0.21621621621621623,0.0,0.0,False
+Region X,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region X,Tomatoes,0.5121951219512195,1.0,1.0,0.5121951219512195,False
+Region X,Water spinach,0.0,0.5405405405405406,0.0,0.0,False
+Region XI,Anchovies,0.0,1.0,1.0,0.0,False
+Region XI,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region XI,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region XI,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region XI,"Beans (green, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Beans (mung),0.5609756097560976,1.0,1.0,0.5609756097560976,False
+Region XI,Beans (string),0.0,1.0,1.0,0.0,False
+Region XI,Bitter melon,0.0,1.0,1.0,0.0,False
+Region XI,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region XI,Cabbage,0.5121951219512195,1.0,1.0,0.5121951219512195,False
+Region XI,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region XI,Calamansi,0.0,1.0,1.0,0.0,False
+Region XI,Carrots,0.5121951219512195,1.0,1.0,0.5121951219512195,False
+Region XI,Chicken,0.0,0.16216216216216217,0.0,0.0,False
+Region XI,Choko,0.0,1.0,1.0,0.0,False
+Region XI,Coconut,0.0,1.0,1.0,0.0,False
+Region XI,Crab,0.0,1.0,1.0,0.0,False
+Region XI,Eggplants,0.0,1.0,1.0,0.0,False
+Region XI,Eggs,0.5121951219512195,1.0,1.0,0.5121951219512195,False
+Region XI,Eggs (duck),0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Fish (fresh),0.5121951219512195,0.0,0.0,0.0,False
+Region XI,Fish (frigate tuna),0.0,0.6756756756756757,1.0,0.0,False
+Region XI,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region XI,Fish (redbelly yellowtail fusilier),0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region XI,Fish (slipmouth),0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region XI,Garlic,0.0975609756097561,0.7837837837837838,1.0,0.0975609756097561,False
+Region XI,Ginger,0.0,1.0,1.0,0.0,False
+Region XI,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region XI,Groundnuts (unshelled),0.0,1.0,1.0,0.0,False
+Region XI,Maize (white),0.0,0.08108108108108109,0.0,0.0,False
+Region XI,Maize (yellow),0.0,0.8648648648648649,1.0,0.0,False
+Region XI,Mandarins,0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region XI,Mangoes (piko),0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Meat (beef),0.0,1.0,1.0,0.0,False
+Region XI,"Meat (beef, chops with bones)",0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region XI,"Meat (chicken, whole)",0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region XI,Meat (pork),0.975609756097561,1.0,1.0,0.975609756097561,True
+Region XI,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region XI,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region XI,Onions (red),0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region XI,Onions (white),0.0975609756097561,0.21621621621621623,0.0,0.0,False
+Region XI,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Pineapples,0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Potatoes (Irish),0.9512195121951219,0.6756756756756757,1.0,0.6756756756756757,False
+Region XI,"Rice (milled, superior)",0.926829268292683,0.0,0.0,0.0,False
+Region XI,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region XI,"Rice (regular, milled)",0.975609756097561,1.0,1.0,0.975609756097561,True
+Region XI,Rice (special),0.0,1.0,1.0,0.0,False
+Region XI,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region XI,Semolina (white),0.0,0.21621621621621623,0.02702702702702703,0.0,False
+Region XI,Semolina (yellow),0.0,0.21621621621621623,0.02702702702702703,0.0,False
+Region XI,Shrimp (endeavor),0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region XI,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region XI,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+Region XI,Sweet potatoes,0.9512195121951219,1.0,1.0,0.9512195121951219,True
+Region XI,Taro,0.0,1.0,1.0,0.0,False
+Region XI,Tomatoes,0.5121951219512195,1.0,1.0,0.5121951219512195,False
+Region XI,Water spinach,0.0,0.21621621621621623,0.0,0.0,False
+Region XII,Anchovies,0.0,0.9459459459459459,1.0,0.0,False
+Region XII,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region XII,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region XII,Bananas (saba),0.0,1.0,1.0,0.0,False
+Region XII,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region XII,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region XII,Beans (string),0.0,1.0,1.0,0.0,False
+Region XII,Bitter melon,0.0,1.0,1.0,0.0,False
+Region XII,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region XII,Cabbage,1.0,1.0,1.0,1.0,True
+Region XII,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region XII,Calamansi,0.0,1.0,1.0,0.0,False
+Region XII,Carrots,1.0,1.0,1.0,1.0,True
+Region XII,Choko,0.0,1.0,1.0,0.0,False
+Region XII,Coconut,0.0,1.0,1.0,0.0,False
+Region XII,Crab,0.0,0.972972972972973,1.0,0.0,False
+Region XII,Eggplants,0.0,1.0,1.0,0.0,False
+Region XII,Eggs,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region XII,Eggs (duck),0.0,0.5405405405405406,0.0,0.0,False
+Region XII,Fish (fresh),0.975609756097561,0.0,0.0,0.0,False
+Region XII,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region XII,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region XII,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region XII,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region XII,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region XII,Fish (slipmouth),0.0,1.0,1.0,0.0,False
+Region XII,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Region XII,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region XII,Garlic,0.04878048780487805,0.8108108108108109,1.0,0.04878048780487805,False
+Region XII,Ginger,0.0,1.0,1.0,0.0,False
+Region XII,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region XII,Groundnuts (unshelled),0.0,0.1891891891891892,0.0,0.0,False
+Region XII,Mangoes (carabao),0.0,0.21621621621621623,0.0,0.0,False
+Region XII,Mangoes (piko),0.0,0.32432432432432434,0.0,0.0,False
+Region XII,Meat (beef),0.0,1.0,1.0,0.0,False
+Region XII,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Region XII,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Region XII,Meat (pork),1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Region XII,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region XII,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region XII,Onions (red),1.0,1.0,1.0,1.0,True
+Region XII,Onions (white),0.12195121951219512,0.21621621621621623,0.0,0.0,False
+Region XII,Papaya,0.0,0.6756756756756757,1.0,0.0,False
+Region XII,Pineapples,0.0,0.21621621621621623,0.0,0.0,False
+Region XII,Potatoes (Irish),1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Region XII,"Rice (milled, superior)",1.0,0.0,0.0,0.0,False
+Region XII,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region XII,"Rice (regular, milled)",1.0,1.0,1.0,1.0,True
+Region XII,Rice (special),0.0,1.0,1.0,0.0,False
+Region XII,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region XII,Semolina (white),0.0,1.0,0.972972972972973,0.0,False
+Region XII,Semolina (yellow),0.0,0.21621621621621623,0.02702702702702703,0.0,False
+Region XII,Shrimp (endeavor),0.0,1.0,1.0,0.0,False
+Region XII,Shrimp (tiger),0.0,0.7837837837837838,1.0,0.0,False
+Region XII,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region XII,Sweet Potato leaves,0.0,1.0,0.972972972972973,0.0,False
+Region XII,Sweet potatoes,1.0,0.21621621621621623,0.0,0.0,False
+Region XII,Taro,0.0,0.21621621621621623,0.0,0.0,False
+Region XII,Tomatoes,1.0,1.0,1.0,1.0,True
+Region XII,Water spinach,0.0,1.0,1.0,0.0,False
+Region XIII,Anchovies,0.0,1.0,1.0,0.0,False
+Region XIII,Bananas (lakatan),0.0,1.0,1.0,0.0,False
+Region XIII,Bananas (latundan),0.0,1.0,1.0,0.0,False
+Region XIII,Bananas (saba),0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,"Beans (green, fresh)",0.0,1.0,1.0,0.0,False
+Region XIII,Beans (mung),0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region XIII,Beans (string),0.0,1.0,1.0,0.0,False
+Region XIII,Bitter melon,0.0,1.0,1.0,0.0,False
+Region XIII,Bottle gourd,0.0,1.0,1.0,0.0,False
+Region XIII,Cabbage,1.0,1.0,1.0,1.0,True
+Region XIII,Cabbage (chinese),0.0,1.0,1.0,0.0,False
+Region XIII,Calamansi,0.0,1.0,1.0,0.0,False
+Region XIII,Carrots,1.0,1.0,1.0,1.0,True
+Region XIII,Choko,0.0,1.0,1.0,0.0,False
+Region XIII,Coconut,0.0,1.0,1.0,0.0,False
+Region XIII,Crab,0.0,1.0,1.0,0.0,False
+Region XIII,Eggplants,0.0,1.0,1.0,0.0,False
+Region XIII,Eggs,0.6097560975609756,1.0,1.0,0.6097560975609756,False
+Region XIII,Eggs (duck),0.0,0.32432432432432434,0.0,0.0,False
+Region XIII,Fish (fresh),0.975609756097561,0.0,0.0,0.0,False
+Region XIII,Fish (frigate tuna),0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,"Fish (mackerel, fresh)",0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,Fish (milkfish),0.0,1.0,1.0,0.0,False
+Region XIII,Fish (redbelly yellowtail fusilier),0.0,1.0,1.0,0.0,False
+Region XIII,Fish (roundscad),0.0,1.0,1.0,0.0,False
+Region XIII,Fish (slipmouth),0.0,0.1891891891891892,0.0,0.0,False
+Region XIII,Fish (threadfin bream),0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,Fish (tilapia),0.0,1.0,1.0,0.0,False
+Region XIII,Garlic,0.04878048780487805,0.7837837837837838,1.0,0.04878048780487805,False
+Region XIII,Ginger,0.0,1.0,1.0,0.0,False
+Region XIII,Groundnuts (shelled),0.0,1.0,1.0,0.0,False
+Region XIII,Groundnuts (unshelled),0.0,0.5405405405405406,1.0,0.0,False
+Region XIII,Mandarins,0.0,0.02702702702702703,0.0,0.0,False
+Region XIII,Mangoes (carabao),0.0,1.0,1.0,0.0,False
+Region XIII,Meat (beef),0.0,1.0,1.0,0.0,False
+Region XIII,"Meat (beef, chops with bones)",1.0,1.0,1.0,1.0,True
+Region XIII,"Meat (chicken, whole)",1.0,1.0,1.0,1.0,True
+Region XIII,Meat (pork),1.0,1.0,1.0,1.0,True
+Region XIII,"Meat (pork, hock)",0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,"Meat (pork, with bones)",0.0,1.0,1.0,0.0,False
+Region XIII,Onions (red),1.0,1.0,1.0,1.0,True
+Region XIII,Onions (white),0.0,0.5405405405405406,0.0,0.0,False
+Region XIII,Papaya,0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,Pineapples,0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,Potatoes (Irish),1.0,0.6756756756756757,1.0,0.6756756756756757,False
+Region XIII,Rice (premium),0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,"Rice (regular, milled)",0.8780487804878049,1.0,1.0,0.8780487804878049,True
+Region XIII,Rice (special),0.0,1.0,1.0,0.0,False
+Region XIII,Rice (well milled),0.0,1.0,1.0,0.0,False
+Region XIII,Semolina (white),0.0,1.0,1.0,0.0,False
+Region XIII,Semolina (yellow),0.0,0.1891891891891892,0.0,0.0,False
+Region XIII,Shrimp (endeavor),0.0,0.6756756756756757,1.0,0.0,False
+Region XIII,Shrimp (tiger),0.0,1.0,1.0,0.0,False
+Region XIII,Squashes,0.0,0.972972972972973,1.0,0.0,False
+Region XIII,Sweet Potato leaves,0.0,0.21621621621621623,0.0,0.0,False
+Region XIII,Sweet potatoes,1.0,0.21621621621621623,0.0,0.0,False
+Region XIII,Taro,0.0,1.0,1.0,0.0,False
+Region XIII,Tomatoes,1.0,1.0,1.0,1.0,True
+Region XIII,Water spinach,0.0,0.21621621621621623,0.0,0.0,False

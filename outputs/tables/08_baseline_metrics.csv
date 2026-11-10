@@ -1,0 +1,121 @@
+commodity,segment,h,method,n,MAE,RMSE,MASE
+"Meat (beef, chops with bones)",A,1,drift,17,0.7,0.94,1.22
+"Meat (beef, chops with bones)",A,1,naive,17,0.83,1.1,1.44
+"Meat (beef, chops with bones)",A,1,snaive,17,8.54,8.86,14.22
+"Meat (beef, chops with bones)",A,3,drift,15,0.98,1.35,1.72
+"Meat (beef, chops with bones)",A,3,naive,15,1.66,2.07,2.92
+"Meat (beef, chops with bones)",A,3,snaive,15,8.32,8.66,14.02
+"Meat (beef, chops with bones)",A,6,drift,12,1.25,1.56,2.17
+"Meat (beef, chops with bones)",A,6,naive,12,2.85,3.14,4.94
+"Meat (beef, chops with bones)",A,6,snaive,12,7.77,8.1,13.1
+"Meat (beef, chops with bones)",A,12,drift,6,1.99,2.2,3.48
+"Meat (beef, chops with bones)",A,12,naive,6,5.71,5.9,10.14
+"Meat (beef, chops with bones)",A,12,snaive,6,5.71,5.9,10.14
+"Meat (beef, chops with bones)",B,1,drift,50,0.55,0.63,0.65
+"Meat (beef, chops with bones)",B,1,naive,50,0.41,0.56,0.5
+"Meat (beef, chops with bones)",B,1,snaive,50,5.61,6.7,6.35
+"Meat (beef, chops with bones)",B,3,drift,48,1.51,1.72,1.74
+"Meat (beef, chops with bones)",B,3,naive,48,1.08,1.39,1.3
+"Meat (beef, chops with bones)",B,3,snaive,48,5.34,6.36,6.05
+"Meat (beef, chops with bones)",B,6,drift,45,3.14,3.48,3.51
+"Meat (beef, chops with bones)",B,6,naive,45,1.99,2.36,2.42
+"Meat (beef, chops with bones)",B,6,snaive,45,4.78,5.55,5.5
+"Meat (beef, chops with bones)",B,12,drift,39,6.46,7.16,6.9
+"Meat (beef, chops with bones)",B,12,naive,39,3.91,4.23,4.67
+"Meat (beef, chops with bones)",B,12,snaive,39,3.91,4.23,4.67
+"Meat (chicken, whole)",A,1,drift,17,0.87,1.3,1.03
+"Meat (chicken, whole)",A,1,naive,17,0.81,1.27,0.96
+"Meat (chicken, whole)",A,1,snaive,17,4.77,5.27,5.51
+"Meat (chicken, whole)",A,3,drift,15,1.88,2.45,2.22
+"Meat (chicken, whole)",A,3,naive,15,1.65,2.1,1.95
+"Meat (chicken, whole)",A,3,snaive,15,4.56,5.1,5.27
+"Meat (chicken, whole)",A,6,drift,12,2.9,3.94,3.41
+"Meat (chicken, whole)",A,6,naive,12,2.56,2.95,2.98
+"Meat (chicken, whole)",A,6,snaive,12,4.72,5.36,5.32
+"Meat (chicken, whole)",A,12,drift,6,5.54,6.08,6.05
+"Meat (chicken, whole)",A,12,naive,6,2.7,2.79,2.97
+"Meat (chicken, whole)",A,12,snaive,6,2.7,2.79,2.97
+"Meat (chicken, whole)",B,1,drift,50,1.39,1.69,0.76
+"Meat (chicken, whole)",B,1,naive,50,1.2,1.65,0.67
+"Meat (chicken, whole)",B,1,snaive,50,6.18,8.06,3.3
+"Meat (chicken, whole)",B,3,drift,48,2.95,3.62,1.61
+"Meat (chicken, whole)",B,3,naive,48,2.48,3.34,1.37
+"Meat (chicken, whole)",B,3,snaive,48,6.17,8.1,3.3
+"Meat (chicken, whole)",B,6,drift,45,3.84,4.63,2.08
+"Meat (chicken, whole)",B,6,naive,45,2.69,3.23,1.53
+"Meat (chicken, whole)",B,6,snaive,45,5.42,7.03,2.92
+"Meat (chicken, whole)",B,12,drift,39,7.3,8.74,3.8
+"Meat (chicken, whole)",B,12,naive,39,4.11,5.16,2.27
+"Meat (chicken, whole)",B,12,snaive,39,4.11,5.16,2.27
+Meat (pork),A,1,drift,17,0.7,0.76,1.06
+Meat (pork),A,1,naive,17,0.57,0.79,0.87
+Meat (pork),A,1,snaive,17,6.17,6.73,9.29
+Meat (pork),A,3,drift,15,1.79,1.9,2.7
+Meat (pork),A,3,naive,15,1.59,2.02,2.44
+Meat (pork),A,3,snaive,15,5.59,6.04,8.32
+Meat (pork),A,6,drift,12,3.09,3.33,4.57
+Meat (pork),A,6,naive,12,2.67,3.46,4.1
+Meat (pork),A,6,snaive,12,5.08,5.5,7.55
+Meat (pork),A,12,drift,6,2.65,3.31,3.94
+Meat (pork),A,12,naive,6,3.7,4.31,5.8
+Meat (pork),A,12,snaive,6,3.7,4.31,5.8
+Meat (pork),B,1,drift,50,1.31,1.64,0.81
+Meat (pork),B,1,naive,50,1.07,1.38,0.67
+Meat (pork),B,1,snaive,50,5.42,6.28,3.38
+Meat (pork),B,3,drift,48,3.77,4.55,2.29
+Meat (pork),B,3,naive,48,2.83,3.55,1.78
+Meat (pork),B,3,snaive,48,5.37,6.27,3.37
+Meat (pork),B,6,drift,45,6.99,8.13,4.19
+Meat (pork),B,6,naive,45,4.52,5.67,2.87
+Meat (pork),B,6,snaive,45,5.26,6.22,3.33
+Meat (pork),B,12,drift,39,9.54,11.81,5.41
+Meat (pork),B,12,naive,39,5.38,6.37,3.4
+Meat (pork),B,12,snaive,39,5.38,6.37,3.4
+Onions (red),A,1,drift,17,7.3,9.94,0.91
+Onions (red),A,1,naive,17,7.2,9.97,0.9
+Onions (red),A,1,snaive,17,21.3,23.77,2.64
+Onions (red),A,3,drift,15,18.37,21.64,2.3
+Onions (red),A,3,naive,15,18.3,21.36,2.29
+Onions (red),A,3,snaive,15,20.67,22.89,2.56
+Onions (red),A,6,drift,12,21.62,24.32,2.65
+Onions (red),A,6,naive,12,20.45,23.57,2.51
+Onions (red),A,6,snaive,12,21.77,24.18,2.65
+Onions (red),A,12,drift,6,17.17,21.54,2.11
+Onions (red),A,12,naive,6,22.23,23.92,2.7
+Onions (red),A,12,snaive,6,22.23,23.92,2.7
+Onions (red),B,1,drift,50,10.98,15.71,0.92
+Onions (red),B,1,naive,50,10.91,15.5,0.91
+Onions (red),B,1,snaive,50,34.97,41.19,2.83
+Onions (red),B,3,drift,48,25.04,34.96,2.13
+Onions (red),B,3,naive,48,24.16,33.51,2.07
+Onions (red),B,3,snaive,48,35.98,41.97,2.94
+Onions (red),B,6,drift,45,35.43,48.14,3.03
+Onions (red),B,6,naive,45,31.84,44.15,2.75
+Onions (red),B,6,snaive,45,37.67,43.25,3.12
+Onions (red),B,12,drift,39,43.34,52.07,3.48
+Onions (red),B,12,naive,39,34.16,39.56,2.77
+Onions (red),B,12,snaive,39,34.16,39.56,2.77
+"Rice (regular, milled)",A,1,drift,17,2.25,2.9,1.94
+"Rice (regular, milled)",A,1,naive,17,2.27,2.85,2.01
+"Rice (regular, milled)",A,1,snaive,17,8.87,10.35,8.22
+"Rice (regular, milled)",A,3,drift,15,6.31,7.33,5.62
+"Rice (regular, milled)",A,3,naive,15,6.2,6.98,5.69
+"Rice (regular, milled)",A,3,snaive,15,9.32,10.83,9.21
+"Rice (regular, milled)",A,6,drift,12,10.2,11.72,9.47
+"Rice (regular, milled)",A,6,naive,12,9.48,10.58,9.02
+"Rice (regular, milled)",A,6,snaive,12,9.41,11.26,9.7
+"Rice (regular, milled)",A,12,drift,6,6.14,7.06,6.52
+"Rice (regular, milled)",A,12,naive,6,4.31,4.89,4.7
+"Rice (regular, milled)",A,12,snaive,6,4.31,4.89,4.7
+"Rice (regular, milled)",B,1,drift,50,1.92,2.77,1.97
+"Rice (regular, milled)",B,1,naive,50,1.86,2.77,1.94
+"Rice (regular, milled)",B,1,snaive,50,12.23,14.62,12.11
+"Rice (regular, milled)",B,3,drift,48,4.96,6.61,5.2
+"Rice (regular, milled)",B,3,naive,48,4.85,6.59,5.21
+"Rice (regular, milled)",B,3,snaive,48,12.6,14.9,13.12
+"Rice (regular, milled)",B,6,drift,45,9.45,11.76,10.59
+"Rice (regular, milled)",B,6,naive,45,9.07,11.39,10.5
+"Rice (regular, milled)",B,6,snaive,45,13.17,15.35,15.14
+"Rice (regular, milled)",B,12,drift,39,15.68,18.07,19.83
+"Rice (regular, milled)",B,12,naive,39,14.59,16.42,19.45
+"Rice (regular, milled)",B,12,snaive,39,14.59,16.42,19.45

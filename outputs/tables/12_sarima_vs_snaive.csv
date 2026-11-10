@@ -1,0 +1,10 @@
+window,metric,series,sarima_better_%,ties_%,median_ratio,ci_low,ci_high,verdict
+Pre-pandemic,MAE,153,73.2,0.7,0.72,0.67,0.79,sarima better
+Pre-pandemic,RMSE,153,74.5,0.7,0.74,0.7,0.82,sarima better
+Pre-pandemic,MAPE,153,73.2,0.7,0.73,0.66,0.79,sarima better
+Pandemic,MAE,2004,69.2,0.3,0.79,0.77,0.82,sarima better
+Pandemic,RMSE,2004,68.3,0.3,0.83,0.81,0.86,sarima better
+Pandemic,MAPE,2004,69.7,0.3,0.79,0.76,0.82,sarima better
+Post-pandemic,MAE,2005,68.0,0.1,0.82,0.8,0.84,sarima better
+Post-pandemic,RMSE,2005,66.3,0.1,0.86,0.84,0.88,sarima better
+Post-pandemic,MAPE,2005,69.0,0.1,0.81,0.78,0.83,sarima better

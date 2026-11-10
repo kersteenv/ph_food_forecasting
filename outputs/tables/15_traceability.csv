@@ -1,0 +1,19 @@
+question,evidence,steps,tables,figures,all_files_present
+Q1,"Data inventory: 66 commodities in file, 64 retail, 4 categories, 97 markets, 17 regions","1, 9","01_validation_summary.csv, retail_clean_flagged.csv",,True
+Q1,"Coverage over time, structural gaps, period definitions","2, 3","02_monthly_coverage.csv, 02_period_summary.csv, 03_markets_per_region_period.csv",02_monthly_coverage.png,True
+Q1,"Trends and fluctuations by commodity, category, region, market",9,"09_series_stats.csv, 09_trend_vol_by_category.csv, 09_trend_vol_by_commodity.csv, 09_trend_vol_by_region.csv, 09_trend_vol_by_market.csv",09_trend_vol_by_category.png,True
+Q1,Chain-linked indexes by category and region,9,"09_chain_index_category_A.csv, 09_chain_index_B.csv","09_chain_category.png, 09_chain_region.png",True
+Q1,"Price anomalies (flagged, not removed)","4, 9","04_flagged_jumps.csv, 09_flagged_jumps_all.csv, 09_flag_rate_by_commodity.csv",,True
+Q1,Commodity coverage and short-lived commodities; market profile and map,9B,"09B_commodity_coverage.csv, 09B_missing_commodities.csv, 09B_market_profile.csv, 09B_markets_without_prices.csv",09B_market_map.png,True
+Q1,"Volatility and stationarity, seasonality (national index, core five)","5, 6, 7","national_monthly_index.csv, 06_volatility_by_period.csv, 06_stationarity_tests.csv, 07_autocorr_summary.csv, 07_stl_strength.csv","05_index_comparison.png, 07_stl_seasonal.png",True
+Q2,Matched-series price changes between periods,10,"10_matched_series_pre_pan.csv, 10_matched_series_pan_post.csv, 10_matched_series_pre_post.csv",,True
+Q2,"Differences by category, region, commodity, market",10,"10_pan_post_by_category.csv, 10_pan_post_by_region.csv, 10_pan_post_by_commodity.csv, 10_pan_post_by_market.csv, 10_three_period_profile.csv","10_pan_post_by_category.png, 10_pan_post_by_region.png, 10_three_period_profile.png",True
+Q2,Category x region matrix; pre-pandemic regions,10B,"10B_category_region_cells.csv, 10B_category_region_matrix.csv, 10B_pre_pan_by_region_category.csv, 10B_pre_post_by_region_category.csv",10B_category_region_matrix.png,True
+Q2,Seasonality check on the period comparisons,13,"13_calendar_balanced_pan_post.csv, 13_calendar_balanced_pre_pan.csv, 13_calendar_balanced_pre_post.csv",,True
+Q2,"Counterfactual and structural-break check (supplementary, 3 markets)",14,"14_excess_by_series.csv, 14_excess_by_commodity.csv, 14_excess_by_market.csv, 14_break_tests.csv","14_counterfactual_examples.png, 14_excess_by_commodity.png",True
+Q3,"Window design, eligibility rules, forecast panel",11,"11_window_design.csv, 11_eligibility_by_series_window.csv, forecast_panel.csv","11_window_design.png, 11_eligible_by_category.png",True
+Q3,"Seasonal Naive and SARIMA accuracy (MAE, RMSE, MAPE)",12,"12_series_metrics.csv, 12_accuracy_by_window.csv, 12_accuracy_by_horizon.csv, 12_accuracy_by_category.csv, 12_accuracy_core_five.csv, forecast_results_paired.csv",12_accuracy.png,True
+Q3,Which model performs better: decision tables,"12, 12B","12_sarima_vs_snaive.csv, 12_sarima_vs_naive.csv, 12_naive_vs_snaive.csv, 12B_sarima_vs_naive_tie_robust.csv, 12_sarima_fit_log.csv",,True
+Q3,"Robustness: without onions, by category, training length, wider grid, drift",13,"13_no_onions_sarima_vs_snaive.csv, 13_no_onions_sarima_vs_naive.csv, 13_by_category_sarima_vs_naive.csv, 13_sarima_variants_summary.csv, 13_post25_vs_sarima62.csv",,True
+Q3,"Baseline groundwork (national index, drift and Naive baselines)",8,"forecasts_baselines.csv, 08_baseline_metrics.csv",08_baseline_mae_by_horizon.png,True
+Q4,"Interactive dashboard: trends, period comparisons, regional movements, forecasts","16, 17, 18",,,

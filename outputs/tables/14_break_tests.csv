@@ -1,0 +1,27 @@
+market,commodity,category,level_shift,slope_change_per_year,p_value
+Metro Manila,"Rice (regular, milled)",cereals and tubers,-0.12040744316282048,-0.0201001607891845,6.4563291654051724e-06
+Metro Manila,Garlic,vegetables and fruits,0.12377333925452627,-0.012053794204342466,0.0006754561065646092
+Metro Manila,Onions (red),vegetables and fruits,-0.10167098573334804,0.3695961747629477,0.08816165279611676
+Metro Manila,Onions (white),vegetables and fruits,0.006119091620513772,0.4351031804163672,0.0038453228230539427
+Metro Manila,"Meat (beef, chops with bones)","meat, fish and eggs",0.030926996827804698,-0.05173250016697976,0.0
+Metro Manila,"Meat (chicken, whole)","meat, fish and eggs",-0.0518633443917092,0.09606294186816511,0.002739513948103456
+Metro Manila,Meat (pork),"meat, fish and eggs",0.35831978582837787,-0.12155442073896325,0.0
+Metro Manila,Potatoes (Irish),cereals and tubers,-0.8297438902982819,0.41084554001459805,0.0017498336174163187
+Metro Manila,Beans (mung),pulses and nuts,0.17866523004655627,0.06410833256681264,0.0
+Zamboanga City,"Rice (regular, milled)",cereals and tubers,-0.23974062033130616,0.01736028497637432,1.5190536154729983e-05
+Zamboanga City,Eggs,"meat, fish and eggs",-0.3621543733049972,0.1461431121062685,0.0
+Zamboanga City,Onions (red),vegetables and fruits,-0.3920270022964445,0.5560551402948019,2.8657029041978532e-06
+Zamboanga City,Tomatoes,vegetables and fruits,1.4951134990791308,-0.0868229977390339,0.0
+Zamboanga City,"Meat (beef, chops with bones)","meat, fish and eggs",0.36053906350805054,0.031944398335676416,2.9976021664879227e-15
+Zamboanga City,"Meat (chicken, whole)","meat, fish and eggs",0.09705766042424457,0.007487466691563083,0.06152508706531645
+Zamboanga City,Meat (pork),"meat, fish and eggs",-0.049919920387021754,0.07387467852390028,0.024114326804608677
+Zamboanga City,Potatoes (Irish),cereals and tubers,-0.6335148234988347,0.4065671406685698,2.644330434620201e-07
+Zamboanga City,Carrots,vegetables and fruits,0.4447192350871907,0.0967151924373848,0.0010648420191996522
+Zamboanga City,Cabbage,vegetables and fruits,0.8755818983827697,-0.005234742125737206,0.0004300601916631397
+Zamboanga City,Beans (mung),pulses and nuts,-0.0350623405859396,-0.012212116571243409,0.7770466893775759
+Davao City,"Rice (regular, milled)",cereals and tubers,-0.30208826649751747,0.02251367609792501,1.618434376515765e-07
+Davao City,Onions (red),vegetables and fruits,-0.6288280423059902,0.7205801251095223,7.55406903696354e-09
+Davao City,"Meat (beef, chops with bones)","meat, fish and eggs",0.15984697304889084,-0.09179118109986464,1.2312373343092986e-13
+Davao City,"Meat (chicken, whole)","meat, fish and eggs",0.06892950909882054,0.028156266770838302,0.11192911398169403
+Davao City,Meat (pork),"meat, fish and eggs",-0.04728497662459343,0.07306845573197161,4.6170400835876535e-11
+Davao City,Potatoes (Irish),cereals and tubers,-0.3107268511304865,0.49959262068159077,3.3306690738754696e-16

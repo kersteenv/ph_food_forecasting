@@ -1,0 +1,10 @@
+window,metric,series,sarima_better_%,ties_%,median_ratio,ci_low,ci_high,verdict
+Pre-pandemic,MAE,153,24.8,43.8,1.0,1.0,1.0,no clear winner
+Pre-pandemic,RMSE,153,24.8,43.8,1.0,1.0,1.0,no clear winner
+Pre-pandemic,MAPE,153,24.8,43.8,1.0,1.0,1.0,no clear winner
+Pandemic,MAE,2004,20.3,52.3,1.0,1.0,1.0,no clear winner
+Pandemic,RMSE,2004,20.2,52.0,1.0,1.0,1.0,no clear winner
+Pandemic,MAPE,2004,20.2,52.0,1.0,1.0,1.0,no clear winner
+Post-pandemic,MAE,2005,32.6,34.2,1.0,1.0,1.0,no clear winner
+Post-pandemic,RMSE,2005,34.0,33.5,1.0,1.0,1.0,no clear winner
+Post-pandemic,MAPE,2005,33.2,33.5,1.0,1.0,1.0,no clear winner

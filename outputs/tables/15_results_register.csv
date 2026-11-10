@@ -1,0 +1,17 @@
+question,result,value,source
+Q1,Retail commodities / markets / regions / categories,64 / 97 / 17 / 4,retail_clean_flagged.csv
+Q1,Series with trend and volatility estimates,"2,725",09_series_stats.csv
+Q1,Median annualized trend by category (% per year),"cereals and tubers 5.01; meat, fish and eggs 5.60; pulses and nuts 3.45; vegetables and fruits 7.05",09_trend_vol_by_category.csv
+Q1,Median monthly volatility by category (%),"cereals and tubers 3.98; meat, fish and eggs 4.08; pulses and nuts 3.96; vegetables and fruits 12.96",09_trend_vol_by_category.csv
+Q1,"Flagged monthly changes, and share in vegetables and fruits","1,721; 95.8%",09_flagged_jumps_all.csv
+Q1,"Chain index at June 2026, May 2020 = 100","cereals and tubers 131.3; meat, fish and eggs 140.4; pulses and nuts 130.9; vegetables and fruits 134.9",09_chain_index_B.csv
+Q2,"Pandemic -> Post-pandemic median % change, matched series","18.8% (2,615 series, 83 markets)",10_matched_series_pan_post.csv
+Q2,Pandemic -> Post-pandemic by category: median [95% CI],"cereals and tubers 21.4 [20.4, 23.1]; meat, fish and eggs 16.0 [15.2, 16.7]; pulses and nuts 11.2 [8.5, 13.0]; vegetables and fruits 22.6 [21.2, 24.7]",10_pan_post_by_category.csv
+Q2,Pre-pandemic comparisons (3 markets): Pre -> Pandemic / Pre -> Post median %,43.9 / 73.4,10_matched_series_pre_*.csv
+Q2,"Largest category difference, calendar-balanced vs Step 10 (percentage points)",0.12,13_calendar_balanced_pan_post.csv
+Q2,Lowest and highest reliable category-region cells,lowest Region VIII / pulses and nuts 5.6%; highest Region III / vegetables and fruits 33.6%,10B_category_region_cells.csv
+Q2,"Pandemic excess over trend / flat level, median % (3 markets, Step 14)",13.9 / 43.4,14_excess_by_series.csv
+Q3,Pooled MAPE (%) by window: Seasonal Naive / Naive / SARIMA,Pandemic: 14.70 / 12.08 / 12.68; Post-pandemic: 14.09 / 11.94 / 11.82; Pre-pandemic: 12.88 / 10.10 / 10.19,12_accuracy_by_window.csv
+Q3,SARIMA vs Seasonal Naive (all three metrics agree?),Pandemic: sarima better; Post-pandemic: sarima better; Pre-pandemic: sarima better,12_sarima_vs_snaive.csv
+Q3,"SARIMA vs Naive, tie-robust (all three metrics agree?)",Pandemic: naive better; Post-pandemic: no clear winner; Pre-pandemic: mixed,12B_sarima_vs_naive_tie_robust.csv
+Q4,Dashboard,pending (Steps 16 to 18),-

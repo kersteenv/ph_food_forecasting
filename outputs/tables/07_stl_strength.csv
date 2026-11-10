@@ -1,0 +1,11 @@
+commodity,segment,seasonal_strength,trend_strength,peak_month,trough_month,seasonal_range_pct
+"Meat (beef, chops with bones)",A,0.06,0.98,6,4,1.8
+"Meat (beef, chops with bones)",B,0.38,0.99,5,12,2.3
+"Meat (chicken, whole)",A,0.0,0.72,8,4,4.5
+"Meat (chicken, whole)",B,0.47,0.94,2,11,6.6
+Meat (pork),A,0.23,0.93,1,12,3.9
+Meat (pork),B,0.4,0.95,4,11,4.4
+Onions (red),A,0.33,0.14,9,4,44.0
+Onions (red),B,0.5,0.54,12,5,45.0
+"Rice (regular, milled)",A,0.42,0.75,9,5,12.4
+"Rice (regular, milled)",B,0.0,0.65,4,11,12.5

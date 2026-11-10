@@ -1,0 +1,34 @@
+window,group,metric,series,ties_%,gm_ratio,ci,verdict
+Pre-pandemic,cereals and tubers,MAE,44,36.4,1.044,1.005-1.094,naive better
+Pre-pandemic,"meat, fish and eggs",MAE,61,50.8,1.13,0.973-1.438,no clear winner
+Pre-pandemic,vegetables and fruits,MAE,48,41.7,0.993,0.955-1.032,no clear winner
+Pre-pandemic,cereals and tubers,RMSE,44,36.4,1.032,0.997-1.071,no clear winner
+Pre-pandemic,"meat, fish and eggs",RMSE,61,50.8,1.128,0.978-1.443,no clear winner
+Pre-pandemic,vegetables and fruits,RMSE,48,41.7,0.998,0.964-1.032,no clear winner
+Pre-pandemic,cereals and tubers,MAPE,44,36.4,1.047,1.009-1.096,naive better
+Pre-pandemic,"meat, fish and eggs",MAPE,61,50.8,1.118,0.974-1.393,no clear winner
+Pre-pandemic,vegetables and fruits,MAPE,48,41.7,0.997,0.964-1.032,no clear winner
+Pandemic,cereals and tubers,MAE,226,50.0,1.087,1.031-1.168,naive better
+Pandemic,"meat, fish and eggs",MAE,748,50.3,1.079,1.049-1.113,naive better
+Pandemic,pulses and nuts,MAE,86,61.6,1.028,0.972-1.092,no clear winner
+Pandemic,vegetables and fruits,MAE,944,53.6,1.036,1.018-1.055,naive better
+Pandemic,cereals and tubers,RMSE,226,50.0,1.087,1.035-1.162,naive better
+Pandemic,"meat, fish and eggs",RMSE,748,50.0,1.077,1.048-1.109,naive better
+Pandemic,pulses and nuts,RMSE,86,61.6,1.02,0.967-1.082,no clear winner
+Pandemic,vegetables and fruits,RMSE,944,53.3,1.031,1.014-1.050,naive better
+Pandemic,cereals and tubers,MAPE,226,50.0,1.089,1.034-1.172,naive better
+Pandemic,"meat, fish and eggs",MAPE,748,50.0,1.078,1.050-1.110,naive better
+Pandemic,pulses and nuts,MAPE,86,61.6,1.029,0.973-1.091,no clear winner
+Pandemic,vegetables and fruits,MAPE,944,53.3,1.04,1.022-1.059,naive better
+Post-pandemic,cereals and tubers,MAE,226,56.6,1.025,1.006-1.048,naive better
+Post-pandemic,"meat, fish and eggs",MAE,748,37.0,1.038,1.011-1.071,naive better
+Post-pandemic,pulses and nuts,MAE,86,43.0,1.06,1.017-1.109,naive better
+Post-pandemic,vegetables and fruits,MAE,945,25.7,0.975,0.960-0.990,sarima better
+Post-pandemic,cereals and tubers,RMSE,226,54.9,1.026,1.010-1.046,naive better
+Post-pandemic,"meat, fish and eggs",RMSE,748,36.2,1.036,1.009-1.069,naive better
+Post-pandemic,pulses and nuts,RMSE,86,41.9,1.049,1.009-1.095,naive better
+Post-pandemic,vegetables and fruits,RMSE,945,25.4,0.98,0.966-0.994,sarima better
+Post-pandemic,cereals and tubers,MAPE,226,54.9,1.024,1.004-1.047,naive better
+Post-pandemic,"meat, fish and eggs",MAPE,748,36.2,1.04,1.012-1.076,naive better
+Post-pandemic,pulses and nuts,MAPE,86,41.9,1.06,1.017-1.108,naive better
+Post-pandemic,vegetables and fruits,MAPE,945,25.4,0.977,0.962-0.992,sarima better

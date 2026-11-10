@@ -1,0 +1,4 @@
+window,train,train_months,test,test_months
+Pre-pandemic,2016-01 to 2018-05,29,2018-06 to 2019-05,12
+Pandemic,2020-05 to 2022-05,25,2022-06 to 2023-05,12
+Post-pandemic,2020-05 to 2025-06,62,2025-07 to 2026-06,12

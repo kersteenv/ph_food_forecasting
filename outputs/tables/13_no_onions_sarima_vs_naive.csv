@@ -1,0 +1,10 @@
+window,group,metric,series,ties_%,gm_ratio,ci,verdict
+Pre-pandemic,all,MAE,137,45.3,1.06,0.990-1.196,no clear winner
+Pre-pandemic,all,RMSE,137,45.3,1.057,0.992-1.194,no clear winner
+Pre-pandemic,all,MAPE,137,45.3,1.056,0.991-1.180,no clear winner
+Pandemic,all,MAE,1948,52.4,1.059,1.042-1.077,naive better
+Pandemic,all,RMSE,1948,52.1,1.055,1.039-1.073,naive better
+Pandemic,all,MAPE,1948,52.1,1.061,1.044-1.079,naive better
+Post-pandemic,all,MAE,1949,35.0,1.007,0.994-1.022,no clear winner
+Post-pandemic,all,RMSE,1949,34.3,1.009,0.996-1.023,no clear winner
+Post-pandemic,all,MAPE,1949,34.3,1.008,0.995-1.023,no clear winner

@@ -1,0 +1,15 @@
+variant,vs,window,series,ties_%,gm_ratio_MAPE,ci,verdict_all_metrics,random_walk_share,fail_rate
+post25,naive,Post-pandemic,2005,50.7,1.028,1.015-1.039,naive better,0.503,0.0
+post25,snaive,Post-pandemic,2005,0.2,0.767,0.748-0.787,post25 better,0.503,0.0
+wide27,naive,Pandemic,2004,43.1,1.064,1.047-1.084,naive better,0.424,0.0
+wide27,naive,Post-pandemic,2005,23.3,0.996,0.982-1.011,no clear winner,0.225,0.0
+wide27,naive,Pre-pandemic,153,30.7,1.062,0.987-1.187,no clear winner,0.294,0.0
+wide27,snaive,Pandemic,2004,0.2,0.733,0.708-0.759,wide27 better,0.424,0.0
+wide27,snaive,Post-pandemic,2005,0.1,0.743,0.724-0.763,wide27 better,0.225,0.0
+wide27,snaive,Pre-pandemic,153,0.7,0.629,0.554-0.708,wide27 better,0.294,0.0
+drift12,naive,Pandemic,2004,0.0,1.319,1.270-1.375,naive better,0.456,0.0
+drift12,naive,Post-pandemic,2005,0.0,1.109,1.076-1.138,naive better,0.286,0.0
+drift12,naive,Pre-pandemic,153,0.0,1.402,1.164-1.724,naive better,0.386,0.0
+drift12,snaive,Pandemic,2004,0.0,0.909,0.872-0.950,drift12 better,0.456,0.0
+drift12,snaive,Post-pandemic,2005,0.0,0.828,0.805-0.849,drift12 better,0.286,0.0
+drift12,snaive,Pre-pandemic,153,0.0,0.83,0.727-0.955,drift12 better,0.386,0.0

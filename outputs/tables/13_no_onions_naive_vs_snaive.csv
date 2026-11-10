@@ -1,0 +1,10 @@
+window,group,metric,series,ties_%,gm_ratio,ci,verdict
+Pre-pandemic,all,MAE,137,1.5,0.589,0.493-0.687,naive better
+Pre-pandemic,all,RMSE,137,1.5,0.626,0.525-0.728,naive better
+Pre-pandemic,all,MAPE,137,1.5,0.589,0.496-0.679,naive better
+Pandemic,all,MAE,1948,0.3,0.684,0.658-0.710,naive better
+Pandemic,all,RMSE,1948,0.3,0.705,0.680-0.730,naive better
+Pandemic,all,MAPE,1948,0.3,0.676,0.650-0.702,naive better
+Post-pandemic,all,MAE,1949,0.4,0.761,0.739-0.785,naive better
+Post-pandemic,all,RMSE,1949,0.4,0.784,0.762-0.807,naive better
+Post-pandemic,all,MAPE,1949,0.4,0.747,0.725-0.771,naive better

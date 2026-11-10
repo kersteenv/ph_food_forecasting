@@ -1,0 +1,12 @@
+window,category,naive,sarima,snaive
+Pandemic,cereals and tubers,2.5,2.83,3.87
+Pandemic,"meat, fish and eggs",6.01,6.31,9.96
+Pandemic,pulses and nuts,5.08,5.15,6.86
+Pandemic,vegetables and fruits,14.43,14.81,17.68
+Post-pandemic,cereals and tubers,8.46,8.66,14.72
+Post-pandemic,"meat, fish and eggs",5.32,5.47,7.41
+Post-pandemic,pulses and nuts,5.05,5.62,8.45
+Post-pandemic,vegetables and fruits,15.77,15.64,17.55
+Pre-pandemic,cereals and tubers,8.28,8.63,8.93
+Pre-pandemic,"meat, fish and eggs",2.64,2.83,6.58
+Pre-pandemic,vegetables and fruits,19.12,17.49,21.22

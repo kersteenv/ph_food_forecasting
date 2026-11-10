@@ -1,0 +1,181 @@
+commodity,segment,target_period,h,method,n,MAE,RMSE,MASE
+"Meat (beef, chops with bones)",A,Pre-COVID,1,drift,17,0.7,0.94,1.22
+"Meat (beef, chops with bones)",A,Pre-COVID,1,naive,17,0.83,1.1,1.44
+"Meat (beef, chops with bones)",A,Pre-COVID,1,snaive,17,8.54,8.86,14.22
+"Meat (beef, chops with bones)",A,Pre-COVID,3,drift,15,0.98,1.35,1.72
+"Meat (beef, chops with bones)",A,Pre-COVID,3,naive,15,1.66,2.07,2.92
+"Meat (beef, chops with bones)",A,Pre-COVID,3,snaive,15,8.32,8.66,14.02
+"Meat (beef, chops with bones)",A,Pre-COVID,6,drift,12,1.25,1.56,2.17
+"Meat (beef, chops with bones)",A,Pre-COVID,6,naive,12,2.85,3.14,4.94
+"Meat (beef, chops with bones)",A,Pre-COVID,6,snaive,12,7.77,8.1,13.1
+"Meat (beef, chops with bones)",A,Pre-COVID,12,drift,6,1.99,2.2,3.48
+"Meat (beef, chops with bones)",A,Pre-COVID,12,naive,6,5.71,5.9,10.14
+"Meat (beef, chops with bones)",A,Pre-COVID,12,snaive,6,5.71,5.9,10.14
+"Meat (beef, chops with bones)",B,During-COVID,1,drift,13,0.65,0.73,0.6
+"Meat (beef, chops with bones)",B,During-COVID,1,naive,13,0.55,0.72,0.49
+"Meat (beef, chops with bones)",B,During-COVID,1,snaive,13,10.79,11.16,9.75
+"Meat (beef, chops with bones)",B,During-COVID,3,drift,11,1.84,2.04,1.68
+"Meat (beef, chops with bones)",B,During-COVID,3,naive,11,1.47,1.77,1.3
+"Meat (beef, chops with bones)",B,During-COVID,3,snaive,11,10.51,10.94,9.32
+"Meat (beef, chops with bones)",B,During-COVID,6,drift,8,4.18,4.25,3.66
+"Meat (beef, chops with bones)",B,During-COVID,6,naive,8,2.61,2.75,2.26
+"Meat (beef, chops with bones)",B,During-COVID,6,snaive,8,9.33,9.73,8.08
+"Meat (beef, chops with bones)",B,During-COVID,12,drift,2,8.02,8.04,6.78
+"Meat (beef, chops with bones)",B,During-COVID,12,naive,2,5.98,5.99,5.05
+"Meat (beef, chops with bones)",B,During-COVID,12,snaive,2,5.98,5.99,5.05
+"Meat (beef, chops with bones)",B,Post-COVID,1,drift,37,0.52,0.59,0.67
+"Meat (beef, chops with bones)",B,Post-COVID,1,naive,37,0.37,0.49,0.5
+"Meat (beef, chops with bones)",B,Post-COVID,1,snaive,37,3.8,4.12,5.16
+"Meat (beef, chops with bones)",B,Post-COVID,3,drift,37,1.42,1.61,1.77
+"Meat (beef, chops with bones)",B,Post-COVID,3,naive,37,0.96,1.25,1.31
+"Meat (beef, chops with bones)",B,Post-COVID,3,snaive,37,3.8,4.12,5.07
+"Meat (beef, chops with bones)",B,Post-COVID,6,drift,37,2.92,3.29,3.48
+"Meat (beef, chops with bones)",B,Post-COVID,6,naive,37,1.86,2.27,2.45
+"Meat (beef, chops with bones)",B,Post-COVID,6,snaive,37,3.8,4.12,4.95
+"Meat (beef, chops with bones)",B,Post-COVID,12,drift,37,6.37,7.11,6.9
+"Meat (beef, chops with bones)",B,Post-COVID,12,naive,37,3.8,4.12,4.65
+"Meat (beef, chops with bones)",B,Post-COVID,12,snaive,37,3.8,4.12,4.65
+"Meat (chicken, whole)",A,Pre-COVID,1,drift,17,0.87,1.3,1.03
+"Meat (chicken, whole)",A,Pre-COVID,1,naive,17,0.81,1.27,0.96
+"Meat (chicken, whole)",A,Pre-COVID,1,snaive,17,4.77,5.27,5.51
+"Meat (chicken, whole)",A,Pre-COVID,3,drift,15,1.88,2.45,2.22
+"Meat (chicken, whole)",A,Pre-COVID,3,naive,15,1.65,2.1,1.95
+"Meat (chicken, whole)",A,Pre-COVID,3,snaive,15,4.56,5.1,5.27
+"Meat (chicken, whole)",A,Pre-COVID,6,drift,12,2.9,3.94,3.41
+"Meat (chicken, whole)",A,Pre-COVID,6,naive,12,2.56,2.95,2.98
+"Meat (chicken, whole)",A,Pre-COVID,6,snaive,12,4.72,5.36,5.32
+"Meat (chicken, whole)",A,Pre-COVID,12,drift,6,5.54,6.08,6.05
+"Meat (chicken, whole)",A,Pre-COVID,12,naive,6,2.7,2.79,2.97
+"Meat (chicken, whole)",A,Pre-COVID,12,snaive,6,2.7,2.79,2.97
+"Meat (chicken, whole)",B,During-COVID,1,drift,13,2.14,2.5,1.01
+"Meat (chicken, whole)",B,During-COVID,1,naive,13,1.84,2.51,0.87
+"Meat (chicken, whole)",B,During-COVID,1,snaive,13,12.6,13.37,5.87
+"Meat (chicken, whole)",B,During-COVID,3,drift,11,4.59,5.33,2.15
+"Meat (chicken, whole)",B,During-COVID,3,naive,11,4.14,5.21,1.96
+"Meat (chicken, whole)",B,During-COVID,3,snaive,11,13.73,14.21,6.42
+"Meat (chicken, whole)",B,During-COVID,6,drift,8,3.66,4.44,1.67
+"Meat (chicken, whole)",B,During-COVID,6,naive,8,2.36,2.99,1.12
+"Meat (chicken, whole)",B,During-COVID,6,snaive,8,12.31,12.75,5.76
+"Meat (chicken, whole)",B,During-COVID,12,drift,2,2.98,3.03,1.47
+"Meat (chicken, whole)",B,During-COVID,12,naive,2,7.47,7.5,3.66
+"Meat (chicken, whole)",B,During-COVID,12,snaive,2,7.47,7.5,3.66
+"Meat (chicken, whole)",B,Post-COVID,1,drift,37,1.13,1.28,0.68
+"Meat (chicken, whole)",B,Post-COVID,1,naive,37,0.98,1.22,0.59
+"Meat (chicken, whole)",B,Post-COVID,1,snaive,37,3.93,5.0,2.4
+"Meat (chicken, whole)",B,Post-COVID,3,drift,37,2.47,2.92,1.45
+"Meat (chicken, whole)",B,Post-COVID,3,naive,37,1.98,2.53,1.19
+"Meat (chicken, whole)",B,Post-COVID,3,snaive,37,3.93,5.0,2.37
+"Meat (chicken, whole)",B,Post-COVID,6,drift,37,3.88,4.67,2.17
+"Meat (chicken, whole)",B,Post-COVID,6,naive,37,2.76,3.28,1.61
+"Meat (chicken, whole)",B,Post-COVID,6,snaive,37,3.93,5.0,2.31
+"Meat (chicken, whole)",B,Post-COVID,12,drift,37,7.54,8.94,3.93
+"Meat (chicken, whole)",B,Post-COVID,12,naive,37,3.93,5.0,2.19
+"Meat (chicken, whole)",B,Post-COVID,12,snaive,37,3.93,5.0,2.19
+Meat (pork),A,Pre-COVID,1,drift,17,0.7,0.76,1.06
+Meat (pork),A,Pre-COVID,1,naive,17,0.57,0.79,0.87
+Meat (pork),A,Pre-COVID,1,snaive,17,6.17,6.73,9.29
+Meat (pork),A,Pre-COVID,3,drift,15,1.79,1.9,2.7
+Meat (pork),A,Pre-COVID,3,naive,15,1.59,2.02,2.44
+Meat (pork),A,Pre-COVID,3,snaive,15,5.59,6.04,8.32
+Meat (pork),A,Pre-COVID,6,drift,12,3.09,3.33,4.57
+Meat (pork),A,Pre-COVID,6,naive,12,2.67,3.46,4.1
+Meat (pork),A,Pre-COVID,6,snaive,12,5.08,5.5,7.55
+Meat (pork),A,Pre-COVID,12,drift,6,2.65,3.31,3.94
+Meat (pork),A,Pre-COVID,12,naive,6,3.7,4.31,5.8
+Meat (pork),A,Pre-COVID,12,snaive,6,3.7,4.31,5.8
+Meat (pork),B,During-COVID,1,drift,13,1.3,1.65,0.65
+Meat (pork),B,During-COVID,1,naive,13,0.92,1.13,0.47
+Meat (pork),B,During-COVID,1,snaive,13,4.93,5.51,2.42
+Meat (pork),B,During-COVID,3,drift,11,4.23,5.11,2.05
+Meat (pork),B,During-COVID,3,naive,11,2.3,2.67,1.16
+Meat (pork),B,During-COVID,3,snaive,11,4.64,5.3,2.24
+Meat (pork),B,During-COVID,6,drift,8,9.79,10.68,4.65
+Meat (pork),B,During-COVID,6,naive,8,3.19,3.46,1.55
+Meat (pork),B,During-COVID,6,snaive,8,3.74,4.47,1.76
+Meat (pork),B,During-COVID,12,drift,2,18.38,18.38,8.29
+Meat (pork),B,During-COVID,12,naive,2,1.46,1.47,0.66
+Meat (pork),B,During-COVID,12,snaive,2,1.46,1.47,0.66
+Meat (pork),B,Post-COVID,1,drift,37,1.32,1.63,0.86
+Meat (pork),B,Post-COVID,1,naive,37,1.12,1.46,0.74
+Meat (pork),B,Post-COVID,1,snaive,37,5.59,6.54,3.72
+Meat (pork),B,Post-COVID,3,drift,37,3.63,4.37,2.36
+Meat (pork),B,Post-COVID,3,naive,37,2.99,3.77,1.97
+Meat (pork),B,Post-COVID,3,snaive,37,5.59,6.54,3.71
+Meat (pork),B,Post-COVID,6,drift,37,6.38,7.46,4.09
+Meat (pork),B,Post-COVID,6,naive,37,4.81,6.05,3.15
+Meat (pork),B,Post-COVID,6,snaive,37,5.59,6.54,3.67
+Meat (pork),B,Post-COVID,12,drift,37,9.06,11.34,5.26
+Meat (pork),B,Post-COVID,12,naive,37,5.59,6.54,3.55
+Meat (pork),B,Post-COVID,12,snaive,37,5.59,6.54,3.55
+Onions (red),A,Pre-COVID,1,drift,17,7.3,9.94,0.91
+Onions (red),A,Pre-COVID,1,naive,17,7.2,9.97,0.9
+Onions (red),A,Pre-COVID,1,snaive,17,21.3,23.77,2.64
+Onions (red),A,Pre-COVID,3,drift,15,18.37,21.64,2.3
+Onions (red),A,Pre-COVID,3,naive,15,18.3,21.36,2.29
+Onions (red),A,Pre-COVID,3,snaive,15,20.67,22.89,2.56
+Onions (red),A,Pre-COVID,6,drift,12,21.62,24.32,2.65
+Onions (red),A,Pre-COVID,6,naive,12,20.45,23.57,2.51
+Onions (red),A,Pre-COVID,6,snaive,12,21.77,24.18,2.65
+Onions (red),A,Pre-COVID,12,drift,6,17.17,21.54,2.11
+Onions (red),A,Pre-COVID,12,naive,6,22.23,23.92,2.7
+Onions (red),A,Pre-COVID,12,snaive,6,22.23,23.92,2.7
+Onions (red),B,During-COVID,1,drift,13,21.62,25.75,1.79
+Onions (red),B,During-COVID,1,naive,13,21.63,25.45,1.8
+Onions (red),B,During-COVID,1,snaive,13,40.16,47.71,3.3
+Onions (red),B,During-COVID,3,drift,11,54.91,61.82,4.81
+Onions (red),B,During-COVID,3,naive,11,53.19,59.39,4.69
+Onions (red),B,During-COVID,3,snaive,11,45.5,51.63,4.01
+Onions (red),B,During-COVID,6,drift,8,74.73,83.11,7.05
+Onions (red),B,During-COVID,6,naive,8,71.75,81.87,6.79
+Onions (red),B,During-COVID,6,snaive,8,58.59,60.15,5.49
+Onions (red),B,During-COVID,12,drift,2,59.09,59.97,5.5
+Onions (red),B,During-COVID,12,naive,2,52.99,53.88,4.94
+Onions (red),B,During-COVID,12,snaive,2,52.99,53.88,4.94
+Onions (red),B,Post-COVID,1,drift,37,7.24,10.03,0.61
+Onions (red),B,Post-COVID,1,naive,37,7.15,9.85,0.6
+Onions (red),B,Post-COVID,1,snaive,37,33.15,38.63,2.67
+Onions (red),B,Post-COVID,3,drift,37,16.16,21.21,1.33
+Onions (red),B,Post-COVID,3,naive,37,15.53,20.21,1.29
+Onions (red),B,Post-COVID,3,snaive,37,33.15,38.63,2.62
+Onions (red),B,Post-COVID,6,drift,37,26.94,36.4,2.16
+Onions (red),B,Post-COVID,6,naive,37,23.21,30.36,1.88
+Onions (red),B,Post-COVID,6,snaive,37,33.15,38.63,2.6
+Onions (red),B,Post-COVID,12,drift,37,42.49,51.6,3.37
+Onions (red),B,Post-COVID,12,naive,37,33.15,38.63,2.66
+Onions (red),B,Post-COVID,12,snaive,37,33.15,38.63,2.66
+"Rice (regular, milled)",A,Pre-COVID,1,drift,17,2.25,2.9,1.94
+"Rice (regular, milled)",A,Pre-COVID,1,naive,17,2.27,2.85,2.01
+"Rice (regular, milled)",A,Pre-COVID,1,snaive,17,8.87,10.35,8.22
+"Rice (regular, milled)",A,Pre-COVID,3,drift,15,6.31,7.33,5.62
+"Rice (regular, milled)",A,Pre-COVID,3,naive,15,6.2,6.98,5.69
+"Rice (regular, milled)",A,Pre-COVID,3,snaive,15,9.32,10.83,9.21
+"Rice (regular, milled)",A,Pre-COVID,6,drift,12,10.2,11.72,9.47
+"Rice (regular, milled)",A,Pre-COVID,6,naive,12,9.48,10.58,9.02
+"Rice (regular, milled)",A,Pre-COVID,6,snaive,12,9.41,11.26,9.7
+"Rice (regular, milled)",A,Pre-COVID,12,drift,6,6.14,7.06,6.52
+"Rice (regular, milled)",A,Pre-COVID,12,naive,6,4.31,4.89,4.7
+"Rice (regular, milled)",A,Pre-COVID,12,snaive,6,4.31,4.89,4.7
+"Rice (regular, milled)",B,During-COVID,1,drift,13,0.32,0.41,0.57
+"Rice (regular, milled)",B,During-COVID,1,naive,13,0.4,0.49,0.7
+"Rice (regular, milled)",B,During-COVID,1,snaive,13,3.9,3.97,6.78
+"Rice (regular, milled)",B,During-COVID,3,drift,11,0.73,0.98,1.28
+"Rice (regular, milled)",B,During-COVID,3,naive,11,0.96,1.2,1.67
+"Rice (regular, milled)",B,During-COVID,3,snaive,11,4.0,4.06,6.84
+"Rice (regular, milled)",B,During-COVID,6,drift,8,0.96,1.15,1.6
+"Rice (regular, milled)",B,During-COVID,6,naive,8,1.51,1.65,2.52
+"Rice (regular, milled)",B,During-COVID,6,snaive,8,3.99,4.08,6.62
+"Rice (regular, milled)",B,During-COVID,12,drift,2,3.35,3.35,5.35
+"Rice (regular, milled)",B,During-COVID,12,naive,2,4.2,4.2,6.7
+"Rice (regular, milled)",B,During-COVID,12,snaive,2,4.2,4.2,6.7
+"Rice (regular, milled)",B,Post-COVID,1,drift,37,2.48,3.21,2.46
+"Rice (regular, milled)",B,Post-COVID,1,naive,37,2.38,3.21,2.38
+"Rice (regular, milled)",B,Post-COVID,1,snaive,37,15.15,16.83,13.98
+"Rice (regular, milled)",B,Post-COVID,3,drift,37,6.22,7.51,6.37
+"Rice (regular, milled)",B,Post-COVID,3,naive,37,6.01,7.48,6.26
+"Rice (regular, milled)",B,Post-COVID,3,snaive,37,15.15,16.83,14.99
+"Rice (regular, milled)",B,Post-COVID,6,drift,37,11.29,12.96,12.53
+"Rice (regular, milled)",B,Post-COVID,6,naive,37,10.71,12.54,12.23
+"Rice (regular, milled)",B,Post-COVID,6,snaive,37,15.15,16.83,16.98
+"Rice (regular, milled)",B,Post-COVID,12,drift,37,16.34,18.53,20.61
+"Rice (regular, milled)",B,Post-COVID,12,naive,37,15.15,16.83,20.14
+"Rice (regular, milled)",B,Post-COVID,12,snaive,37,15.15,16.83,20.14

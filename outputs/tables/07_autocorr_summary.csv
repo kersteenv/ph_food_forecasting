@@ -1,0 +1,11 @@
+commodity,segment,n,acf_lag1,acf_lag12,ljungbox12_p,band_95
+"Meat (beef, chops with bones)",A,40,0.12,-0.13,0.568,0.31
+"Meat (chicken, whole)",A,40,0.39,-0.29,0.006,0.31
+Meat (pork),A,40,0.59,-0.01,0.007,0.31
+Onions (red),A,40,0.41,0.01,0.272,0.31
+"Rice (regular, milled)",A,40,0.46,-0.07,0.163,0.31
+"Meat (beef, chops with bones)",B,73,0.41,0.3,0.0,0.23
+"Meat (chicken, whole)",B,73,0.53,0.09,0.0,0.23
+Meat (pork),B,73,0.66,0.18,0.0,0.23
+Onions (red),B,73,0.42,0.37,0.0,0.23
+"Rice (regular, milled)",B,73,0.41,-0.17,0.0,0.23

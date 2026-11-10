@@ -1,0 +1,60 @@
+category,commodity,series,median_price_pandemic,median_price_post,median_pct
+cereals and tubers,Maize (yellow),13,25.9,33.8,24.5
+cereals and tubers,Potatoes (Irish),76,99.9,136.2,38.4
+cereals and tubers,"Rice (regular, milled)",82,37.8,46.4,20.2
+cereals and tubers,Rice (special),79,50.6,57.6,15.8
+cereals and tubers,Rice (well milled),81,42.2,51.6,21.3
+cereals and tubers,Semolina (white),11,35.2,41.8,20.5
+cereals and tubers,Semolina (yellow),10,31.1,34.3,11.4
+cereals and tubers,Sweet potatoes,11,52.7,63.4,29.5
+cereals and tubers,Taro,7,46.9,51.7,14.5
+"meat, fish and eggs",Anchovies,64,137.7,154.5,9.7
+"meat, fish and eggs",Crab,50,316.1,360.5,13.5
+"meat, fish and eggs",Eggs,71,7.1,8.7,23.0
+"meat, fish and eggs",Eggs (duck),12,8.8,10.9,21.1
+"meat, fish and eggs",Fish (frigate tuna),7,186.7,214.3,9.7
+"meat, fish and eggs","Fish (mackerel, fresh)",10,208.7,251.3,12.0
+"meat, fish and eggs",Fish (milkfish),76,188.8,222.2,16.3
+"meat, fish and eggs",Fish (redbelly yellowtail fusilier),22,284.0,327.1,15.9
+"meat, fish and eggs",Fish (roundscad),71,188.5,214.4,16.8
+"meat, fish and eggs",Fish (slipmouth),20,174.7,197.7,12.0
+"meat, fish and eggs",Fish (threadfin bream),16,285.2,301.0,12.5
+"meat, fish and eggs",Fish (tilapia),69,145.6,172.5,15.8
+"meat, fish and eggs",Meat (beef),62,356.2,424.5,17.7
+"meat, fish and eggs","Meat (beef, chops with bones)",73,295.5,352.5,18.8
+"meat, fish and eggs","Meat (chicken, whole)",64,182.0,205.1,14.2
+"meat, fish and eggs",Meat (pork),78,291.2,336.9,16.8
+"meat, fish and eggs","Meat (pork, hock)",4,241.0,289.7,14.9
+"meat, fish and eggs","Meat (pork, with bones)",73,258.6,306.9,16.3
+"meat, fish and eggs",Shrimp (endeavor),17,406.6,452.7,4.2
+"meat, fish and eggs",Shrimp (tiger),56,550.3,573.2,5.4
+pulses and nuts,Beans (mung),54,100.0,108.2,8.4
+pulses and nuts,Groundnuts (shelled),43,102.3,115.9,11.9
+pulses and nuts,Groundnuts (unshelled),13,88.8,111.5,19.7
+vegetables and fruits,Bananas (lakatan),66,70.7,90.4,28.6
+vegetables and fruits,Bananas (latundan),55,43.0,51.0,16.5
+vegetables and fruits,Bananas (saba),25,37.6,39.8,8.8
+vegetables and fruits,"Beans (green, fresh)",37,92.3,127.6,38.0
+vegetables and fruits,Beans (string),56,68.1,91.9,34.5
+vegetables and fruits,Bitter melon,76,90.7,106.3,14.2
+vegetables and fruits,Bottle gourd,28,33.2,42.2,26.1
+vegetables and fruits,Cabbage,75,77.8,87.7,15.4
+vegetables and fruits,Cabbage (chinese),45,73.3,99.2,34.0
+vegetables and fruits,Calamansi,60,67.6,88.7,19.5
+vegetables and fruits,Carrots,76,96.1,135.1,42.9
+vegetables and fruits,Choko,51,36.4,50.1,38.4
+vegetables and fruits,Coconut,72,22.9,27.8,17.2
+vegetables and fruits,Eggplants,81,71.7,86.9,19.4
+vegetables and fruits,Garlic,38,137.8,161.8,20.5
+vegetables and fruits,Ginger,65,117.2,150.5,24.8
+vegetables and fruits,Mandarins,11,51.4,64.0,22.9
+vegetables and fruits,Mangoes (carabao),48,140.9,157.3,10.8
+vegetables and fruits,Mangoes (piko),4,113.3,142.2,19.5
+vegetables and fruits,Onions (red),67,160.8,162.1,-1.3
+vegetables and fruits,Onions (white),6,134.5,143.4,3.4
+vegetables and fruits,Papaya,4,31.8,39.0,18.7
+vegetables and fruits,Pineapples,13,54.6,70.8,19.4
+vegetables and fruits,Squashes,66,38.6,46.1,24.0
+vegetables and fruits,Sweet Potato leaves,10,32.3,48.3,28.7
+vegetables and fruits,Tomatoes,76,68.6,92.0,36.2
+vegetables and fruits,Water spinach,9,31.6,42.4,21.1

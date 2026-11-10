@@ -1,0 +1,37 @@
+market_id,commodity_id,category,commodity,market,admin1,cal_months,p1,p2,pct_chg
+167,80,cereals and tubers,"Rice (regular, milled)",Metro Manila,National Capital region,12,38.04194444444445,43.34430555555556,13.938196873334263
+167,87,cereals and tubers,Sweet potatoes,Metro Manila,National Capital region,12,50.84125,83.05618055555556,63.363765752328185
+167,92,"meat, fish and eggs",Eggs,Metro Manila,National Capital region,12,5.198333333333334,8.275277777777776,59.190980014961994
+167,105,vegetables and fruits,Garlic,Metro Manila,National Capital region,12,271.92597222222213,321.48312500000003,18.224501460007293
+167,110,vegetables and fruits,Onions (red),Metro Manila,National Capital region,12,79.59666666666668,137.329375,72.53156539218557
+167,111,vegetables and fruits,Onions (white),Metro Manila,National Capital region,12,67.765,119.58013888888888,76.46298072587454
+167,114,vegetables and fruits,Tomatoes,Metro Manila,National Capital region,12,54.78541666666667,100.93479166666667,84.23660493592425
+167,123,"meat, fish and eggs","Meat (beef, chops with bones)",Metro Manila,National Capital region,12,281.8588888888889,411.93381944444445,46.14895455961021
+167,125,"meat, fish and eggs","Meat (chicken, whole)",Metro Manila,National Capital region,12,144.32944444444442,195.1178472222222,35.18921795429439
+167,140,"meat, fish and eggs",Meat (pork),Metro Manila,National Capital region,12,200.76104166666667,343.96076388888883,71.32844153099367
+167,148,cereals and tubers,Potatoes (Irish),Metro Manila,National Capital region,12,64.56472222222223,123.88875,91.88303726235085
+167,166,vegetables and fruits,Carrots,Metro Manila,National Capital region,12,78.21958333333333,137.76354166666667,76.12410574930617
+167,181,vegetables and fruits,Cabbage,Metro Manila,National Capital region,12,72.05958333333332,93.26319444444444,29.425109236376535
+167,393,pulses and nuts,Beans (mung),Metro Manila,National Capital region,12,89.40180555555555,122.9227777777778,37.49473739810752
+178,80,cereals and tubers,"Rice (regular, milled)",Zamboanga City,Region IX,12,39.609027777777776,46.14881944444445,16.510861370689224
+178,92,"meat, fish and eggs",Eggs,Zamboanga City,Region IX,12,5.970277777777778,8.274652777777776,38.59745033266642
+178,110,vegetables and fruits,Onions (red),Zamboanga City,Region IX,12,89.24805555555555,167.36263888888888,87.52524953858315
+178,114,vegetables and fruits,Tomatoes,Zamboanga City,Region IX,12,37.02868055555556,85.5676388888889,131.08476349976462
+178,123,"meat, fish and eggs","Meat (beef, chops with bones)",Zamboanga City,Region IX,12,161.9847916666667,355.4311111111112,119.42251951807891
+178,125,"meat, fish and eggs","Meat (chicken, whole)",Zamboanga City,Region IX,12,146.01416666666668,199.9528472222222,36.940717320046936
+178,140,"meat, fish and eggs",Meat (pork),Zamboanga City,Region IX,12,189.68083333333334,338.5675694444445,78.49329502336528
+178,148,cereals and tubers,Potatoes (Irish),Zamboanga City,Region IX,12,78.95597222222223,143.34618055555555,81.5520428931032
+178,166,vegetables and fruits,Carrots,Zamboanga City,Region IX,12,67.91715277777779,132.78368055555555,95.50831435766816
+178,181,vegetables and fruits,Cabbage,Zamboanga City,Region IX,12,55.83152777777778,105.72833333333331,89.37030301974936
+178,393,pulses and nuts,Beans (mung),Zamboanga City,Region IX,12,80.04208333333334,107.20125,33.93110915612099
+180,80,cereals and tubers,"Rice (regular, milled)",Davao City,Region XI,12,41.26055555555556,51.624166666666675,25.117478355706947
+180,92,"meat, fish and eggs",Eggs,Davao City,Region XI,12,5.8379166666666675,8.945208333333333,53.226036685461395
+180,110,vegetables and fruits,Onions (red),Davao City,Region XI,12,91.06305555555555,198.1052083333333,117.5472886613976
+180,114,vegetables and fruits,Tomatoes,Davao City,Region XI,12,31.001249999999995,94.66590277777777,205.36156696190568
+180,123,"meat, fish and eggs","Meat (beef, chops with bones)",Davao City,Region XI,12,198.00298611111108,392.0776388888889,98.01602318708018
+180,125,"meat, fish and eggs","Meat (chicken, whole)",Davao City,Region XI,12,139.59201388888889,202.504375,45.068739506249614
+180,140,"meat, fish and eggs",Meat (pork),Davao City,Region XI,12,197.13888888888889,356.4122916666667,80.7924827391856
+180,148,cereals and tubers,Potatoes (Irish),Davao City,Region XI,12,65.99576388888889,172.1338888888889,160.82566326331974
+180,166,vegetables and fruits,Carrots,Davao City,Region XI,12,46.98208333333334,143.2903472222222,204.9893428641532
+180,181,vegetables and fruits,Cabbage,Davao City,Region XI,12,44.68666666666667,94.0048611111111,110.36445124073792
+180,393,pulses and nuts,Beans (mung),Davao City,Region XI,12,74.27569444444445,120.50194444444442,62.23603878194035

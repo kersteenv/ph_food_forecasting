@@ -1,0 +1,46 @@
+commodity,window,model,series,MAE_PHP,RMSE_PHP,MAPE
+"Meat (beef, chops with bones)",Pandemic,naive,67,11.77,13.96,3.48
+"Meat (beef, chops with bones)",Pandemic,sarima,67,14.53,18.1,4.64
+"Meat (beef, chops with bones)",Pandemic,snaive,67,33.85,36.67,9.64
+"Meat (beef, chops with bones)",Post-pandemic,naive,67,8.42,11.05,2.43
+"Meat (beef, chops with bones)",Post-pandemic,sarima,67,9.71,11.5,2.56
+"Meat (beef, chops with bones)",Post-pandemic,snaive,67,21.72,24.71,5.73
+"Meat (beef, chops with bones)",Pre-pandemic,naive,15,6.7,7.77,3.25
+"Meat (beef, chops with bones)",Pre-pandemic,sarima,15,6.7,8.1,3.25
+"Meat (beef, chops with bones)",Pre-pandemic,snaive,15,17.69,21.43,7.54
+"Meat (chicken, whole)",Pandemic,naive,59,14.47,16.07,7.13
+"Meat (chicken, whole)",Pandemic,sarima,59,15.06,17.3,7.36
+"Meat (chicken, whole)",Pandemic,snaive,59,26.18,27.73,12.84
+"Meat (chicken, whole)",Post-pandemic,naive,59,6.44,8.08,2.93
+"Meat (chicken, whole)",Post-pandemic,sarima,59,6.62,8.52,3.03
+"Meat (chicken, whole)",Post-pandemic,snaive,59,9.54,11.93,4.73
+"Meat (chicken, whole)",Pre-pandemic,naive,16,3.79,4.32,2.54
+"Meat (chicken, whole)",Pre-pandemic,sarima,16,3.68,4.31,2.47
+"Meat (chicken, whole)",Pre-pandemic,snaive,16,7.86,9.87,4.76
+Meat (pork),Pandemic,naive,63,15.54,17.81,5.28
+Meat (pork),Pandemic,sarima,63,17.05,18.74,5.33
+Meat (pork),Pandemic,snaive,63,26.49,30.36,8.64
+Meat (pork),Post-pandemic,naive,63,27.19,30.03,7.65
+Meat (pork),Post-pandemic,sarima,63,28.33,31.13,8.29
+Meat (pork),Post-pandemic,snaive,63,30.21,36.52,9.01
+Meat (pork),Pre-pandemic,naive,17,5.05,5.34,2.25
+Meat (pork),Pre-pandemic,sarima,17,5.55,5.85,2.27
+Meat (pork),Pre-pandemic,snaive,17,9.53,11.84,4.09
+Onions (red),Pandemic,naive,56,119.23,163.45,46.89
+Onions (red),Pandemic,sarima,56,118.84,161.8,44.18
+Onions (red),Pandemic,snaive,56,85.92,116.23,34.39
+Onions (red),Post-pandemic,naive,56,30.21,41.1,16.99
+Onions (red),Post-pandemic,sarima,56,30.74,41.07,16.79
+Onions (red),Post-pandemic,snaive,56,40.57,51.84,23.11
+Onions (red),Pre-pandemic,naive,16,11.99,16.27,18.58
+Onions (red),Pre-pandemic,sarima,16,13.1,16.15,16.99
+Onions (red),Pre-pandemic,snaive,16,19.23,24.01,23.94
+"Rice (regular, milled)",Pandemic,naive,74,1.0,1.19,2.45
+"Rice (regular, milled)",Pandemic,sarima,74,1.02,1.25,2.68
+"Rice (regular, milled)",Pandemic,snaive,74,1.43,1.71,3.79
+"Rice (regular, milled)",Post-pandemic,naive,74,4.33,5.47,9.25
+"Rice (regular, milled)",Post-pandemic,sarima,74,4.37,5.56,9.67
+"Rice (regular, milled)",Post-pandemic,snaive,74,8.07,8.91,18.97
+"Rice (regular, milled)",Pre-pandemic,naive,11,2.18,2.65,5.12
+"Rice (regular, milled)",Pre-pandemic,sarima,11,2.35,2.69,5.74
+"Rice (regular, milled)",Pre-pandemic,snaive,11,3.59,4.09,8.56

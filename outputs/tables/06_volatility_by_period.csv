@@ -1,0 +1,16 @@
+commodity,period,count,mean,std
+"Meat (beef, chops with bones)",During-COVID,36,0.93,1.0
+"Meat (beef, chops with bones)",Post-COVID,37,0.31,0.39
+"Meat (beef, chops with bones)",Pre-COVID,40,0.51,0.71
+"Meat (chicken, whole)",During-COVID,36,0.77,2.65
+"Meat (chicken, whole)",Post-COVID,37,0.17,1.22
+"Meat (chicken, whole)",Pre-COVID,40,0.18,1.22
+Meat (pork),During-COVID,36,1.13,2.11
+Meat (pork),Post-COVID,37,0.11,1.47
+Meat (pork),Pre-COVID,40,0.36,0.95
+Onions (red),During-COVID,36,1.38,19.05
+Onions (red),Post-COVID,37,-0.92,9.94
+Onions (red),Pre-COVID,40,-1.33,10.35
+"Rice (regular, milled)",During-COVID,36,0.17,0.81
+"Rice (regular, milled)",Post-COVID,37,0.55,3.21
+"Rice (regular, milled)",Pre-COVID,40,0.11,2.06

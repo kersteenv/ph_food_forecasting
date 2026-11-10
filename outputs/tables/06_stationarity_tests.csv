@@ -1,0 +1,21 @@
+commodity,segment,series,n,adf_p,kpss_p,verdict
+"Meat (beef, chops with bones)",A,log level,41,0.976,0.01,non-stationary
+"Meat (beef, chops with bones)",A,first difference,40,0.0,0.1,stationary
+"Meat (chicken, whole)",A,log level,41,0.239,0.01,non-stationary
+"Meat (chicken, whole)",A,first difference,40,0.001,0.1,stationary
+Meat (pork),A,log level,41,0.655,0.01,non-stationary
+Meat (pork),A,first difference,40,0.032,0.1,stationary
+Onions (red),A,log level,41,0.15,0.1,inconclusive
+Onions (red),A,first difference,40,0.0,0.1,stationary
+"Rice (regular, milled)",A,log level,41,0.361,0.026,non-stationary
+"Rice (regular, milled)",A,first difference,40,0.002,0.1,stationary
+"Meat (beef, chops with bones)",B,log level,74,0.615,0.01,non-stationary
+"Meat (beef, chops with bones)",B,first difference,73,0.576,0.024,non-stationary
+"Meat (chicken, whole)",B,log level,74,0.349,0.01,non-stationary
+"Meat (chicken, whole)",B,first difference,73,0.0,0.1,stationary
+Meat (pork),B,log level,74,0.392,0.01,non-stationary
+Meat (pork),B,first difference,73,0.001,0.098,stationary
+Onions (red),B,log level,74,0.001,0.1,stationary
+Onions (red),B,first difference,73,0.0,0.1,stationary
+"Rice (regular, milled)",B,log level,74,0.322,0.01,non-stationary
+"Rice (regular, milled)",B,first difference,73,0.0,0.1,stationary
