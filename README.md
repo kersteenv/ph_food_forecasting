@@ -2,8 +2,7 @@
 Time-series analysis of WFP/HDX retail food prices (Jan 2016 to Jun 2026).
 
 ## Where things are
-- 
-otebooks/ analysis notebooks 01-15 and helper scripts (study_config.py holds period definitions)
+- notebooks/ analysis notebooks 01-15 and helper scripts (study_config.py holds period definitions)
 - outputs/tables/ and outputs/figures/ all result tables and figures
   - outputs/tables/15_dashboard_data_contract.csv - **the data contract for the dashboard**
   - outputs/tables/15_results_register.csv, 15_traceability.csv - headline results and question-to-evidence map
