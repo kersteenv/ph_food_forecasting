@@ -11,3 +11,5 @@ data/processed/wfp_food_prices_phl.csv
 data/processed/wfp_prices_tagged.csv
 data/processed/wfp_retail_tagged.csv
 data/processed/core_retail_clean.csv
+outputs/tables_trial/
+data/processed/sarima_forward_trial/
