@@ -1,0 +1,24 @@
+key,value
+study_title,"Forecasting Philippine Food Prices Before, During, and After the COVID-19 Pandemic: A Time-Series Approach"
+data_source,WFP food prices via HDX (Philippines); retail prices only
+data_through,2026-06
+generated_on,2026-11-11
+price_unit,Nominal Philippine pesos (PHP) per commodity unit (KG for most commodities); not adjusted for inflation
+period_pre_pandemic,2016-01 to 2019-05
+period_pandemic,2020-05 to 2023-05
+period_post_pandemic,2023-06 to 2026-06
+excluded_months,Jun 2019 to Apr 2020 are excluded from all comparisons (Jun 2019-Feb 2020 too thin; Mar-Apr 2020 no data)
+series_definition,A series is one commodity in one market (market_id x commodity_id)
+matched_series_rule,Period comparisons use series with at least 6 months in BOTH periods compared; prices are period means
+pre_pandemic_coverage,"Before 2020 only 17 markets (one per region) report; only 3 markets (Metro Manila, Davao City, Zamboanga City) also report later"
+market_coverage_changes,About 80 markets begin reporting in May 2020 and 14 of the original 17 stop; market-level trends refer to the market's own reporting era
+chain_index,"Chain-linked index: average month-to-month log change of the same series, cumulated; base month = 100; Segment A starts Jan 2016, Segment B starts May 2020; the two cannot be joined"
+flag_rule,A monthly change larger than 0.5 log points in absolute value is flagged (not removed)
+reliable_rule,A comparison cell is 'reliable' with at least 3 markets and 5 series; confidence intervals resample whole markets
+forecast_models,"Seasonal Naive, SARIMA (12-model grid, AIC choice, optional seasonal terms), and plain Naive as a reference"
+forecast_windows,"Pre-pandemic: train 2016-01 to 2018-05, test 2018-06 to 2019-05; Pandemic: train 2020-05 to 2022-05, test 2022-06 to 2023-05; Post-pandemic: train 2020-05 to 2025-06, test 2025-07 to 2026-06"
+forecast_finding,SARIMA is more accurate than Seasonal Naive but no better than plain Naive; forecasts are indicative only
+forward_forecasts,"Origin 2026-06; horizon 12 months; series with >= 80% of months observed since May 2020, no gap over 3 months, observed in the latest month"
+interval_method,'_model' intervals come from the SARIMA fit; '_emp' intervals scale each series' volatility by empirical error quantiles from the Post-pandemic holdout. Prefer '_emp'; see coverage check files
+monitoring_rules,alert: monthly change beyond 0.5 log points or more than 3 typical monthly swings of the series; watch: more than 2; typical swing = SD of that series' monthly log changes (needs 12 or more changes)
+causal_caveat,"Differences between periods are descriptive, not estimates of a pandemic effect"

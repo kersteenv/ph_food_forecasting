@@ -1,0 +1,98 @@
+market_id,market,admin1,admin2,latitude,longitude,observations,commodities,months_active,first_month,last_month,obs_Pre-pandemic,obs_Pandemic,obs_Post-pandemic,periods_present,era,eligible_series,median_trend_pct_yr,median_vol_pct
+167,Metro Manila,National Capital region,Metropolitan Manila,14.6,120.98,3443,57,123,2016-01,2026-06,433,1421,1567,3,all three periods,45,7.01,3.88
+168,La Trinidad,Cordillera Administrative region,Benguet,16.45,120.59,529,15,42,2016-01,2019-06,528,0,0,1,pre-pandemic only,12,-3.82,5.52
+169,Lingayen,Region I,Pangasinan,16.02,120.23,456,15,41,2016-01,2019-05,456,0,0,1,pre-pandemic only,13,4.35,9.17
+170,Tuguegarao City,Region II,Cagayan,17.61,121.73,484,15,41,2016-01,2019-05,484,0,0,1,pre-pandemic only,10,-2.08,4.16
+171,Palayan,Region III,Nueva Ecija,15.54,121.08,564,15,50,2016-01,2020-02,542,0,0,1,pre-pandemic only,15,1.52,5.06
+172,Santa Cruz,Region IV-A,Rizal,14.61,121.17,538,15,41,2016-01,2019-05,538,0,0,1,pre-pandemic only,13,5.55,4.31
+173,Puerto Princesa,Region IV-B,Palawan,9.74,118.74,521,14,41,2016-01,2019-05,521,0,0,1,pre-pandemic only,14,3.6,11.37
+174,Legazpi City,Region V,Albay,13.14,123.73,483,15,41,2016-01,2019-05,483,0,0,1,pre-pandemic only,10,6.31,4.18
+175,Iloilo City,Region VI,Iloilo,10.7,122.56,547,16,49,2016-01,2020-02,525,0,0,1,pre-pandemic only,11,2.69,3.11
+176,Cebu City,Region VII,Cebu,10.31,123.89,561,16,46,2016-01,2020-01,546,0,0,1,pre-pandemic only,16,3.04,4.92
+177,Catarman,Region VIII,Southern Leyte,10.14,125.0,511,14,41,2016-01,2019-05,511,0,0,1,pre-pandemic only,14,3.13,6.93
+178,Zamboanga City,Region IX,Zamboanga del Sur,6.91,122.07,2679,52,103,2016-01,2026-06,484,826,1369,3,all three periods,39,5.73,4.07
+179,Tubod,Region X,Lanao del Norte,8.22,124.25,465,15,41,2016-01,2019-05,465,0,0,1,pre-pandemic only,9,2.99,5.86
+180,Davao City,Region XI,Davao del Sur,7.18,125.44,2501,57,111,2016-01,2026-06,449,773,1259,3,all three periods,36,7.49,6.96
+181,Koronadal,Region XII,South Cotabato,6.5,124.85,568,16,48,2016-01,2020-02,548,0,0,1,pre-pandemic only,14,2.91,3.9
+182,Tandag,Region XIII,Surigao del Sur,9.08,126.2,497,14,41,2016-01,2019-05,497,0,0,1,pre-pandemic only,13,4.56,3.55
+183,Shariff Aguak,Autonomous region in Muslim Mindanao,Maguindanao,6.86,124.44,499,14,42,2016-01,2019-06,498,0,0,1,pre-pandemic only,11,2.44,4.78
+4262,Abra,Cordillera Administrative region,Abra,17.6,120.62,2385,47,74,2020-05,2026-06,0,1262,1123,2,pandemic + post only,31,5.77,7.09
+4263,Apayao,Cordillera Administrative region,Apayao,18.01,121.19,1978,43,74,2020-05,2026-06,0,1053,925,2,pandemic + post only,25,6.8,4.92
+4264,Ifugao,Cordillera Administrative region,Ifugao,16.8,121.12,2335,50,74,2020-05,2026-06,0,1236,1099,2,pandemic + post only,29,5.47,6.78
+4265,Kalinga,Cordillera Administrative region,Kalinga,17.47,121.47,2063,45,74,2020-05,2026-06,0,1112,951,2,pandemic + post only,25,4.71,13.07
+4266,Mountain Province,Cordillera Administrative region,Mountain Province,17.09,120.98,2318,47,74,2020-05,2026-06,0,1231,1087,2,pandemic + post only,29,5.86,5.2
+4267,Ilocos Norte,Region I,Ilocos Norte,18.19,120.6,2467,53,74,2020-05,2026-06,0,1320,1147,2,pandemic + post only,31,4.05,4.39
+4268,Ilocos Sur,Region I,Ilocos Sur,17.57,120.38,2436,53,74,2020-05,2026-06,0,1313,1123,2,pandemic + post only,30,7.57,6.73
+4269,La Union (Ilocos Region),Region I,La Union,16.62,120.31,2292,55,74,2020-05,2026-06,0,1280,1012,2,pandemic + post only,28,5.82,7.13
+4270,Isabela,Region II,Isabela,17.13,121.87,2152,52,74,2020-05,2026-06,0,1190,962,2,pandemic + post only,26,5.6,4.63
+4271,Nueva Vizcaya,Region II,Nueva Vizcaya,16.49,121.15,3025,55,74,2020-05,2026-06,0,1546,1479,2,pandemic + post only,40,5.34,6.24
+4272,Quirino,Region II,Quirino,16.52,121.52,2034,47,74,2020-05,2026-06,0,1146,888,2,pandemic + post only,24,6.07,4.3
+4273,Aurora,Region III,Aurora,15.75,121.56,2711,53,74,2020-05,2026-06,0,1390,1321,2,pandemic + post only,35,6.1,6.75
+4274,Bataan,Region III,Bataan,14.67,120.53,2505,57,74,2020-05,2026-06,0,1344,1161,2,pandemic + post only,31,5.43,6.86
+4275,Bulacan,Region III,Bulacan,14.84,120.81,2758,59,74,2020-05,2026-06,0,1450,1308,2,pandemic + post only,35,6.29,5.99
+4276,Pampanga,Region III,Bulacan,15.02,121.09,2787,54,74,2020-05,2026-06,0,1466,1321,2,pandemic + post only,35,6.02,5.26
+4277,Tarlac,Region III,Tarlac,15.49,120.59,2568,56,74,2020-05,2026-06,0,1345,1223,2,pandemic + post only,33,7.37,6.14
+4278,Zambales,Region III,Zambales,15.34,119.97,2719,54,74,2020-05,2026-06,0,1423,1296,2,pandemic + post only,35,7.13,7.68
+4279,Cavite,Region IV-A,Cavite,14.42,120.94,2844,57,74,2020-05,2026-06,0,1436,1408,2,pandemic + post only,38,4.92,6.29
+4280,Laguna,Region IV-A,Laguna,14.29,121.41,2683,58,74,2020-05,2026-06,0,1395,1288,2,pandemic + post only,35,5.37,4.59
+4281,Quezon,Region IV-A,Quezon,13.93,121.61,2528,58,74,2020-05,2026-06,0,1353,1175,2,pandemic + post only,30,4.77,6.38
+4282,Marinduque,Region IV-B,Marinduque,13.45,121.84,2228,54,74,2020-05,2026-06,0,1192,1036,2,pandemic + post only,28,4.22,5.85
+4283,Occidental Mindoro,Region IV-B,Occidental Mindoro,13.23,120.59,2653,60,74,2020-05,2026-06,0,1395,1258,2,pandemic + post only,34,6.0,7.81
+4284,Oriental Mindoro,Region IV-B,Oriental Mindoro,13.41,121.18,2833,58,74,2020-05,2026-06,0,1502,1331,2,pandemic + post only,36,5.67,6.76
+4285,Romblon,Region IV-B,Romblon,12.58,122.27,2325,53,74,2020-05,2026-06,0,1252,1073,2,pandemic + post only,29,5.03,5.63
+4286,Camarines Norte,Region V,Camarines Norte,14.12,122.96,2584,51,74,2020-05,2026-06,0,1363,1221,2,pandemic + post only,33,7.2,8.78
+4287,Camarines Sur,Region V,Masbate,12.55,123.27,2507,54,74,2020-05,2026-06,0,1397,1110,2,pandemic + post only,30,8.65,7.72
+4288,Catanduanes,Region V,Catanduanes,13.58,124.23,2346,48,74,2020-05,2026-06,0,1236,1110,2,pandemic + post only,30,5.41,6.68
+4289,Masbate,Region V,Masbate,12.36,123.63,2890,56,74,2020-05,2026-06,0,1521,1369,2,pandemic + post only,37,5.23,5.85
+4290,Sorsogon,Region V,Sorsogon,12.97,124.01,2151,54,74,2020-05,2026-06,0,1263,888,2,pandemic + post only,24,5.01,4.92
+4291,Aklan,Region VI,Aklan,11.71,122.37,2268,56,74,2020-05,2026-06,0,1195,1073,2,pandemic + post only,29,6.75,6.61
+4292,Antique,Region VI,Antique,10.76,121.94,1700,55,74,2020-05,2026-06,0,960,740,2,pandemic + post only,20,6.74,4.5
+4293,Capiz,Region VI,Capiz,11.58,122.76,2530,58,74,2020-05,2026-06,0,1346,1184,2,pandemic + post only,32,7.05,4.02
+4294,Guimaras,Region VI,Guimaras,10.67,122.59,2923,49,74,2020-05,2026-06,0,1444,1479,2,pandemic + post only,40,4.58,5.97
+4295,Negros Occidental,Region VI,Negros Occidental,10.67,122.95,2544,57,74,2020-05,2026-06,0,1359,1185,2,pandemic + post only,32,6.36,4.68
+4296,Bohol,Region VII,Bohol,9.66,123.87,2408,54,74,2020-05,2026-06,0,1298,1110,2,pandemic + post only,30,4.93,8.84
+4297,Negros Oriental,Region VII,Negros Oriental,9.31,123.31,2099,54,73,2020-05,2026-06,0,1137,962,2,pandemic + post only,26,5.48,6.33
+4298,Siquijor,Region VII,Siquijor,9.21,123.51,2152,49,74,2020-05,2026-06,0,1153,999,2,pandemic + post only,27,5.81,6.35
+4299,Biliran,Region VIII,Biliran,11.56,124.39,2607,53,74,2020-05,2026-06,0,1337,1270,2,pandemic + post only,35,5.77,6.88
+4300,Eastern Samar,Region VIII,Eastern Samar,11.61,125.43,2590,56,74,2020-05,2026-06,0,1368,1222,2,pandemic + post only,33,6.0,5.96
+4301,Leyte,Region VIII,Leyte,11.25,125.0,2614,57,74,2020-05,2026-06,0,1394,1220,2,pandemic + post only,33,5.95,5.65
+4302,Northern Samar,Region VIII,Northern Samar,12.5,124.64,2482,53,74,2020-05,2026-06,0,1283,1199,2,pandemic + post only,32,6.84,5.79
+4303,Samar,Region VIII,Samar,11.77,124.88,2460,56,74,2020-05,2026-06,0,1313,1147,2,pandemic + post only,31,5.2,10.64
+4304,Southern Leyte,Region VIII,Southern Leyte,10.13,124.83,2382,55,74,2020-05,2026-06,0,1246,1136,2,pandemic + post only,30,6.65,5.78
+4305,Zamboanga del Norte,Region IX,Zamboanga del Norte,8.59,123.34,2146,55,74,2020-05,2026-06,0,1179,967,2,pandemic + post only,25,5.15,6.05
+4306,Zamboanga del Sur,Region IX,Zamboanga del Sur,7.82,123.44,3024,59,74,2020-05,2026-06,0,1583,1441,2,pandemic + post only,39,7.1,7.55
+4307,Zamboanga Sibugay,Region IX,Zamboanga Sibugay,7.78,122.58,2832,53,74,2020-05,2026-06,0,1429,1403,2,pandemic + post only,38,5.5,6.62
+4308,Bukidnon,Region X,Bukidnon,8.15,125.13,2207,55,74,2020-05,2026-06,0,1208,999,2,pandemic + post only,27,6.23,6.06
+4309,Camiguin,Region X,Camiguin,9.25,124.72,2198,48,74,2020-05,2026-06,0,1149,1049,2,pandemic + post only,29,6.81,4.97
+4310,Lanao del Norte,Region X,Lanao del Norte,8.04,123.8,2499,50,74,2020-05,2026-06,0,1303,1196,2,pandemic + post only,32,7.05,6.78
+4311,Misamis Occidental,Region X,Misamis Occidental,8.48,123.81,2459,55,74,2020-05,2026-06,0,1347,1112,2,pandemic + post only,30,6.57,6.98
+4312,Misamis Oriental,Region X,Misamis Oriental,8.48,124.65,2751,57,74,2020-05,2026-06,0,1457,1294,2,pandemic + post only,35,8.85,5.54
+4313,Davao de Oro,Region XI,Compostela Valley,7.6,125.97,2343,60,74,2020-05,2026-06,0,1256,1087,2,pandemic + post only,29,6.67,7.4
+4314,Davao del Norte,Region XI,Davao del Norte,7.45,125.8,2360,56,74,2020-05,2026-06,0,1273,1087,2,pandemic + post only,29,6.14,7.14
+4315,Davao del Sur,Region XI,Davao del Sur,6.75,125.36,2602,55,74,2020-05,2026-06,0,1370,1232,2,pandemic + post only,33,7.59,5.32
+4316,Davao Occidental,Region XI,Davao del Sur,6.41,125.61,639,17,56,2020-07,2026-06,0,193,446,2,pandemic + post only,11,2.74,4.09
+4317,Davao Oriental,Region XI,Davao Oriental,6.96,126.21,2138,54,74,2020-05,2026-06,0,1183,955,2,pandemic + post only,26,6.97,10.16
+4318,Cotabato,Region XII,North Cotabato,7.01,125.09,2367,53,74,2020-05,2026-06,0,1259,1108,2,pandemic + post only,30,7.1,4.97
+4319,Sarangani,Region XII,Sarangani,6.1,125.29,2335,55,74,2020-05,2026-06,0,1261,1074,2,pandemic + post only,29,7.17,5.71
+4320,Sultan Kudarat,Region XII,Sultan Kudarat,6.63,124.6,2609,49,73,2020-05,2026-06,0,1277,1332,2,pandemic + post only,36,5.85,4.94
+4321,Agusan del Norte,Region XIII,Agusan del Norte,9.12,125.55,2522,55,74,2020-05,2026-06,0,1325,1197,2,pandemic + post only,32,6.2,9.54
+4322,Agusan del Sur,Region XIII,Agusan del Sur,8.61,125.91,2382,53,74,2020-05,2026-06,0,1283,1099,2,pandemic + post only,29,5.34,5.2
+4323,Dinagat Islands,Region XIII,Dinagat Islands,10.01,125.57,1901,29,66,2021-01,2026-06,0,828,1073,2,pandemic + post only,29,5.37,8.71
+4324,Surigao del Norte,Region XIII,Surigao del Norte,9.79,125.5,2681,56,74,2020-05,2026-06,0,1423,1258,2,pandemic + post only,34,5.03,7.36
+4325,Basilan,Autonomous region in Muslim Mindanao,Basilan,6.66,122.14,2094,45,74,2020-05,2026-06,0,1082,1012,2,pandemic + post only,27,4.67,6.14
+4326,Lanao del Sur,Autonomous region in Muslim Mindanao,Lanao del Sur,8.0,124.28,1484,31,66,2021-01,2026-06,0,668,816,2,pandemic + post only,21,4.14,3.5
+4327,Maguindanao,Autonomous region in Muslim Mindanao,Maguindanao,6.72,124.79,2600,54,74,2020-05,2026-06,0,1380,1220,2,pandemic + post only,33,2.79,6.14
+4328,Sulu,Autonomous region in Muslim Mindanao,Sulu,6.05,121.0,1622,48,74,2020-05,2026-06,0,904,718,2,pandemic + post only,18,-2.88,8.62
+4329,Tawi-Tawi,Autonomous region in Muslim Mindanao,Tawi-Tawi,5.03,119.77,1305,44,74,2020-05,2026-06,0,772,533,2,pandemic + post only,13,7.22,9.2
+4353,Benguet,Cordillera Administrative region,Benguet,16.45,120.59,2817,59,74,2020-05,2026-06,0,1484,1333,2,pandemic + post only,36,6.04,8.7
+4354,Pangasinan,Region I,Pangasinan,16.02,120.23,2375,53,74,2020-05,2026-06,0,1265,1110,2,pandemic + post only,30,5.12,5.54
+4355,Cagayan,Region II,Cagayan,17.63,121.73,2519,58,74,2020-05,2026-06,0,1372,1147,2,pandemic + post only,31,6.91,5.2
+4356,Nueva Ecija,Region III,Nueva Ecija,15.55,121.09,2454,57,74,2020-05,2026-06,0,1292,1162,2,pandemic + post only,31,4.99,6.77
+4357,Rizal,Region IV-A,Rizal,14.59,121.17,1966,54,74,2020-05,2026-06,0,1107,859,2,pandemic + post only,26,4.93,4.87
+4358,Palawan,Region IV-B,Palawan,9.78,118.74,2614,55,74,2020-05,2026-06,0,1356,1258,2,pandemic + post only,34,5.44,9.71
+4359,Albay,Region V,Albay,13.15,123.75,2817,56,74,2020-05,2026-06,0,1485,1332,2,pandemic + post only,36,5.89,6.36
+4360,Iloilo,Region VI,Iloilo,10.69,122.57,2444,53,74,2020-05,2026-06,0,1265,1179,2,pandemic + post only,32,6.98,5.54
+4361,Cebu,Region VII,Cebu,10.29,123.9,2481,54,74,2020-05,2026-06,0,1335,1146,2,pandemic + post only,31,4.9,10.02
+4362,South Cotabato,Region XII,South Cotabato,6.5,124.84,2435,56,74,2020-05,2026-06,0,1288,1147,2,pandemic + post only,31,4.91,9.36
+4363,Surigao del Sur,Region XIII,Surigao del Sur,9.06,126.2,2543,51,74,2020-05,2026-06,0,1333,1210,2,pandemic + post only,32,5.95,6.24
+4537,Batangas,Region IV-A,Batangas,13.76,121.06,2449,59,74,2020-05,2026-06,0,1288,1161,2,pandemic + post only,30,5.34,6.54

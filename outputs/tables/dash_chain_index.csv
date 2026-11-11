@@ -1,0 +1,1719 @@
+level,group,segment,month,index_value
+category,cereals and tubers,A,2016-01,100.0
+category,cereals and tubers,A,2016-02,99.688
+category,cereals and tubers,A,2016-03,99.914
+category,cereals and tubers,A,2016-04,97.901
+category,cereals and tubers,A,2016-05,98.87
+category,cereals and tubers,A,2016-06,100.734
+category,cereals and tubers,A,2016-07,102.094
+category,cereals and tubers,A,2016-08,103.167
+category,cereals and tubers,A,2016-09,103.195
+category,cereals and tubers,A,2016-10,105.702
+category,cereals and tubers,A,2016-11,106.631
+category,cereals and tubers,A,2016-12,106.034
+category,cereals and tubers,A,2017-01,103.318
+category,cereals and tubers,A,2017-02,98.191
+category,cereals and tubers,A,2017-03,95.242
+category,cereals and tubers,A,2017-04,94.736
+category,cereals and tubers,A,2017-05,94.61
+category,cereals and tubers,A,2017-06,96.007
+category,cereals and tubers,A,2017-07,96.178
+category,cereals and tubers,A,2017-08,98.414
+category,cereals and tubers,A,2017-09,102.568
+category,cereals and tubers,A,2017-10,102.159
+category,cereals and tubers,A,2017-11,102.145
+category,cereals and tubers,A,2017-12,101.79
+category,cereals and tubers,A,2018-01,102.591
+category,cereals and tubers,A,2018-02,102.845
+category,cereals and tubers,A,2018-03,102.001
+category,cereals and tubers,A,2018-04,101.973
+category,cereals and tubers,A,2018-05,103.702
+category,cereals and tubers,A,2018-06,105.047
+category,cereals and tubers,A,2018-07,108.12
+category,cereals and tubers,A,2018-08,111.223
+category,cereals and tubers,A,2018-09,117.349
+category,cereals and tubers,A,2018-10,117.888
+category,cereals and tubers,A,2018-11,119.943
+category,cereals and tubers,A,2018-12,115.795
+category,cereals and tubers,A,2019-01,111.646
+category,cereals and tubers,A,2019-02,106.774
+category,cereals and tubers,A,2019-03,104.897
+category,cereals and tubers,A,2019-04,108.543
+category,cereals and tubers,A,2019-05,109.316
+category,"meat, fish and eggs",A,2016-01,100.0
+category,"meat, fish and eggs",A,2016-02,99.521
+category,"meat, fish and eggs",A,2016-03,99.834
+category,"meat, fish and eggs",A,2016-04,99.967
+category,"meat, fish and eggs",A,2016-05,99.323
+category,"meat, fish and eggs",A,2016-06,100.005
+category,"meat, fish and eggs",A,2016-07,100.215
+category,"meat, fish and eggs",A,2016-08,100.525
+category,"meat, fish and eggs",A,2016-09,100.427
+category,"meat, fish and eggs",A,2016-10,100.427
+category,"meat, fish and eggs",A,2016-11,100.844
+category,"meat, fish and eggs",A,2016-12,101.129
+category,"meat, fish and eggs",A,2017-01,101.973
+category,"meat, fish and eggs",A,2017-02,102.337
+category,"meat, fish and eggs",A,2017-03,102.895
+category,"meat, fish and eggs",A,2017-04,104.764
+category,"meat, fish and eggs",A,2017-05,103.742
+category,"meat, fish and eggs",A,2017-06,104.234
+category,"meat, fish and eggs",A,2017-07,104.428
+category,"meat, fish and eggs",A,2017-08,104.294
+category,"meat, fish and eggs",A,2017-09,104.575
+category,"meat, fish and eggs",A,2017-10,105.246
+category,"meat, fish and eggs",A,2017-11,105.847
+category,"meat, fish and eggs",A,2017-12,108.048
+category,"meat, fish and eggs",A,2018-01,110.644
+category,"meat, fish and eggs",A,2018-02,110.484
+category,"meat, fish and eggs",A,2018-03,111.116
+category,"meat, fish and eggs",A,2018-04,110.703
+category,"meat, fish and eggs",A,2018-05,111.173
+category,"meat, fish and eggs",A,2018-06,112.546
+category,"meat, fish and eggs",A,2018-07,112.619
+category,"meat, fish and eggs",A,2018-08,113.557
+category,"meat, fish and eggs",A,2018-09,114.946
+category,"meat, fish and eggs",A,2018-10,115.103
+category,"meat, fish and eggs",A,2018-11,115.0
+category,"meat, fish and eggs",A,2018-12,114.825
+category,"meat, fish and eggs",A,2019-01,114.799
+category,"meat, fish and eggs",A,2019-02,114.393
+category,"meat, fish and eggs",A,2019-03,114.682
+category,"meat, fish and eggs",A,2019-04,114.998
+category,"meat, fish and eggs",A,2019-05,115.067
+category,pulses and nuts,A,2016-01,100.0
+category,pulses and nuts,A,2016-02,100.0
+category,pulses and nuts,A,2016-03,100.0
+category,pulses and nuts,A,2016-04,100.0
+category,pulses and nuts,A,2016-05,100.0
+category,pulses and nuts,A,2016-06,100.0
+category,pulses and nuts,A,2016-07,100.0
+category,pulses and nuts,A,2016-08,100.0
+category,pulses and nuts,A,2016-09,100.0
+category,pulses and nuts,A,2016-10,100.0
+category,pulses and nuts,A,2016-11,100.0
+category,pulses and nuts,A,2016-12,100.0
+category,pulses and nuts,A,2017-01,100.0
+category,pulses and nuts,A,2017-02,100.0
+category,pulses and nuts,A,2017-03,100.0
+category,pulses and nuts,A,2017-04,100.0
+category,pulses and nuts,A,2017-05,100.0
+category,pulses and nuts,A,2017-06,100.444
+category,pulses and nuts,A,2017-07,99.404
+category,pulses and nuts,A,2017-08,99.62
+category,pulses and nuts,A,2017-09,100.308
+category,pulses and nuts,A,2017-10,100.1
+category,pulses and nuts,A,2017-11,99.893
+category,pulses and nuts,A,2017-12,100.385
+category,pulses and nuts,A,2018-01,100.63
+category,pulses and nuts,A,2018-02,100.38
+category,pulses and nuts,A,2018-03,100.443
+category,pulses and nuts,A,2018-04,99.226
+category,pulses and nuts,A,2018-05,98.83
+category,pulses and nuts,A,2018-06,98.438
+category,pulses and nuts,A,2018-07,97.879
+category,pulses and nuts,A,2018-08,97.417
+category,pulses and nuts,A,2018-09,97.641
+category,pulses and nuts,A,2018-10,97.768
+category,pulses and nuts,A,2018-11,98.542
+category,pulses and nuts,A,2018-12,98.614
+category,pulses and nuts,A,2019-01,97.067
+category,pulses and nuts,A,2019-02,95.821
+category,pulses and nuts,A,2019-03,96.222
+category,pulses and nuts,A,2019-04,97.306
+category,pulses and nuts,A,2019-05,95.568
+category,vegetables and fruits,A,2016-01,100.0
+category,vegetables and fruits,A,2016-02,87.31
+category,vegetables and fruits,A,2016-03,82.712
+category,vegetables and fruits,A,2016-04,89.857
+category,vegetables and fruits,A,2016-05,106.208
+category,vegetables and fruits,A,2016-06,110.615
+category,vegetables and fruits,A,2016-07,109.066
+category,vegetables and fruits,A,2016-08,103.907
+category,vegetables and fruits,A,2016-09,103.116
+category,vegetables and fruits,A,2016-10,102.554
+category,vegetables and fruits,A,2016-11,94.676
+category,vegetables and fruits,A,2016-12,94.672
+category,vegetables and fruits,A,2017-01,93.564
+category,vegetables and fruits,A,2017-02,88.71
+category,vegetables and fruits,A,2017-03,81.417
+category,vegetables and fruits,A,2017-04,77.397
+category,vegetables and fruits,A,2017-05,78.758
+category,vegetables and fruits,A,2017-06,81.318
+category,vegetables and fruits,A,2017-07,86.03
+category,vegetables and fruits,A,2017-08,90.989
+category,vegetables and fruits,A,2017-09,112.258
+category,vegetables and fruits,A,2017-10,114.667
+category,vegetables and fruits,A,2017-11,111.255
+category,vegetables and fruits,A,2017-12,107.077
+category,vegetables and fruits,A,2018-01,102.969
+category,vegetables and fruits,A,2018-02,90.531
+category,vegetables and fruits,A,2018-03,88.353
+category,vegetables and fruits,A,2018-04,88.876
+category,vegetables and fruits,A,2018-05,89.465
+category,vegetables and fruits,A,2018-06,100.51
+category,vegetables and fruits,A,2018-07,109.688
+category,vegetables and fruits,A,2018-08,121.912
+category,vegetables and fruits,A,2018-09,134.074
+category,vegetables and fruits,A,2018-10,112.567
+category,vegetables and fruits,A,2018-11,107.564
+category,vegetables and fruits,A,2018-12,100.463
+category,vegetables and fruits,A,2019-01,92.45
+category,vegetables and fruits,A,2019-02,85.443
+category,vegetables and fruits,A,2019-03,78.286
+category,vegetables and fruits,A,2019-04,75.527
+category,vegetables and fruits,A,2019-05,82.488
+category,cereals and tubers,B,2020-05,100.0
+category,cereals and tubers,B,2020-06,99.245
+category,cereals and tubers,B,2020-07,98.228
+category,cereals and tubers,B,2020-08,97.337
+category,cereals and tubers,B,2020-09,96.813
+category,cereals and tubers,B,2020-10,95.791
+category,cereals and tubers,B,2020-11,96.246
+category,cereals and tubers,B,2020-12,97.669
+category,cereals and tubers,B,2021-01,99.185
+category,cereals and tubers,B,2021-02,98.971
+category,cereals and tubers,B,2021-03,98.458
+category,cereals and tubers,B,2021-04,98.671
+category,cereals and tubers,B,2021-05,98.645
+category,cereals and tubers,B,2021-06,98.455
+category,cereals and tubers,B,2021-07,98.945
+category,cereals and tubers,B,2021-08,100.028
+category,cereals and tubers,B,2021-09,100.17
+category,cereals and tubers,B,2021-10,100.215
+category,cereals and tubers,B,2021-11,100.36
+category,cereals and tubers,B,2021-12,100.417
+category,cereals and tubers,B,2022-01,102.153
+category,cereals and tubers,B,2022-02,100.963
+category,cereals and tubers,B,2022-03,99.587
+category,cereals and tubers,B,2022-04,99.54
+category,cereals and tubers,B,2022-05,100.256
+category,cereals and tubers,B,2022-06,101.04
+category,cereals and tubers,B,2022-07,102.336
+category,cereals and tubers,B,2022-08,103.343
+category,cereals and tubers,B,2022-09,103.699
+category,cereals and tubers,B,2022-10,104.866
+category,cereals and tubers,B,2022-11,107.51
+category,cereals and tubers,B,2022-12,110.512
+category,cereals and tubers,B,2023-01,114.096
+category,cereals and tubers,B,2023-02,113.48
+category,cereals and tubers,B,2023-03,112.129
+category,cereals and tubers,B,2023-04,111.601
+category,cereals and tubers,B,2023-05,111.285
+category,cereals and tubers,B,2023-06,111.703
+category,cereals and tubers,B,2023-07,113.284
+category,cereals and tubers,B,2023-08,118.901
+category,cereals and tubers,B,2023-09,128.47
+category,cereals and tubers,B,2023-10,129.263
+category,cereals and tubers,B,2023-11,133.425
+category,cereals and tubers,B,2023-12,134.771
+category,cereals and tubers,B,2024-01,134.814
+category,cereals and tubers,B,2024-02,133.044
+category,cereals and tubers,B,2024-03,133.19
+category,cereals and tubers,B,2024-04,132.035
+category,cereals and tubers,B,2024-05,130.771
+category,cereals and tubers,B,2024-06,132.452
+category,cereals and tubers,B,2024-07,133.109
+category,cereals and tubers,B,2024-08,132.321
+category,cereals and tubers,B,2024-09,129.242
+category,cereals and tubers,B,2024-10,127.489
+category,cereals and tubers,B,2024-11,127.474
+category,cereals and tubers,B,2024-12,129.167
+category,cereals and tubers,B,2025-01,131.851
+category,cereals and tubers,B,2025-02,129.572
+category,cereals and tubers,B,2025-03,126.058
+category,cereals and tubers,B,2025-04,121.128
+category,cereals and tubers,B,2025-05,117.963
+category,cereals and tubers,B,2025-06,115.053
+category,cereals and tubers,B,2025-07,112.558
+category,cereals and tubers,B,2025-08,112.676
+category,cereals and tubers,B,2025-09,112.923
+category,cereals and tubers,B,2025-10,115.746
+category,cereals and tubers,B,2025-11,118.201
+category,cereals and tubers,B,2025-12,123.089
+category,cereals and tubers,B,2026-01,125.703
+category,cereals and tubers,B,2026-02,126.773
+category,cereals and tubers,B,2026-03,128.578
+category,cereals and tubers,B,2026-04,133.341
+category,cereals and tubers,B,2026-05,132.284
+category,cereals and tubers,B,2026-06,131.298
+category,"meat, fish and eggs",B,2020-05,100.0
+category,"meat, fish and eggs",B,2020-06,98.984
+category,"meat, fish and eggs",B,2020-07,98.089
+category,"meat, fish and eggs",B,2020-08,97.913
+category,"meat, fish and eggs",B,2020-09,98.463
+category,"meat, fish and eggs",B,2020-10,100.289
+category,"meat, fish and eggs",B,2020-11,103.36
+category,"meat, fish and eggs",B,2020-12,106.878
+category,"meat, fish and eggs",B,2021-01,109.954
+category,"meat, fish and eggs",B,2021-02,113.482
+category,"meat, fish and eggs",B,2021-03,113.673
+category,"meat, fish and eggs",B,2021-04,114.368
+category,"meat, fish and eggs",B,2021-05,114.501
+category,"meat, fish and eggs",B,2021-06,114.134
+category,"meat, fish and eggs",B,2021-07,112.854
+category,"meat, fish and eggs",B,2021-08,113.527
+category,"meat, fish and eggs",B,2021-09,112.366
+category,"meat, fish and eggs",B,2021-10,112.075
+category,"meat, fish and eggs",B,2021-11,113.287
+category,"meat, fish and eggs",B,2021-12,115.05
+category,"meat, fish and eggs",B,2022-01,120.191
+category,"meat, fish and eggs",B,2022-02,119.544
+category,"meat, fish and eggs",B,2022-03,120.348
+category,"meat, fish and eggs",B,2022-04,121.651
+category,"meat, fish and eggs",B,2022-05,121.965
+category,"meat, fish and eggs",B,2022-06,122.882
+category,"meat, fish and eggs",B,2022-07,124.165
+category,"meat, fish and eggs",B,2022-08,123.979
+category,"meat, fish and eggs",B,2022-09,123.701
+category,"meat, fish and eggs",B,2022-10,123.385
+category,"meat, fish and eggs",B,2022-11,124.231
+category,"meat, fish and eggs",B,2022-12,124.56
+category,"meat, fish and eggs",B,2023-01,129.113
+category,"meat, fish and eggs",B,2023-02,129.614
+category,"meat, fish and eggs",B,2023-03,130.184
+category,"meat, fish and eggs",B,2023-04,128.927
+category,"meat, fish and eggs",B,2023-05,128.135
+category,"meat, fish and eggs",B,2023-06,128.222
+category,"meat, fish and eggs",B,2023-07,126.859
+category,"meat, fish and eggs",B,2023-08,127.646
+category,"meat, fish and eggs",B,2023-09,127.711
+category,"meat, fish and eggs",B,2023-10,128.045
+category,"meat, fish and eggs",B,2023-11,128.715
+category,"meat, fish and eggs",B,2023-12,128.86
+category,"meat, fish and eggs",B,2024-01,130.422
+category,"meat, fish and eggs",B,2024-02,130.471
+category,"meat, fish and eggs",B,2024-03,129.979
+category,"meat, fish and eggs",B,2024-04,129.664
+category,"meat, fish and eggs",B,2024-05,128.775
+category,"meat, fish and eggs",B,2024-06,128.561
+category,"meat, fish and eggs",B,2024-07,128.496
+category,"meat, fish and eggs",B,2024-08,128.188
+category,"meat, fish and eggs",B,2024-09,129.187
+category,"meat, fish and eggs",B,2024-10,129.602
+category,"meat, fish and eggs",B,2024-11,130.334
+category,"meat, fish and eggs",B,2024-12,131.319
+category,"meat, fish and eggs",B,2025-01,134.335
+category,"meat, fish and eggs",B,2025-02,135.698
+category,"meat, fish and eggs",B,2025-03,137.601
+category,"meat, fish and eggs",B,2025-04,137.363
+category,"meat, fish and eggs",B,2025-05,137.294
+category,"meat, fish and eggs",B,2025-06,137.766
+category,"meat, fish and eggs",B,2025-07,137.729
+category,"meat, fish and eggs",B,2025-08,138.552
+category,"meat, fish and eggs",B,2025-09,138.242
+category,"meat, fish and eggs",B,2025-10,138.487
+category,"meat, fish and eggs",B,2025-11,138.764
+category,"meat, fish and eggs",B,2025-12,139.596
+category,"meat, fish and eggs",B,2026-01,141.484
+category,"meat, fish and eggs",B,2026-02,141.246
+category,"meat, fish and eggs",B,2026-03,140.957
+category,"meat, fish and eggs",B,2026-04,142.245
+category,"meat, fish and eggs",B,2026-05,141.464
+category,"meat, fish and eggs",B,2026-06,140.442
+category,pulses and nuts,B,2020-05,100.0
+category,pulses and nuts,B,2020-06,100.337
+category,pulses and nuts,B,2020-07,101.911
+category,pulses and nuts,B,2020-08,101.689
+category,pulses and nuts,B,2020-09,101.951
+category,pulses and nuts,B,2020-10,101.424
+category,pulses and nuts,B,2020-11,101.148
+category,pulses and nuts,B,2020-12,101.459
+category,pulses and nuts,B,2021-01,103.377
+category,pulses and nuts,B,2021-02,103.867
+category,pulses and nuts,B,2021-03,103.999
+category,pulses and nuts,B,2021-04,103.803
+category,pulses and nuts,B,2021-05,104.016
+category,pulses and nuts,B,2021-06,103.337
+category,pulses and nuts,B,2021-07,104.021
+category,pulses and nuts,B,2021-08,104.746
+category,pulses and nuts,B,2021-09,105.396
+category,pulses and nuts,B,2021-10,105.386
+category,pulses and nuts,B,2021-11,105.441
+category,pulses and nuts,B,2021-12,106.173
+category,pulses and nuts,B,2022-01,108.946
+category,pulses and nuts,B,2022-02,108.412
+category,pulses and nuts,B,2022-03,108.007
+category,pulses and nuts,B,2022-04,107.893
+category,pulses and nuts,B,2022-05,108.336
+category,pulses and nuts,B,2022-06,108.172
+category,pulses and nuts,B,2022-07,109.454
+category,pulses and nuts,B,2022-08,109.67
+category,pulses and nuts,B,2022-09,109.997
+category,pulses and nuts,B,2022-10,110.682
+category,pulses and nuts,B,2022-11,111.897
+category,pulses and nuts,B,2022-12,112.692
+category,pulses and nuts,B,2023-01,113.35
+category,pulses and nuts,B,2023-02,112.79
+category,pulses and nuts,B,2023-03,113.128
+category,pulses and nuts,B,2023-04,113.097
+category,pulses and nuts,B,2023-05,113.156
+category,pulses and nuts,B,2023-06,113.179
+category,pulses and nuts,B,2023-07,113.921
+category,pulses and nuts,B,2023-08,113.236
+category,pulses and nuts,B,2023-09,113.648
+category,pulses and nuts,B,2023-10,114.015
+category,pulses and nuts,B,2023-11,114.787
+category,pulses and nuts,B,2023-12,114.907
+category,pulses and nuts,B,2024-01,115.051
+category,pulses and nuts,B,2024-02,115.933
+category,pulses and nuts,B,2024-03,115.421
+category,pulses and nuts,B,2024-04,115.278
+category,pulses and nuts,B,2024-05,115.458
+category,pulses and nuts,B,2024-06,115.736
+category,pulses and nuts,B,2024-07,116.266
+category,pulses and nuts,B,2024-08,116.746
+category,pulses and nuts,B,2024-09,116.748
+category,pulses and nuts,B,2024-10,117.466
+category,pulses and nuts,B,2024-11,118.548
+category,pulses and nuts,B,2024-12,118.491
+category,pulses and nuts,B,2025-01,119.238
+category,pulses and nuts,B,2025-02,119.408
+category,pulses and nuts,B,2025-03,120.927
+category,pulses and nuts,B,2025-04,120.365
+category,pulses and nuts,B,2025-05,120.018
+category,pulses and nuts,B,2025-06,120.44
+category,pulses and nuts,B,2025-07,120.437
+category,pulses and nuts,B,2025-08,121.532
+category,pulses and nuts,B,2025-09,122.649
+category,pulses and nuts,B,2025-10,123.324
+category,pulses and nuts,B,2025-11,124.018
+category,pulses and nuts,B,2025-12,125.561
+category,pulses and nuts,B,2026-01,126.315
+category,pulses and nuts,B,2026-02,128.118
+category,pulses and nuts,B,2026-03,129.067
+category,pulses and nuts,B,2026-04,130.303
+category,pulses and nuts,B,2026-05,130.727
+category,pulses and nuts,B,2026-06,130.937
+category,vegetables and fruits,B,2020-05,100.0
+category,vegetables and fruits,B,2020-06,95.595
+category,vegetables and fruits,B,2020-07,91.284
+category,vegetables and fruits,B,2020-08,90.636
+category,vegetables and fruits,B,2020-09,91.635
+category,vegetables and fruits,B,2020-10,97.334
+category,vegetables and fruits,B,2020-11,109.531
+category,vegetables and fruits,B,2020-12,115.327
+category,vegetables and fruits,B,2021-01,119.71
+category,vegetables and fruits,B,2021-02,114.791
+category,vegetables and fruits,B,2021-03,102.395
+category,vegetables and fruits,B,2021-04,93.854
+category,vegetables and fruits,B,2021-05,90.251
+category,vegetables and fruits,B,2021-06,90.661
+category,vegetables and fruits,B,2021-07,94.325
+category,vegetables and fruits,B,2021-08,101.883
+category,vegetables and fruits,B,2021-09,103.752
+category,vegetables and fruits,B,2021-10,102.23
+category,vegetables and fruits,B,2021-11,102.311
+category,vegetables and fruits,B,2021-12,101.635
+category,vegetables and fruits,B,2022-01,112.363
+category,vegetables and fruits,B,2022-02,106.611
+category,vegetables and fruits,B,2022-03,103.038
+category,vegetables and fruits,B,2022-04,101.954
+category,vegetables and fruits,B,2022-05,102.691
+category,vegetables and fruits,B,2022-06,104.397
+category,vegetables and fruits,B,2022-07,104.005
+category,vegetables and fruits,B,2022-08,104.017
+category,vegetables and fruits,B,2022-09,106.565
+category,vegetables and fruits,B,2022-10,112.412
+category,vegetables and fruits,B,2022-11,119.08
+category,vegetables and fruits,B,2022-12,123.707
+category,vegetables and fruits,B,2023-01,128.627
+category,vegetables and fruits,B,2023-02,124.99
+category,vegetables and fruits,B,2023-03,117.052
+category,vegetables and fruits,B,2023-04,109.991
+category,vegetables and fruits,B,2023-05,110.075
+category,vegetables and fruits,B,2023-06,110.091
+category,vegetables and fruits,B,2023-07,115.582
+category,vegetables and fruits,B,2023-08,125.596
+category,vegetables and fruits,B,2023-09,127.723
+category,vegetables and fruits,B,2023-10,124.89
+category,vegetables and fruits,B,2023-11,122.846
+category,vegetables and fruits,B,2023-12,120.426
+category,vegetables and fruits,B,2024-01,120.114
+category,vegetables and fruits,B,2024-02,119.97
+category,vegetables and fruits,B,2024-03,115.846
+category,vegetables and fruits,B,2024-04,114.326
+category,vegetables and fruits,B,2024-05,118.11
+category,vegetables and fruits,B,2024-06,122.791
+category,vegetables and fruits,B,2024-07,128.861
+category,vegetables and fruits,B,2024-08,130.411
+category,vegetables and fruits,B,2024-09,119.455
+category,vegetables and fruits,B,2024-10,124.464
+category,vegetables and fruits,B,2024-11,134.317
+category,vegetables and fruits,B,2024-12,139.136
+category,vegetables and fruits,B,2025-01,142.631
+category,vegetables and fruits,B,2025-02,132.296
+category,vegetables and fruits,B,2025-03,125.312
+category,vegetables and fruits,B,2025-04,119.25
+category,vegetables and fruits,B,2025-05,123.231
+category,vegetables and fruits,B,2025-06,124.697
+category,vegetables and fruits,B,2025-07,126.492
+category,vegetables and fruits,B,2025-08,140.6
+category,vegetables and fruits,B,2025-09,140.242
+category,vegetables and fruits,B,2025-10,140.183
+category,vegetables and fruits,B,2025-11,138.744
+category,vegetables and fruits,B,2025-12,152.192
+category,vegetables and fruits,B,2026-01,147.463
+category,vegetables and fruits,B,2026-02,138.934
+category,vegetables and fruits,B,2026-03,136.21
+category,vegetables and fruits,B,2026-04,134.464
+category,vegetables and fruits,B,2026-05,134.407
+category,vegetables and fruits,B,2026-06,134.894
+region,Autonomous region in Muslim Mindanao,B,2020-05,100.0
+region,Autonomous region in Muslim Mindanao,B,2020-06,97.289
+region,Autonomous region in Muslim Mindanao,B,2020-07,96.135
+region,Autonomous region in Muslim Mindanao,B,2020-08,96.041
+region,Autonomous region in Muslim Mindanao,B,2020-09,95.664
+region,Autonomous region in Muslim Mindanao,B,2020-10,96.305
+region,Autonomous region in Muslim Mindanao,B,2020-11,97.719
+region,Autonomous region in Muslim Mindanao,B,2020-12,97.474
+region,Autonomous region in Muslim Mindanao,B,2021-01,95.188
+region,Autonomous region in Muslim Mindanao,B,2021-02,95.836
+region,Autonomous region in Muslim Mindanao,B,2021-03,96.192
+region,Autonomous region in Muslim Mindanao,B,2021-04,95.93
+region,Autonomous region in Muslim Mindanao,B,2021-05,96.264
+region,Autonomous region in Muslim Mindanao,B,2021-06,95.287
+region,Autonomous region in Muslim Mindanao,B,2021-07,94.485
+region,Autonomous region in Muslim Mindanao,B,2021-08,95.453
+region,Autonomous region in Muslim Mindanao,B,2021-09,95.454
+region,Autonomous region in Muslim Mindanao,B,2021-10,95.481
+region,Autonomous region in Muslim Mindanao,B,2021-11,95.686
+region,Autonomous region in Muslim Mindanao,B,2021-12,95.894
+region,Autonomous region in Muslim Mindanao,B,2022-01,102.871
+region,Autonomous region in Muslim Mindanao,B,2022-02,102.938
+region,Autonomous region in Muslim Mindanao,B,2022-03,102.931
+region,Autonomous region in Muslim Mindanao,B,2022-04,104.376
+region,Autonomous region in Muslim Mindanao,B,2022-05,105.719
+region,Autonomous region in Muslim Mindanao,B,2022-06,106.746
+region,Autonomous region in Muslim Mindanao,B,2022-07,107.89
+region,Autonomous region in Muslim Mindanao,B,2022-08,108.682
+region,Autonomous region in Muslim Mindanao,B,2022-09,110.009
+region,Autonomous region in Muslim Mindanao,B,2022-10,111.338
+region,Autonomous region in Muslim Mindanao,B,2022-11,110.336
+region,Autonomous region in Muslim Mindanao,B,2022-12,111.502
+region,Autonomous region in Muslim Mindanao,B,2023-01,114.718
+region,Autonomous region in Muslim Mindanao,B,2023-02,113.959
+region,Autonomous region in Muslim Mindanao,B,2023-03,115.825
+region,Autonomous region in Muslim Mindanao,B,2023-04,115.185
+region,Autonomous region in Muslim Mindanao,B,2023-05,114.055
+region,Autonomous region in Muslim Mindanao,B,2023-06,114.232
+region,Autonomous region in Muslim Mindanao,B,2023-07,113.767
+region,Autonomous region in Muslim Mindanao,B,2023-08,106.379
+region,Autonomous region in Muslim Mindanao,B,2023-09,108.975
+region,Autonomous region in Muslim Mindanao,B,2023-10,109.785
+region,Autonomous region in Muslim Mindanao,B,2023-11,109.511
+region,Autonomous region in Muslim Mindanao,B,2023-12,110.457
+region,Autonomous region in Muslim Mindanao,B,2024-01,109.338
+region,Autonomous region in Muslim Mindanao,B,2024-02,107.689
+region,Autonomous region in Muslim Mindanao,B,2024-03,107.741
+region,Autonomous region in Muslim Mindanao,B,2024-04,109.293
+region,Autonomous region in Muslim Mindanao,B,2024-05,107.848
+region,Autonomous region in Muslim Mindanao,B,2024-06,107.063
+region,Autonomous region in Muslim Mindanao,B,2024-07,108.909
+region,Autonomous region in Muslim Mindanao,B,2024-08,108.684
+region,Autonomous region in Muslim Mindanao,B,2024-09,108.32
+region,Autonomous region in Muslim Mindanao,B,2024-10,106.636
+region,Autonomous region in Muslim Mindanao,B,2024-11,106.853
+region,Autonomous region in Muslim Mindanao,B,2024-12,107.239
+region,Autonomous region in Muslim Mindanao,B,2025-01,109.008
+region,Autonomous region in Muslim Mindanao,B,2025-02,108.724
+region,Autonomous region in Muslim Mindanao,B,2025-03,109.995
+region,Autonomous region in Muslim Mindanao,B,2025-04,109.672
+region,Autonomous region in Muslim Mindanao,B,2025-05,108.652
+region,Autonomous region in Muslim Mindanao,B,2025-06,109.11
+region,Autonomous region in Muslim Mindanao,B,2025-07,109.688
+region,Autonomous region in Muslim Mindanao,B,2025-08,109.753
+region,Autonomous region in Muslim Mindanao,B,2025-09,109.331
+region,Autonomous region in Muslim Mindanao,B,2025-10,109.275
+region,Autonomous region in Muslim Mindanao,B,2025-11,109.564
+region,Autonomous region in Muslim Mindanao,B,2025-12,110.645
+region,Autonomous region in Muslim Mindanao,B,2026-01,111.953
+region,Autonomous region in Muslim Mindanao,B,2026-02,115.322
+region,Autonomous region in Muslim Mindanao,B,2026-03,118.684
+region,Autonomous region in Muslim Mindanao,B,2026-04,122.173
+region,Autonomous region in Muslim Mindanao,B,2026-05,120.747
+region,Autonomous region in Muslim Mindanao,B,2026-06,119.123
+region,Cordillera Administrative region,B,2020-05,100.0
+region,Cordillera Administrative region,B,2020-06,94.555
+region,Cordillera Administrative region,B,2020-07,91.975
+region,Cordillera Administrative region,B,2020-08,91.615
+region,Cordillera Administrative region,B,2020-09,91.511
+region,Cordillera Administrative region,B,2020-10,95.527
+region,Cordillera Administrative region,B,2020-11,106.216
+region,Cordillera Administrative region,B,2020-12,114.428
+region,Cordillera Administrative region,B,2021-01,107.899
+region,Cordillera Administrative region,B,2021-02,105.51
+region,Cordillera Administrative region,B,2021-03,98.867
+region,Cordillera Administrative region,B,2021-04,92.778
+region,Cordillera Administrative region,B,2021-05,90.918
+region,Cordillera Administrative region,B,2021-06,92.35
+region,Cordillera Administrative region,B,2021-07,94.215
+region,Cordillera Administrative region,B,2021-08,100.366
+region,Cordillera Administrative region,B,2021-09,103.596
+region,Cordillera Administrative region,B,2021-10,101.371
+region,Cordillera Administrative region,B,2021-11,100.575
+region,Cordillera Administrative region,B,2021-12,99.851
+region,Cordillera Administrative region,B,2022-01,102.174
+region,Cordillera Administrative region,B,2022-02,99.403
+region,Cordillera Administrative region,B,2022-03,98.71
+region,Cordillera Administrative region,B,2022-04,99.716
+region,Cordillera Administrative region,B,2022-05,100.894
+region,Cordillera Administrative region,B,2022-06,102.353
+region,Cordillera Administrative region,B,2022-07,100.547
+region,Cordillera Administrative region,B,2022-08,100.766
+region,Cordillera Administrative region,B,2022-09,102.891
+region,Cordillera Administrative region,B,2022-10,106.739
+region,Cordillera Administrative region,B,2022-11,113.381
+region,Cordillera Administrative region,B,2022-12,116.353
+region,Cordillera Administrative region,B,2023-01,119.991
+region,Cordillera Administrative region,B,2023-02,114.769
+region,Cordillera Administrative region,B,2023-03,109.755
+region,Cordillera Administrative region,B,2023-04,105.383
+region,Cordillera Administrative region,B,2023-05,105.375
+region,Cordillera Administrative region,B,2023-06,106.601
+region,Cordillera Administrative region,B,2023-07,111.636
+region,Cordillera Administrative region,B,2023-08,119.782
+region,Cordillera Administrative region,B,2023-09,126.03
+region,Cordillera Administrative region,B,2023-10,122.056
+region,Cordillera Administrative region,B,2023-11,120.036
+region,Cordillera Administrative region,B,2023-12,114.028
+region,Cordillera Administrative region,B,2024-01,113.352
+region,Cordillera Administrative region,B,2024-02,112.609
+region,Cordillera Administrative region,B,2024-03,111.913
+region,Cordillera Administrative region,B,2024-04,111.142
+region,Cordillera Administrative region,B,2024-05,112.34
+region,Cordillera Administrative region,B,2024-06,115.273
+region,Cordillera Administrative region,B,2024-07,118.865
+region,Cordillera Administrative region,B,2024-08,118.802
+region,Cordillera Administrative region,B,2024-09,112.691
+region,Cordillera Administrative region,B,2024-10,116.581
+region,Cordillera Administrative region,B,2024-11,125.073
+region,Cordillera Administrative region,B,2024-12,130.007
+region,Cordillera Administrative region,B,2025-01,133.296
+region,Cordillera Administrative region,B,2025-02,123.839
+region,Cordillera Administrative region,B,2025-03,119.013
+region,Cordillera Administrative region,B,2025-04,114.711
+region,Cordillera Administrative region,B,2025-05,118.404
+region,Cordillera Administrative region,B,2025-06,119.574
+region,Cordillera Administrative region,B,2025-07,119.947
+region,Cordillera Administrative region,B,2025-08,127.673
+region,Cordillera Administrative region,B,2025-09,128.912
+region,Cordillera Administrative region,B,2025-10,132.12
+region,Cordillera Administrative region,B,2025-11,131.129
+region,Cordillera Administrative region,B,2025-12,140.03
+region,Cordillera Administrative region,B,2026-01,137.431
+region,Cordillera Administrative region,B,2026-02,129.571
+region,Cordillera Administrative region,B,2026-03,125.046
+region,Cordillera Administrative region,B,2026-04,126.623
+region,Cordillera Administrative region,B,2026-05,124.838
+region,Cordillera Administrative region,B,2026-06,127.218
+region,National Capital region,B,2020-05,100.0
+region,National Capital region,B,2020-06,97.304
+region,National Capital region,B,2020-07,92.507
+region,National Capital region,B,2020-08,94.881
+region,National Capital region,B,2020-09,96.364
+region,National Capital region,B,2020-10,97.768
+region,National Capital region,B,2020-11,104.902
+region,National Capital region,B,2020-12,107.468
+region,National Capital region,B,2021-01,110.875
+region,National Capital region,B,2021-02,106.04
+region,National Capital region,B,2021-03,98.82
+region,National Capital region,B,2021-04,97.043
+region,National Capital region,B,2021-05,95.525
+region,National Capital region,B,2021-06,98.531
+region,National Capital region,B,2021-07,100.324
+region,National Capital region,B,2021-08,105.183
+region,National Capital region,B,2021-09,101.806
+region,National Capital region,B,2021-10,100.245
+region,National Capital region,B,2021-11,102.267
+region,National Capital region,B,2021-12,101.997
+region,National Capital region,B,2022-01,105.502
+region,National Capital region,B,2022-02,100.543
+region,National Capital region,B,2022-03,100.613
+region,National Capital region,B,2022-04,101.802
+region,National Capital region,B,2022-05,102.229
+region,National Capital region,B,2022-06,104.849
+region,National Capital region,B,2022-07,104.93
+region,National Capital region,B,2022-08,107.435
+region,National Capital region,B,2022-09,111.351
+region,National Capital region,B,2022-10,118.374
+region,National Capital region,B,2022-11,124.362
+region,National Capital region,B,2022-12,124.475
+region,National Capital region,B,2023-01,125.782
+region,National Capital region,B,2023-02,119.569
+region,National Capital region,B,2023-03,113.279
+region,National Capital region,B,2023-04,112.289
+region,National Capital region,B,2023-05,113.418
+region,National Capital region,B,2023-06,113.819
+region,National Capital region,B,2023-07,118.16
+region,National Capital region,B,2023-08,128.636
+region,National Capital region,B,2023-09,128.938
+region,National Capital region,B,2023-10,125.04
+region,National Capital region,B,2023-11,122.513
+region,National Capital region,B,2023-12,120.507
+region,National Capital region,B,2024-01,121.322
+region,National Capital region,B,2024-02,119.523
+region,National Capital region,B,2024-03,116.243
+region,National Capital region,B,2024-04,115.17
+region,National Capital region,B,2024-05,119.424
+region,National Capital region,B,2024-06,124.288
+region,National Capital region,B,2024-07,124.048
+region,National Capital region,B,2024-08,123.903
+region,National Capital region,B,2024-09,125.481
+region,National Capital region,B,2024-10,126.124
+region,National Capital region,B,2024-11,133.225
+region,National Capital region,B,2024-12,136.623
+region,National Capital region,B,2025-01,135.177
+region,National Capital region,B,2025-02,128.54
+region,National Capital region,B,2025-03,124.537
+region,National Capital region,B,2025-04,121.569
+region,National Capital region,B,2025-05,123.276
+region,National Capital region,B,2025-06,123.753
+region,National Capital region,B,2025-07,127.494
+region,National Capital region,B,2025-08,142.164
+region,National Capital region,B,2025-09,137.436
+region,National Capital region,B,2025-10,138.5
+region,National Capital region,B,2025-11,144.951
+region,National Capital region,B,2025-12,147.229
+region,National Capital region,B,2026-01,139.375
+region,National Capital region,B,2026-02,132.06
+region,National Capital region,B,2026-03,131.006
+region,National Capital region,B,2026-04,129.077
+region,National Capital region,B,2026-05,128.448
+region,National Capital region,B,2026-06,132.766
+region,Region I,B,2020-05,100.0
+region,Region I,B,2020-06,97.94
+region,Region I,B,2020-07,95.967
+region,Region I,B,2020-08,95.666
+region,Region I,B,2020-09,97.4
+region,Region I,B,2020-10,101.85
+region,Region I,B,2020-11,108.867
+region,Region I,B,2020-12,113.956
+region,Region I,B,2021-01,114.041
+region,Region I,B,2021-02,109.41
+region,Region I,B,2021-03,99.873
+region,Region I,B,2021-04,98.051
+region,Region I,B,2021-05,95.133
+region,Region I,B,2021-06,97.534
+region,Region I,B,2021-07,100.361
+region,Region I,B,2021-08,112.819
+region,Region I,B,2021-09,110.692
+region,Region I,B,2021-10,108.863
+region,Region I,B,2021-11,107.919
+region,Region I,B,2021-12,104.572
+region,Region I,B,2022-01,104.268
+region,Region I,B,2022-02,101.127
+region,Region I,B,2022-03,100.551
+region,Region I,B,2022-04,103.391
+region,Region I,B,2022-05,103.943
+region,Region I,B,2022-06,105.206
+region,Region I,B,2022-07,105.777
+region,Region I,B,2022-08,104.546
+region,Region I,B,2022-09,106.861
+region,Region I,B,2022-10,115.015
+region,Region I,B,2022-11,119.608
+region,Region I,B,2022-12,122.147
+region,Region I,B,2023-01,124.676
+region,Region I,B,2023-02,118.103
+region,Region I,B,2023-03,115.793
+region,Region I,B,2023-04,113.238
+region,Region I,B,2023-05,110.766
+region,Region I,B,2023-06,113.73
+region,Region I,B,2023-07,119.014
+region,Region I,B,2023-08,131.872
+region,Region I,B,2023-09,135.903
+region,Region I,B,2023-10,132.866
+region,Region I,B,2023-11,127.559
+region,Region I,B,2023-12,122.446
+region,Region I,B,2024-01,120.911
+region,Region I,B,2024-02,120.698
+region,Region I,B,2024-03,117.059
+region,Region I,B,2024-04,116.836
+region,Region I,B,2024-05,117.636
+region,Region I,B,2024-06,122.352
+region,Region I,B,2024-07,127.935
+region,Region I,B,2024-08,128.02
+region,Region I,B,2024-09,119.195
+region,Region I,B,2024-10,128.427
+region,Region I,B,2024-11,131.844
+region,Region I,B,2024-12,136.202
+region,Region I,B,2025-01,139.81
+region,Region I,B,2025-02,131.102
+region,Region I,B,2025-03,126.206
+region,Region I,B,2025-04,122.285
+region,Region I,B,2025-05,126.379
+region,Region I,B,2025-06,125.718
+region,Region I,B,2025-07,125.753
+region,Region I,B,2025-08,139.171
+region,Region I,B,2025-09,136.093
+region,Region I,B,2025-10,138.086
+region,Region I,B,2025-11,136.626
+region,Region I,B,2025-12,145.191
+region,Region I,B,2026-01,141.151
+region,Region I,B,2026-02,128.973
+region,Region I,B,2026-03,128.534
+region,Region I,B,2026-04,129.146
+region,Region I,B,2026-05,129.492
+region,Region I,B,2026-06,131.346
+region,Region II,B,2020-05,100.0
+region,Region II,B,2020-06,95.938
+region,Region II,B,2020-07,94.437
+region,Region II,B,2020-08,93.865
+region,Region II,B,2020-09,94.96
+region,Region II,B,2020-10,99.46
+region,Region II,B,2020-11,115.015
+region,Region II,B,2020-12,122.689
+region,Region II,B,2021-01,125.644
+region,Region II,B,2021-02,116.601
+region,Region II,B,2021-03,104.254
+region,Region II,B,2021-04,98.849
+region,Region II,B,2021-05,96.885
+region,Region II,B,2021-06,102.346
+region,Region II,B,2021-07,103.304
+region,Region II,B,2021-08,108.757
+region,Region II,B,2021-09,110.144
+region,Region II,B,2021-10,105.552
+region,Region II,B,2021-11,105.456
+region,Region II,B,2021-12,104.056
+region,Region II,B,2022-01,108.478
+region,Region II,B,2022-02,103.186
+region,Region II,B,2022-03,103.054
+region,Region II,B,2022-04,101.342
+region,Region II,B,2022-05,101.841
+region,Region II,B,2022-06,106.074
+region,Region II,B,2022-07,106.036
+region,Region II,B,2022-08,106.267
+region,Region II,B,2022-09,108.774
+region,Region II,B,2022-10,113.855
+region,Region II,B,2022-11,120.338
+region,Region II,B,2022-12,123.75
+region,Region II,B,2023-01,127.465
+region,Region II,B,2023-02,121.149
+region,Region II,B,2023-03,114.16
+region,Region II,B,2023-04,110.303
+region,Region II,B,2023-05,112.751
+region,Region II,B,2023-06,113.135
+region,Region II,B,2023-07,119.954
+region,Region II,B,2023-08,128.662
+region,Region II,B,2023-09,132.578
+region,Region II,B,2023-10,128.969
+region,Region II,B,2023-11,127.124
+region,Region II,B,2023-12,124.474
+region,Region II,B,2024-01,124.438
+region,Region II,B,2024-02,121.432
+region,Region II,B,2024-03,118.154
+region,Region II,B,2024-04,118.003
+region,Region II,B,2024-05,121.246
+region,Region II,B,2024-06,123.065
+region,Region II,B,2024-07,126.973
+region,Region II,B,2024-08,128.198
+region,Region II,B,2024-09,122.257
+region,Region II,B,2024-10,128.497
+region,Region II,B,2024-11,135.637
+region,Region II,B,2024-12,145.301
+region,Region II,B,2025-01,145.581
+region,Region II,B,2025-02,136.851
+region,Region II,B,2025-03,132.086
+region,Region II,B,2025-04,125.79
+region,Region II,B,2025-05,131.147
+region,Region II,B,2025-06,130.372
+region,Region II,B,2025-07,130.741
+region,Region II,B,2025-08,142.171
+region,Region II,B,2025-09,138.378
+region,Region II,B,2025-10,140.673
+region,Region II,B,2025-11,140.833
+region,Region II,B,2025-12,155.337
+region,Region II,B,2026-01,149.092
+region,Region II,B,2026-02,139.762
+region,Region II,B,2026-03,137.002
+region,Region II,B,2026-04,133.588
+region,Region II,B,2026-05,134.766
+region,Region II,B,2026-06,136.909
+region,Region III,B,2020-05,100.0
+region,Region III,B,2020-06,98.09
+region,Region III,B,2020-07,96.848
+region,Region III,B,2020-08,96.624
+region,Region III,B,2020-09,96.885
+region,Region III,B,2020-10,101.497
+region,Region III,B,2020-11,113.76
+region,Region III,B,2020-12,121.135
+region,Region III,B,2021-01,128.318
+region,Region III,B,2021-02,118.601
+region,Region III,B,2021-03,106.865
+region,Region III,B,2021-04,102.858
+region,Region III,B,2021-05,100.396
+region,Region III,B,2021-06,100.771
+region,Region III,B,2021-07,103.84
+region,Region III,B,2021-08,114.94
+region,Region III,B,2021-09,114.22
+region,Region III,B,2021-10,111.211
+region,Region III,B,2021-11,112.308
+region,Region III,B,2021-12,110.281
+region,Region III,B,2022-01,118.415
+region,Region III,B,2022-02,114.242
+region,Region III,B,2022-03,112.515
+region,Region III,B,2022-04,114.433
+region,Region III,B,2022-05,114.853
+region,Region III,B,2022-06,116.472
+region,Region III,B,2022-07,116.035
+region,Region III,B,2022-08,115.78
+region,Region III,B,2022-09,118.762
+region,Region III,B,2022-10,127.934
+region,Region III,B,2022-11,134.111
+region,Region III,B,2022-12,134.524
+region,Region III,B,2023-01,140.856
+region,Region III,B,2023-02,131.228
+region,Region III,B,2023-03,126.727
+region,Region III,B,2023-04,122.721
+region,Region III,B,2023-05,122.536
+region,Region III,B,2023-06,123.391
+region,Region III,B,2023-07,129.285
+region,Region III,B,2023-08,141.612
+region,Region III,B,2023-09,144.341
+region,Region III,B,2023-10,140.09
+region,Region III,B,2023-11,137.503
+region,Region III,B,2023-12,134.177
+region,Region III,B,2024-01,135.863
+region,Region III,B,2024-02,135.389
+region,Region III,B,2024-03,131.513
+region,Region III,B,2024-04,129.267
+region,Region III,B,2024-05,128.335
+region,Region III,B,2024-06,132.64
+region,Region III,B,2024-07,137.968
+region,Region III,B,2024-08,140.139
+region,Region III,B,2024-09,134.766
+region,Region III,B,2024-10,139.321
+region,Region III,B,2024-11,144.3
+region,Region III,B,2024-12,150.59
+region,Region III,B,2025-01,155.229
+region,Region III,B,2025-02,145.194
+region,Region III,B,2025-03,137.744
+region,Region III,B,2025-04,133.625
+region,Region III,B,2025-05,135.527
+region,Region III,B,2025-06,134.933
+region,Region III,B,2025-07,136.272
+region,Region III,B,2025-08,151.292
+region,Region III,B,2025-09,149.548
+region,Region III,B,2025-10,149.859
+region,Region III,B,2025-11,147.687
+region,Region III,B,2025-12,158.779
+region,Region III,B,2026-01,155.95
+region,Region III,B,2026-02,146.949
+region,Region III,B,2026-03,140.442
+region,Region III,B,2026-04,140.411
+region,Region III,B,2026-05,138.319
+region,Region III,B,2026-06,140.917
+region,Region IV-A,B,2020-05,100.0
+region,Region IV-A,B,2020-06,97.095
+region,Region IV-A,B,2020-07,94.781
+region,Region IV-A,B,2020-08,95.563
+region,Region IV-A,B,2020-09,95.914
+region,Region IV-A,B,2020-10,101.757
+region,Region IV-A,B,2020-11,113.816
+region,Region IV-A,B,2020-12,116.375
+region,Region IV-A,B,2021-01,125.364
+region,Region IV-A,B,2021-02,117.236
+region,Region IV-A,B,2021-03,106.434
+region,Region IV-A,B,2021-04,102.123
+region,Region IV-A,B,2021-05,99.523
+region,Region IV-A,B,2021-06,100.147
+region,Region IV-A,B,2021-07,102.132
+region,Region IV-A,B,2021-08,112.333
+region,Region IV-A,B,2021-09,112.418
+region,Region IV-A,B,2021-10,110.138
+region,Region IV-A,B,2021-11,112.462
+region,Region IV-A,B,2021-12,109.596
+region,Region IV-A,B,2022-01,113.986
+region,Region IV-A,B,2022-02,108.301
+region,Region IV-A,B,2022-03,108.037
+region,Region IV-A,B,2022-04,108.419
+region,Region IV-A,B,2022-05,108.54
+region,Region IV-A,B,2022-06,111.218
+region,Region IV-A,B,2022-07,111.618
+region,Region IV-A,B,2022-08,112.407
+region,Region IV-A,B,2022-09,113.224
+region,Region IV-A,B,2022-10,116.527
+region,Region IV-A,B,2022-11,122.723
+region,Region IV-A,B,2022-12,122.402
+region,Region IV-A,B,2023-01,127.442
+region,Region IV-A,B,2023-02,123.898
+region,Region IV-A,B,2023-03,117.376
+region,Region IV-A,B,2023-04,114.302
+region,Region IV-A,B,2023-05,113.694
+region,Region IV-A,B,2023-06,113.671
+region,Region IV-A,B,2023-07,117.141
+region,Region IV-A,B,2023-08,124.96
+region,Region IV-A,B,2023-09,128.881
+region,Region IV-A,B,2023-10,126.746
+region,Region IV-A,B,2023-11,125.181
+region,Region IV-A,B,2023-12,122.894
+region,Region IV-A,B,2024-01,123.067
+region,Region IV-A,B,2024-02,123.567
+region,Region IV-A,B,2024-03,122.826
+region,Region IV-A,B,2024-04,121.811
+region,Region IV-A,B,2024-05,121.712
+region,Region IV-A,B,2024-06,126.665
+region,Region IV-A,B,2024-07,127.33
+region,Region IV-A,B,2024-08,129.601
+region,Region IV-A,B,2024-09,127.855
+region,Region IV-A,B,2024-10,131.336
+region,Region IV-A,B,2024-11,136.375
+region,Region IV-A,B,2024-12,138.798
+region,Region IV-A,B,2025-01,140.725
+region,Region IV-A,B,2025-02,133.934
+region,Region IV-A,B,2025-03,130.989
+region,Region IV-A,B,2025-04,126.638
+region,Region IV-A,B,2025-05,127.747
+region,Region IV-A,B,2025-06,128.25
+region,Region IV-A,B,2025-07,131.149
+region,Region IV-A,B,2025-08,144.745
+region,Region IV-A,B,2025-09,141.568
+region,Region IV-A,B,2025-10,142.527
+region,Region IV-A,B,2025-11,142.109
+region,Region IV-A,B,2025-12,150.949
+region,Region IV-A,B,2026-01,147.293
+region,Region IV-A,B,2026-02,136.808
+region,Region IV-A,B,2026-03,132.496
+region,Region IV-A,B,2026-04,131.669
+region,Region IV-A,B,2026-05,131.029
+region,Region IV-A,B,2026-06,129.991
+region,Region IV-B,B,2020-05,100.0
+region,Region IV-B,B,2020-06,98.789
+region,Region IV-B,B,2020-07,95.294
+region,Region IV-B,B,2020-08,96.788
+region,Region IV-B,B,2020-09,97.58
+region,Region IV-B,B,2020-10,101.255
+region,Region IV-B,B,2020-11,108.147
+region,Region IV-B,B,2020-12,112.413
+region,Region IV-B,B,2021-01,117.876
+region,Region IV-B,B,2021-02,115.246
+region,Region IV-B,B,2021-03,112.773
+region,Region IV-B,B,2021-04,109.751
+region,Region IV-B,B,2021-05,104.259
+region,Region IV-B,B,2021-06,103.173
+region,Region IV-B,B,2021-07,106.058
+region,Region IV-B,B,2021-08,107.63
+region,Region IV-B,B,2021-09,109.652
+region,Region IV-B,B,2021-10,109.218
+region,Region IV-B,B,2021-11,108.988
+region,Region IV-B,B,2021-12,111.65
+region,Region IV-B,B,2022-01,119.699
+region,Region IV-B,B,2022-02,114.978
+region,Region IV-B,B,2022-03,113.336
+region,Region IV-B,B,2022-04,112.393
+region,Region IV-B,B,2022-05,112.318
+region,Region IV-B,B,2022-06,113.38
+region,Region IV-B,B,2022-07,115.269
+region,Region IV-B,B,2022-08,115.258
+region,Region IV-B,B,2022-09,115.166
+region,Region IV-B,B,2022-10,117.903
+region,Region IV-B,B,2022-11,121.375
+region,Region IV-B,B,2022-12,127.595
+region,Region IV-B,B,2023-01,132.762
+region,Region IV-B,B,2023-02,130.774
+region,Region IV-B,B,2023-03,127.836
+region,Region IV-B,B,2023-04,124.239
+region,Region IV-B,B,2023-05,123.313
+region,Region IV-B,B,2023-06,123.438
+region,Region IV-B,B,2023-07,123.39
+region,Region IV-B,B,2023-08,127.45
+region,Region IV-B,B,2023-09,130.114
+region,Region IV-B,B,2023-10,130.325
+region,Region IV-B,B,2023-11,128.465
+region,Region IV-B,B,2023-12,126.864
+region,Region IV-B,B,2024-01,127.502
+region,Region IV-B,B,2024-02,126.891
+region,Region IV-B,B,2024-03,125.965
+region,Region IV-B,B,2024-04,123.475
+region,Region IV-B,B,2024-05,123.739
+region,Region IV-B,B,2024-06,124.087
+region,Region IV-B,B,2024-07,125.605
+region,Region IV-B,B,2024-08,128.464
+region,Region IV-B,B,2024-09,125.437
+region,Region IV-B,B,2024-10,128.912
+region,Region IV-B,B,2024-11,134.743
+region,Region IV-B,B,2024-12,135.448
+region,Region IV-B,B,2025-01,137.373
+region,Region IV-B,B,2025-02,135.329
+region,Region IV-B,B,2025-03,133.298
+region,Region IV-B,B,2025-04,130.446
+region,Region IV-B,B,2025-05,130.236
+region,Region IV-B,B,2025-06,130.005
+region,Region IV-B,B,2025-07,129.995
+region,Region IV-B,B,2025-08,136.307
+region,Region IV-B,B,2025-09,139.113
+region,Region IV-B,B,2025-10,139.3
+region,Region IV-B,B,2025-11,138.566
+region,Region IV-B,B,2025-12,142.625
+region,Region IV-B,B,2026-01,143.331
+region,Region IV-B,B,2026-02,141.542
+region,Region IV-B,B,2026-03,139.442
+region,Region IV-B,B,2026-04,139.988
+region,Region IV-B,B,2026-05,137.341
+region,Region IV-B,B,2026-06,136.326
+region,Region IX,B,2020-05,100.0
+region,Region IX,B,2020-06,98.41
+region,Region IX,B,2020-07,96.532
+region,Region IX,B,2020-08,94.196
+region,Region IX,B,2020-09,95.944
+region,Region IX,B,2020-10,100.407
+region,Region IX,B,2020-11,102.404
+region,Region IX,B,2020-12,105.242
+region,Region IX,B,2021-01,103.15
+region,Region IX,B,2021-02,107.82
+region,Region IX,B,2021-03,106.29
+region,Region IX,B,2021-04,103.292
+region,Region IX,B,2021-05,101.938
+region,Region IX,B,2021-06,100.54
+region,Region IX,B,2021-07,103.358
+region,Region IX,B,2021-08,101.167
+region,Region IX,B,2021-09,101.909
+region,Region IX,B,2021-10,104.293
+region,Region IX,B,2021-11,105.352
+region,Region IX,B,2021-12,107.826
+region,Region IX,B,2022-01,116.284
+region,Region IX,B,2022-02,114.703
+region,Region IX,B,2022-03,110.961
+region,Region IX,B,2022-04,110.042
+region,Region IX,B,2022-05,111.202
+region,Region IX,B,2022-06,112.151
+region,Region IX,B,2022-07,113.871
+region,Region IX,B,2022-08,114.872
+region,Region IX,B,2022-09,116.75
+region,Region IX,B,2022-10,117.01
+region,Region IX,B,2022-11,118.168
+region,Region IX,B,2022-12,120.512
+region,Region IX,B,2023-01,125.78
+region,Region IX,B,2023-02,127.492
+region,Region IX,B,2023-03,123.222
+region,Region IX,B,2023-04,117.171
+region,Region IX,B,2023-05,118.258
+region,Region IX,B,2023-06,119.087
+region,Region IX,B,2023-07,118.87
+region,Region IX,B,2023-08,121.158
+region,Region IX,B,2023-09,121.896
+region,Region IX,B,2023-10,123.797
+region,Region IX,B,2023-11,124.613
+region,Region IX,B,2023-12,125.328
+region,Region IX,B,2024-01,125.609
+region,Region IX,B,2024-02,123.67
+region,Region IX,B,2024-03,122.681
+region,Region IX,B,2024-04,122.732
+region,Region IX,B,2024-05,124.894
+region,Region IX,B,2024-06,126.645
+region,Region IX,B,2024-07,129.208
+region,Region IX,B,2024-08,129.997
+region,Region IX,B,2024-09,124.361
+region,Region IX,B,2024-10,124.127
+region,Region IX,B,2024-11,127.994
+region,Region IX,B,2024-12,128.176
+region,Region IX,B,2025-01,131.559
+region,Region IX,B,2025-02,129.461
+region,Region IX,B,2025-03,127.949
+region,Region IX,B,2025-04,123.225
+region,Region IX,B,2025-05,124.406
+region,Region IX,B,2025-06,125.642
+region,Region IX,B,2025-07,127.864
+region,Region IX,B,2025-08,129.806
+region,Region IX,B,2025-09,130.669
+region,Region IX,B,2025-10,130.139
+region,Region IX,B,2025-11,128.399
+region,Region IX,B,2025-12,134.051
+region,Region IX,B,2026-01,137.027
+region,Region IX,B,2026-02,136.848
+region,Region IX,B,2026-03,138.363
+region,Region IX,B,2026-04,141.314
+region,Region IX,B,2026-05,141.752
+region,Region IX,B,2026-06,139.572
+region,Region V,B,2020-05,100.0
+region,Region V,B,2020-06,98.468
+region,Region V,B,2020-07,95.604
+region,Region V,B,2020-08,96.171
+region,Region V,B,2020-09,96.758
+region,Region V,B,2020-10,99.466
+region,Region V,B,2020-11,113.609
+region,Region V,B,2020-12,117.521
+region,Region V,B,2021-01,124.075
+region,Region V,B,2021-02,119.816
+region,Region V,B,2021-03,113.123
+region,Region V,B,2021-04,107.999
+region,Region V,B,2021-05,105.446
+region,Region V,B,2021-06,103.884
+region,Region V,B,2021-07,105.104
+region,Region V,B,2021-08,109.907
+region,Region V,B,2021-09,112.205
+region,Region V,B,2021-10,109.67
+region,Region V,B,2021-11,110.962
+region,Region V,B,2021-12,112.218
+region,Region V,B,2022-01,122.685
+region,Region V,B,2022-02,118.451
+region,Region V,B,2022-03,116.826
+region,Region V,B,2022-04,115.324
+region,Region V,B,2022-05,115.149
+region,Region V,B,2022-06,115.559
+region,Region V,B,2022-07,116.367
+region,Region V,B,2022-08,117.034
+region,Region V,B,2022-09,117.706
+region,Region V,B,2022-10,121.027
+region,Region V,B,2022-11,127.66
+region,Region V,B,2022-12,131.757
+region,Region V,B,2023-01,137.414
+region,Region V,B,2023-02,135.338
+region,Region V,B,2023-03,129.754
+region,Region V,B,2023-04,125.917
+region,Region V,B,2023-05,124.433
+region,Region V,B,2023-06,120.942
+region,Region V,B,2023-07,125.288
+region,Region V,B,2023-08,133.494
+region,Region V,B,2023-09,138.387
+region,Region V,B,2023-10,138.155
+region,Region V,B,2023-11,137.621
+region,Region V,B,2023-12,137.097
+region,Region V,B,2024-01,136.507
+region,Region V,B,2024-02,135.837
+region,Region V,B,2024-03,132.376
+region,Region V,B,2024-04,128.365
+region,Region V,B,2024-05,127.914
+region,Region V,B,2024-06,133.312
+region,Region V,B,2024-07,135.087
+region,Region V,B,2024-08,137.192
+region,Region V,B,2024-09,132.017
+region,Region V,B,2024-10,134.243
+region,Region V,B,2024-11,145.77
+region,Region V,B,2024-12,147.931
+region,Region V,B,2025-01,153.727
+region,Region V,B,2025-02,145.999
+region,Region V,B,2025-03,142.126
+region,Region V,B,2025-04,137.331
+region,Region V,B,2025-05,139.589
+region,Region V,B,2025-06,139.192
+region,Region V,B,2025-07,138.234
+region,Region V,B,2025-08,148.063
+region,Region V,B,2025-09,147.394
+region,Region V,B,2025-10,148.443
+region,Region V,B,2025-11,149.065
+region,Region V,B,2025-12,162.065
+region,Region V,B,2026-01,162.348
+region,Region V,B,2026-02,153.057
+region,Region V,B,2026-03,149.394
+region,Region V,B,2026-04,147.884
+region,Region V,B,2026-05,147.102
+region,Region V,B,2026-06,145.81
+region,Region VI,B,2020-05,100.0
+region,Region VI,B,2020-06,98.338
+region,Region VI,B,2020-07,96.673
+region,Region VI,B,2020-08,96.659
+region,Region VI,B,2020-09,96.107
+region,Region VI,B,2020-10,97.469
+region,Region VI,B,2020-11,103.877
+region,Region VI,B,2020-12,108.222
+region,Region VI,B,2021-01,109.453
+region,Region VI,B,2021-02,111.367
+region,Region VI,B,2021-03,106.912
+region,Region VI,B,2021-04,102.622
+region,Region VI,B,2021-05,100.774
+region,Region VI,B,2021-06,100.485
+region,Region VI,B,2021-07,101.107
+region,Region VI,B,2021-08,104.227
+region,Region VI,B,2021-09,103.984
+region,Region VI,B,2021-10,105.534
+region,Region VI,B,2021-11,107.405
+region,Region VI,B,2021-12,109.83
+region,Region VI,B,2022-01,119.567
+region,Region VI,B,2022-02,113.267
+region,Region VI,B,2022-03,112.387
+region,Region VI,B,2022-04,111.544
+region,Region VI,B,2022-05,113.065
+region,Region VI,B,2022-06,112.839
+region,Region VI,B,2022-07,114.051
+region,Region VI,B,2022-08,114.65
+region,Region VI,B,2022-09,114.401
+region,Region VI,B,2022-10,116.143
+region,Region VI,B,2022-11,122.123
+region,Region VI,B,2022-12,126.561
+region,Region VI,B,2023-01,130.519
+region,Region VI,B,2023-02,128.839
+region,Region VI,B,2023-03,124.945
+region,Region VI,B,2023-04,118.826
+region,Region VI,B,2023-05,120.304
+region,Region VI,B,2023-06,121.92
+region,Region VI,B,2023-07,123.587
+region,Region VI,B,2023-08,129.512
+region,Region VI,B,2023-09,131.785
+region,Region VI,B,2023-10,131.446
+region,Region VI,B,2023-11,132.184
+region,Region VI,B,2023-12,132.481
+region,Region VI,B,2024-01,132.375
+region,Region VI,B,2024-02,132.458
+region,Region VI,B,2024-03,131.008
+region,Region VI,B,2024-04,130.603
+region,Region VI,B,2024-05,130.968
+region,Region VI,B,2024-06,134.917
+region,Region VI,B,2024-07,135.873
+region,Region VI,B,2024-08,137.763
+region,Region VI,B,2024-09,132.014
+region,Region VI,B,2024-10,132.228
+region,Region VI,B,2024-11,135.597
+region,Region VI,B,2024-12,137.016
+region,Region VI,B,2025-01,141.267
+region,Region VI,B,2025-02,137.72
+region,Region VI,B,2025-03,134.725
+region,Region VI,B,2025-04,131.18
+region,Region VI,B,2025-05,132.798
+region,Region VI,B,2025-06,133.237
+region,Region VI,B,2025-07,132.422
+region,Region VI,B,2025-08,139.048
+region,Region VI,B,2025-09,139.054
+region,Region VI,B,2025-10,138.035
+region,Region VI,B,2025-11,139.981
+region,Region VI,B,2025-12,145.111
+region,Region VI,B,2026-01,146.482
+region,Region VI,B,2026-02,144.258
+region,Region VI,B,2026-03,142.508
+region,Region VI,B,2026-04,139.656
+region,Region VI,B,2026-05,141.063
+region,Region VI,B,2026-06,140.967
+region,Region VII,B,2020-05,100.0
+region,Region VII,B,2020-06,98.497
+region,Region VII,B,2020-07,95.089
+region,Region VII,B,2020-08,92.331
+region,Region VII,B,2020-09,93.277
+region,Region VII,B,2020-10,96.537
+region,Region VII,B,2020-11,98.824
+region,Region VII,B,2020-12,101.004
+region,Region VII,B,2021-01,111.694
+region,Region VII,B,2021-02,114.549
+region,Region VII,B,2021-03,111.636
+region,Region VII,B,2021-04,106.756
+region,Region VII,B,2021-05,105.509
+region,Region VII,B,2021-06,104.473
+region,Region VII,B,2021-07,105.575
+region,Region VII,B,2021-08,105.923
+region,Region VII,B,2021-09,107.413
+region,Region VII,B,2021-10,108.736
+region,Region VII,B,2021-11,109.793
+region,Region VII,B,2021-12,111.28
+region,Region VII,B,2022-01,118.17
+region,Region VII,B,2022-02,110.897
+region,Region VII,B,2022-03,105.308
+region,Region VII,B,2022-04,104.01
+region,Region VII,B,2022-05,105.307
+region,Region VII,B,2022-06,106.71
+region,Region VII,B,2022-07,107.344
+region,Region VII,B,2022-08,107.286
+region,Region VII,B,2022-09,107.654
+region,Region VII,B,2022-10,108.573
+region,Region VII,B,2022-11,112.266
+region,Region VII,B,2022-12,116.176
+region,Region VII,B,2023-01,117.034
+region,Region VII,B,2023-02,120.435
+region,Region VII,B,2023-03,117.108
+region,Region VII,B,2023-04,112.079
+region,Region VII,B,2023-05,113.259
+region,Region VII,B,2023-06,112.078
+region,Region VII,B,2023-07,113.513
+region,Region VII,B,2023-08,117.049
+region,Region VII,B,2023-09,118.133
+region,Region VII,B,2023-10,118.494
+region,Region VII,B,2023-11,120.286
+region,Region VII,B,2023-12,121.389
+region,Region VII,B,2024-01,121.023
+region,Region VII,B,2024-02,118.726
+region,Region VII,B,2024-03,116.769
+region,Region VII,B,2024-04,116.847
+region,Region VII,B,2024-05,124.682
+region,Region VII,B,2024-06,128.481
+region,Region VII,B,2024-07,131.112
+region,Region VII,B,2024-08,126.639
+region,Region VII,B,2024-09,118.705
+region,Region VII,B,2024-10,121.679
+region,Region VII,B,2024-11,126.195
+region,Region VII,B,2024-12,126.831
+region,Region VII,B,2025-01,128.449
+region,Region VII,B,2025-02,127.046
+region,Region VII,B,2025-03,125.06
+region,Region VII,B,2025-04,121.151
+region,Region VII,B,2025-05,120.752
+region,Region VII,B,2025-06,122.125
+region,Region VII,B,2025-07,122.631
+region,Region VII,B,2025-08,127.286
+region,Region VII,B,2025-09,129.412
+region,Region VII,B,2025-10,128.955
+region,Region VII,B,2025-11,130.566
+region,Region VII,B,2025-12,140.191
+region,Region VII,B,2026-01,139.412
+region,Region VII,B,2026-02,139.293
+region,Region VII,B,2026-03,136.234
+region,Region VII,B,2026-04,136.261
+region,Region VII,B,2026-05,139.136
+region,Region VII,B,2026-06,138.382
+region,Region VIII,B,2020-05,100.0
+region,Region VIII,B,2020-06,98.262
+region,Region VIII,B,2020-07,96.997
+region,Region VIII,B,2020-08,97.412
+region,Region VIII,B,2020-09,97.99
+region,Region VIII,B,2020-10,99.981
+region,Region VIII,B,2020-11,104.154
+region,Region VIII,B,2020-12,107.242
+region,Region VIII,B,2021-01,108.841
+region,Region VIII,B,2021-02,112.117
+region,Region VIII,B,2021-03,109.403
+region,Region VIII,B,2021-04,104.657
+region,Region VIII,B,2021-05,103.63
+region,Region VIII,B,2021-06,102.864
+region,Region VIII,B,2021-07,101.946
+region,Region VIII,B,2021-08,103.259
+region,Region VIII,B,2021-09,104.152
+region,Region VIII,B,2021-10,105.173
+region,Region VIII,B,2021-11,104.42
+region,Region VIII,B,2021-12,106.067
+region,Region VIII,B,2022-01,119.358
+region,Region VIII,B,2022-02,117.716
+region,Region VIII,B,2022-03,115.022
+region,Region VIII,B,2022-04,113.945
+region,Region VIII,B,2022-05,113.56
+region,Region VIII,B,2022-06,113.828
+region,Region VIII,B,2022-07,114.157
+region,Region VIII,B,2022-08,112.381
+region,Region VIII,B,2022-09,113.146
+region,Region VIII,B,2022-10,114.759
+region,Region VIII,B,2022-11,117.185
+region,Region VIII,B,2022-12,119.289
+region,Region VIII,B,2023-01,124.006
+region,Region VIII,B,2023-02,126.465
+region,Region VIII,B,2023-03,125.559
+region,Region VIII,B,2023-04,121.962
+region,Region VIII,B,2023-05,120.164
+region,Region VIII,B,2023-06,118.494
+region,Region VIII,B,2023-07,118.116
+region,Region VIII,B,2023-08,122.427
+region,Region VIII,B,2023-09,124.195
+region,Region VIII,B,2023-10,124.58
+region,Region VIII,B,2023-11,127.138
+region,Region VIII,B,2023-12,126.958
+region,Region VIII,B,2024-01,127.849
+region,Region VIII,B,2024-02,126.683
+region,Region VIII,B,2024-03,124.581
+region,Region VIII,B,2024-04,122.809
+region,Region VIII,B,2024-05,124.401
+region,Region VIII,B,2024-06,125.999
+region,Region VIII,B,2024-07,128.186
+region,Region VIII,B,2024-08,128.457
+region,Region VIII,B,2024-09,127.089
+region,Region VIII,B,2024-10,129.208
+region,Region VIII,B,2024-11,132.246
+region,Region VIII,B,2024-12,133.036
+region,Region VIII,B,2025-01,137.098
+region,Region VIII,B,2025-02,136.788
+region,Region VIII,B,2025-03,134.524
+region,Region VIII,B,2025-04,130.761
+region,Region VIII,B,2025-05,129.777
+region,Region VIII,B,2025-06,132.308
+region,Region VIII,B,2025-07,129.575
+region,Region VIII,B,2025-08,132.893
+region,Region VIII,B,2025-09,134.912
+region,Region VIII,B,2025-10,136.238
+region,Region VIII,B,2025-11,136.999
+region,Region VIII,B,2025-12,143.514
+region,Region VIII,B,2026-01,143.635
+region,Region VIII,B,2026-02,144.637
+region,Region VIII,B,2026-03,143.237
+region,Region VIII,B,2026-04,143.789
+region,Region VIII,B,2026-05,141.459
+region,Region VIII,B,2026-06,139.749
+region,Region X,B,2020-05,100.0
+region,Region X,B,2020-06,97.066
+region,Region X,B,2020-07,92.749
+region,Region X,B,2020-08,91.204
+region,Region X,B,2020-09,91.514
+region,Region X,B,2020-10,93.87
+region,Region X,B,2020-11,96.302
+region,Region X,B,2020-12,99.941
+region,Region X,B,2021-01,102.102
+region,Region X,B,2021-02,107.249
+region,Region X,B,2021-03,104.053
+region,Region X,B,2021-04,102.473
+region,Region X,B,2021-05,101.976
+region,Region X,B,2021-06,100.963
+region,Region X,B,2021-07,102.07
+region,Region X,B,2021-08,101.603
+region,Region X,B,2021-09,102.007
+region,Region X,B,2021-10,102.416
+region,Region X,B,2021-11,102.641
+region,Region X,B,2021-12,103.366
+region,Region X,B,2022-01,112.7
+region,Region X,B,2022-02,113.779
+region,Region X,B,2022-03,111.27
+region,Region X,B,2022-04,110.716
+region,Region X,B,2022-05,110.306
+region,Region X,B,2022-06,111.539
+region,Region X,B,2022-07,112.771
+region,Region X,B,2022-08,112.273
+region,Region X,B,2022-09,113.431
+region,Region X,B,2022-10,115.235
+region,Region X,B,2022-11,117.539
+region,Region X,B,2022-12,120.386
+region,Region X,B,2023-01,125.625
+region,Region X,B,2023-02,128.494
+region,Region X,B,2023-03,125.655
+region,Region X,B,2023-04,122.713
+region,Region X,B,2023-05,121.896
+region,Region X,B,2023-06,121.063
+region,Region X,B,2023-07,120.792
+region,Region X,B,2023-08,126.08
+region,Region X,B,2023-09,129.043
+region,Region X,B,2023-10,127.644
+region,Region X,B,2023-11,128.5
+region,Region X,B,2023-12,129.548
+region,Region X,B,2024-01,131.007
+region,Region X,B,2024-02,129.503
+region,Region X,B,2024-03,128.471
+region,Region X,B,2024-04,127.882
+region,Region X,B,2024-05,132.214
+region,Region X,B,2024-06,133.455
+region,Region X,B,2024-07,135.852
+region,Region X,B,2024-08,136.545
+region,Region X,B,2024-09,127.787
+region,Region X,B,2024-10,131.861
+region,Region X,B,2024-11,133.983
+region,Region X,B,2024-12,136.606
+region,Region X,B,2025-01,137.897
+region,Region X,B,2025-02,137.828
+region,Region X,B,2025-03,135.267
+region,Region X,B,2025-04,132.028
+region,Region X,B,2025-05,131.416
+region,Region X,B,2025-06,132.383
+region,Region X,B,2025-07,133.137
+region,Region X,B,2025-08,135.885
+region,Region X,B,2025-09,137.381
+region,Region X,B,2025-10,137.567
+region,Region X,B,2025-11,135.765
+region,Region X,B,2025-12,142.351
+region,Region X,B,2026-01,140.508
+region,Region X,B,2026-02,140.415
+region,Region X,B,2026-03,142.8
+region,Region X,B,2026-04,144.17
+region,Region X,B,2026-05,146.37
+region,Region X,B,2026-06,144.753
+region,Region XI,B,2020-05,100.0
+region,Region XI,B,2020-06,96.376
+region,Region XI,B,2020-07,90.925
+region,Region XI,B,2020-08,88.466
+region,Region XI,B,2020-09,90.195
+region,Region XI,B,2020-10,93.482
+region,Region XI,B,2020-11,96.742
+region,Region XI,B,2020-12,100.295
+region,Region XI,B,2021-01,106.12
+region,Region XI,B,2021-02,111.562
+region,Region XI,B,2021-03,107.072
+region,Region XI,B,2021-04,102.52
+region,Region XI,B,2021-05,101.869
+region,Region XI,B,2021-06,100.784
+region,Region XI,B,2021-07,102.567
+region,Region XI,B,2021-08,109.577
+region,Region XI,B,2021-09,109.172
+region,Region XI,B,2021-10,108.785
+region,Region XI,B,2021-11,109.021
+region,Region XI,B,2021-12,109.891
+region,Region XI,B,2022-01,117.158
+region,Region XI,B,2022-02,114.728
+region,Region XI,B,2022-03,113.688
+region,Region XI,B,2022-04,112.973
+region,Region XI,B,2022-05,114.823
+region,Region XI,B,2022-06,114.447
+region,Region XI,B,2022-07,114.78
+region,Region XI,B,2022-08,115.614
+region,Region XI,B,2022-09,116.61
+region,Region XI,B,2022-10,117.161
+region,Region XI,B,2022-11,118.249
+region,Region XI,B,2022-12,119.505
+region,Region XI,B,2023-01,123.589
+region,Region XI,B,2023-02,125.489
+region,Region XI,B,2023-03,123.499
+region,Region XI,B,2023-04,119.993
+region,Region XI,B,2023-05,118.614
+region,Region XI,B,2023-06,119.218
+region,Region XI,B,2023-07,120.657
+region,Region XI,B,2023-08,125.051
+region,Region XI,B,2023-09,125.146
+region,Region XI,B,2023-10,126.017
+region,Region XI,B,2023-11,128.954
+region,Region XI,B,2023-12,131.224
+region,Region XI,B,2024-01,132.657
+region,Region XI,B,2024-02,138.959
+region,Region XI,B,2024-03,136.206
+region,Region XI,B,2024-04,133.78
+region,Region XI,B,2024-05,133.373
+region,Region XI,B,2024-06,132.509
+region,Region XI,B,2024-07,137.783
+region,Region XI,B,2024-08,136.212
+region,Region XI,B,2024-09,130.391
+region,Region XI,B,2024-10,128.148
+region,Region XI,B,2024-11,131.367
+region,Region XI,B,2024-12,134.063
+region,Region XI,B,2025-01,137.892
+region,Region XI,B,2025-02,134.996
+region,Region XI,B,2025-03,134.3
+region,Region XI,B,2025-04,130.508
+region,Region XI,B,2025-05,131.319
+region,Region XI,B,2025-06,129.976
+region,Region XI,B,2025-07,130.891
+region,Region XI,B,2025-08,134.524
+region,Region XI,B,2025-09,134.34
+region,Region XI,B,2025-10,134.398
+region,Region XI,B,2025-11,135.181
+region,Region XI,B,2025-12,137.908
+region,Region XI,B,2026-01,138.635
+region,Region XI,B,2026-02,139.238
+region,Region XI,B,2026-03,142.457
+region,Region XI,B,2026-04,143.124
+region,Region XI,B,2026-05,143.318
+region,Region XI,B,2026-06,141.19
+region,Region XII,B,2020-05,100.0
+region,Region XII,B,2020-06,96.958
+region,Region XII,B,2020-07,93.645
+region,Region XII,B,2020-08,92.238
+region,Region XII,B,2020-09,91.791
+region,Region XII,B,2020-10,94.085
+region,Region XII,B,2020-11,96.727
+region,Region XII,B,2020-12,97.649
+region,Region XII,B,2021-01,113.633
+region,Region XII,B,2021-02,116.941
+region,Region XII,B,2021-03,111.269
+region,Region XII,B,2021-04,106.743
+region,Region XII,B,2021-05,108.237
+region,Region XII,B,2021-06,109.171
+region,Region XII,B,2021-07,111.396
+region,Region XII,B,2021-08,111.623
+region,Region XII,B,2021-09,109.53
+region,Region XII,B,2021-10,110.238
+region,Region XII,B,2021-11,110.027
+region,Region XII,B,2021-12,111.837
+region,Region XII,B,2022-01,118.181
+region,Region XII,B,2022-02,118.748
+region,Region XII,B,2022-03,115.451
+region,Region XII,B,2022-04,116.069
+region,Region XII,B,2022-05,115.122
+region,Region XII,B,2022-06,116.992
+region,Region XII,B,2022-07,116.553
+region,Region XII,B,2022-08,118.326
+region,Region XII,B,2022-09,119.937
+region,Region XII,B,2022-10,118.535
+region,Region XII,B,2022-11,119.492
+region,Region XII,B,2022-12,124.177
+region,Region XII,B,2023-01,126.003
+region,Region XII,B,2023-02,126.439
+region,Region XII,B,2023-03,123.435
+region,Region XII,B,2023-04,120.671
+region,Region XII,B,2023-05,121.289
+region,Region XII,B,2023-06,122.924
+region,Region XII,B,2023-07,125.464
+region,Region XII,B,2023-08,128.929
+region,Region XII,B,2023-09,127.093
+region,Region XII,B,2023-10,127.321
+region,Region XII,B,2023-11,129.498
+region,Region XII,B,2023-12,130.577
+region,Region XII,B,2024-01,131.726
+region,Region XII,B,2024-02,132.644
+region,Region XII,B,2024-03,128.73
+region,Region XII,B,2024-04,131.744
+region,Region XII,B,2024-05,135.348
+region,Region XII,B,2024-06,136.423
+region,Region XII,B,2024-07,139.792
+region,Region XII,B,2024-08,139.159
+region,Region XII,B,2024-09,128.166
+region,Region XII,B,2024-10,127.161
+region,Region XII,B,2024-11,131.842
+region,Region XII,B,2024-12,134.484
+region,Region XII,B,2025-01,138.486
+region,Region XII,B,2025-02,133.827
+region,Region XII,B,2025-03,131.246
+region,Region XII,B,2025-04,127.835
+region,Region XII,B,2025-05,130.699
+region,Region XII,B,2025-06,132.551
+region,Region XII,B,2025-07,133.959
+region,Region XII,B,2025-08,137.775
+region,Region XII,B,2025-09,137.402
+region,Region XII,B,2025-10,136.977
+region,Region XII,B,2025-11,136.804
+region,Region XII,B,2025-12,140.971
+region,Region XII,B,2026-01,140.526
+region,Region XII,B,2026-02,140.077
+region,Region XII,B,2026-03,144.169
+region,Region XII,B,2026-04,144.928
+region,Region XII,B,2026-05,146.044
+region,Region XII,B,2026-06,144.661
+region,Region XIII,B,2020-05,100.0
+region,Region XIII,B,2020-06,96.89
+region,Region XIII,B,2020-07,95.066
+region,Region XIII,B,2020-08,93.494
+region,Region XIII,B,2020-09,95.404
+region,Region XIII,B,2020-10,97.251
+region,Region XIII,B,2020-11,100.047
+region,Region XIII,B,2020-12,104.792
+region,Region XIII,B,2021-01,105.432
+region,Region XIII,B,2021-02,110.841
+region,Region XIII,B,2021-03,106.636
+region,Region XIII,B,2021-04,101.089
+region,Region XIII,B,2021-05,98.989
+region,Region XIII,B,2021-06,96.993
+region,Region XIII,B,2021-07,99.116
+region,Region XIII,B,2021-08,98.911
+region,Region XIII,B,2021-09,99.824
+region,Region XIII,B,2021-10,99.427
+region,Region XIII,B,2021-11,100.041
+region,Region XIII,B,2021-12,101.116
+region,Region XIII,B,2022-01,107.97
+region,Region XIII,B,2022-02,108.524
+region,Region XIII,B,2022-03,106.792
+region,Region XIII,B,2022-04,105.83
+region,Region XIII,B,2022-05,107.479
+region,Region XIII,B,2022-06,109.012
+region,Region XIII,B,2022-07,110.251
+region,Region XIII,B,2022-08,109.127
+region,Region XIII,B,2022-09,108.49
+region,Region XIII,B,2022-10,108.314
+region,Region XIII,B,2022-11,109.612
+region,Region XIII,B,2022-12,112.377
+region,Region XIII,B,2023-01,119.58
+region,Region XIII,B,2023-02,123.111
+region,Region XIII,B,2023-03,118.988
+region,Region XIII,B,2023-04,113.753
+region,Region XIII,B,2023-05,113.669
+region,Region XIII,B,2023-06,112.923
+region,Region XIII,B,2023-07,113.549
+region,Region XIII,B,2023-08,115.674
+region,Region XIII,B,2023-09,116.081
+region,Region XIII,B,2023-10,115.209
+region,Region XIII,B,2023-11,117.94
+region,Region XIII,B,2023-12,119.687
+region,Region XIII,B,2024-01,121.892
+region,Region XIII,B,2024-02,124.236
+region,Region XIII,B,2024-03,121.033
+region,Region XIII,B,2024-04,119.444
+region,Region XIII,B,2024-05,121.624
+region,Region XIII,B,2024-06,121.149
+region,Region XIII,B,2024-07,124.685
+region,Region XIII,B,2024-08,122.977
+region,Region XIII,B,2024-09,118.947
+region,Region XIII,B,2024-10,118.857
+region,Region XIII,B,2024-11,121.507
+region,Region XIII,B,2024-12,123.647
+region,Region XIII,B,2025-01,126.252
+region,Region XIII,B,2025-02,125.419
+region,Region XIII,B,2025-03,123.639
+region,Region XIII,B,2025-04,121.335
+region,Region XIII,B,2025-05,121.877
+region,Region XIII,B,2025-06,121.759
+region,Region XIII,B,2025-07,121.771
+region,Region XIII,B,2025-08,123.182
+region,Region XIII,B,2025-09,123.412
+region,Region XIII,B,2025-10,122.943
+region,Region XIII,B,2025-11,122.787
+region,Region XIII,B,2025-12,129.259
+region,Region XIII,B,2026-01,128.843
+region,Region XIII,B,2026-02,129.493
+region,Region XIII,B,2026-03,133.561
+region,Region XIII,B,2026-04,136.702
+region,Region XIII,B,2026-05,135.382
+region,Region XIII,B,2026-06,134.514

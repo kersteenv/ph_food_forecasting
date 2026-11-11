@@ -1,0 +1,17 @@
+model,nominal_pct,horizon_band,coverage_pct,n
+sarima,80,1-3,73.5,6015
+sarima,80,4-6,75.5,6008
+sarima,80,7-12,76.3,12030
+sarima,80,all,75.4,24053
+sarima,95,1-3,92.6,6015
+sarima,95,4-6,93.7,6008
+sarima,95,7-12,92.9,12030
+sarima,95,all,93.0,24053
+naive,80,1-3,70.5,6015
+naive,80,4-6,74.0,6008
+naive,80,7-12,74.2,12030
+naive,80,all,73.2,24053
+naive,95,1-3,91.4,6015
+naive,95,4-6,93.2,6008
+naive,95,7-12,92.7,12030
+naive,95,all,92.5,24053

@@ -1,0 +1,307 @@
+comparison,dimension,group,category,region,commodity,market,series,markets,median_pct,share_rising_pct,median_pct_cal_balanced,ci_low,ci_high,reliable
+pan_post,overall,All,,,,,2615,83,18.83,92.1,18.84,18.03,19.63,True
+pan_post,category,cereals and tubers,cereals and tubers,,,,370,83,21.4,98.9,21.47,20.42,23.11,True
+pan_post,category,"meat, fish and eggs","meat, fish and eggs",,,,915,83,16.02,92.3,16.12,15.15,16.71,True
+pan_post,category,pulses and nuts,pulses and nuts,,,,110,68,11.25,87.3,11.26,8.5,13.02,True
+pan_post,category,vegetables and fruits,vegetables and fruits,,,,1220,83,22.63,90.2,22.7,21.19,24.73,True
+pan_post,region,Autonomous region in Muslim Mindanao,,Autonomous region in Muslim Mindanao,,,120,5,12.48,70.0,12.48,0.33,15.96,True
+pan_post,region,Cordillera Administrative region,,Cordillera Administrative region,,,180,6,19.26,90.6,19.31,16.68,21.37,True
+pan_post,region,National Capital region,,National Capital region,,,43,1,17.3,95.3,17.35,,,False
+pan_post,region,Region I,,Region I,,,120,4,19.08,92.5,19.09,17.37,21.74,True
+pan_post,region,Region II,,Region II,,,121,4,19.48,94.2,19.53,18.68,21.55,True
+pan_post,region,Region III,,Region III,,,250,7,20.27,95.6,20.26,17.74,23.19,True
+pan_post,region,Region IV-A,,Region IV-A,,,179,5,17.27,93.9,16.78,16.54,18.04,True
+pan_post,region,Region IV-B,,Region IV-B,,,161,5,16.32,91.9,16.52,13.84,17.67,True
+pan_post,region,Region IX,,Region IX,,,144,4,17.57,88.2,16.74,15.35,21.46,True
+pan_post,region,Region V,,Region V,,,190,6,20.87,95.8,20.76,17.5,23.27,True
+pan_post,region,Region VI,,Region VI,,,185,6,21.28,95.1,21.35,19.12,22.74,True
+pan_post,region,Region VII,,Region VII,,,114,4,16.52,94.7,16.03,14.07,19.35,True
+pan_post,region,Region VIII,,Region VIII,,,199,6,17.96,94.0,18.12,16.21,20.26,True
+pan_post,region,Region X,,Region X,,,154,5,22.95,92.2,22.92,20.33,29.85,True
+pan_post,region,Region XI,,Region XI,,,168,6,19.85,92.3,19.43,16.44,23.49,True
+pan_post,region,Region XII,,Region XII,,,126,4,20.14,92.1,20.05,17.48,22.92,True
+pan_post,region,Region XIII,,Region XIII,,,161,5,18.83,91.3,18.54,17.9,19.59,True
+pan_post,commodity,Anchovies,"meat, fish and eggs",,Anchovies,,64,64,9.69,67.2,9.31,6.26,14.37,True
+pan_post,commodity,Bananas (lakatan),vegetables and fruits,,Bananas (lakatan),,66,66,28.63,97.0,29.2,26.31,32.95,True
+pan_post,commodity,Bananas (latundan),vegetables and fruits,,Bananas (latundan),,55,55,16.5,85.5,16.52,13.35,21.37,True
+pan_post,commodity,Bananas (saba),vegetables and fruits,,Bananas (saba),,25,25,8.78,72.0,8.82,0.87,14.84,True
+pan_post,commodity,"Beans (green, fresh)",vegetables and fruits,,"Beans (green, fresh)",,37,37,38.04,100.0,37.85,32.64,40.64,True
+pan_post,commodity,Beans (mung),pulses and nuts,,Beans (mung),,54,54,8.43,92.6,8.33,6.87,11.58,True
+pan_post,commodity,Beans (string),vegetables and fruits,,Beans (string),,56,56,34.53,98.2,34.28,29.09,45.66,True
+pan_post,commodity,Bitter melon,vegetables and fruits,,Bitter melon,,76,76,14.19,94.7,14.24,10.72,18.41,True
+pan_post,commodity,Bottle gourd,vegetables and fruits,,Bottle gourd,,28,28,26.14,100.0,26.19,19.32,29.96,True
+pan_post,commodity,Cabbage,vegetables and fruits,,Cabbage,,75,75,15.4,92.0,15.68,12.47,19.01,True
+pan_post,commodity,Cabbage (chinese),vegetables and fruits,,Cabbage (chinese),,45,45,34.02,97.8,33.63,24.31,37.71,True
+pan_post,commodity,Calamansi,vegetables and fruits,,Calamansi,,60,60,19.51,83.3,18.06,13.43,26.86,True
+pan_post,commodity,Carrots,vegetables and fruits,,Carrots,,76,76,42.86,100.0,42.91,38.42,46.04,True
+pan_post,commodity,Choko,vegetables and fruits,,Choko,,51,51,38.36,98.0,38.17,28.28,45.67,True
+pan_post,commodity,Coconut,vegetables and fruits,,Coconut,,72,72,17.22,93.1,17.26,14.36,20.43,True
+pan_post,commodity,Crab,"meat, fish and eggs",,Crab,,50,50,13.48,90.0,13.42,8.78,17.92,True
+pan_post,commodity,Eggplants,vegetables and fruits,,Eggplants,,81,81,19.37,95.1,19.65,17.18,25.41,True
+pan_post,commodity,Eggs,"meat, fish and eggs",,Eggs,,71,71,23.05,100.0,23.18,21.09,24.46,True
+pan_post,commodity,Eggs (duck),"meat, fish and eggs",,Eggs (duck),,12,12,21.08,100.0,21.22,11.56,32.24,True
+pan_post,commodity,Fish (frigate tuna),"meat, fish and eggs",,Fish (frigate tuna),,7,7,9.71,85.7,10.54,4.77,18.86,True
+pan_post,commodity,"Fish (mackerel, fresh)","meat, fish and eggs",,"Fish (mackerel, fresh)",,10,10,11.97,100.0,12.02,3.15,18.86,True
+pan_post,commodity,Fish (milkfish),"meat, fish and eggs",,Fish (milkfish),,76,76,16.3,98.7,16.39,14.93,17.5,True
+pan_post,commodity,Fish (redbelly yellowtail fusilier),"meat, fish and eggs",,Fish (redbelly yellowtail fusilier),,22,22,15.86,95.5,15.74,12.38,21.47,True
+pan_post,commodity,Fish (roundscad),"meat, fish and eggs",,Fish (roundscad),,71,71,16.76,94.4,16.67,14.7,17.82,True
+pan_post,commodity,Fish (slipmouth),"meat, fish and eggs",,Fish (slipmouth),,20,20,12.03,80.0,12.05,3.65,18.45,True
+pan_post,commodity,Fish (threadfin bream),"meat, fish and eggs",,Fish (threadfin bream),,16,16,12.53,93.8,12.48,6.88,15.36,True
+pan_post,commodity,Fish (tilapia),"meat, fish and eggs",,Fish (tilapia),,69,69,15.8,97.1,15.92,14.08,18.13,True
+pan_post,commodity,Garlic,vegetables and fruits,,Garlic,,38,38,20.55,78.9,20.94,10.33,24.4,True
+pan_post,commodity,Ginger,vegetables and fruits,,Ginger,,65,65,24.78,83.1,24.59,19.24,31.27,True
+pan_post,commodity,Groundnuts (shelled),pulses and nuts,,Groundnuts (shelled),,43,43,11.93,79.1,11.97,10.12,16.69,True
+pan_post,commodity,Groundnuts (unshelled),pulses and nuts,,Groundnuts (unshelled),,13,13,19.67,92.3,19.88,13.38,25.66,True
+pan_post,commodity,Maize (yellow),cereals and tubers,,Maize (yellow),,13,13,24.53,92.3,24.85,11.1,35.25,True
+pan_post,commodity,Mandarins,vegetables and fruits,,Mandarins,,11,11,22.9,100.0,23.61,7.72,47.08,True
+pan_post,commodity,Mangoes (carabao),vegetables and fruits,,Mangoes (carabao),,48,48,10.84,83.3,10.78,8.26,12.94,True
+pan_post,commodity,Mangoes (piko),vegetables and fruits,,Mangoes (piko),,4,4,19.51,75.0,19.6,,,False
+pan_post,commodity,Meat (beef),"meat, fish and eggs",,Meat (beef),,62,62,17.66,100.0,17.66,14.61,21.01,True
+pan_post,commodity,"Meat (beef, chops with bones)","meat, fish and eggs",,"Meat (beef, chops with bones)",,73,73,18.83,98.6,18.82,16.52,20.69,True
+pan_post,commodity,"Meat (chicken, whole)","meat, fish and eggs",,"Meat (chicken, whole)",,64,64,14.23,98.4,14.24,12.67,16.22,True
+pan_post,commodity,Meat (pork),"meat, fish and eggs",,Meat (pork),,78,78,16.77,98.7,16.76,13.74,20.24,True
+pan_post,commodity,"Meat (pork, hock)","meat, fish and eggs",,"Meat (pork, hock)",,4,4,14.91,100.0,14.81,,,False
+pan_post,commodity,"Meat (pork, with bones)","meat, fish and eggs",,"Meat (pork, with bones)",,73,73,16.34,100.0,16.38,12.71,18.01,True
+pan_post,commodity,Onions (red),vegetables and fruits,,Onions (red),,67,67,-1.33,44.8,-1.42,-4.46,1.13,True
+pan_post,commodity,Onions (white),vegetables and fruits,,Onions (white),,6,6,3.42,66.7,2.96,-7.23,35.08,True
+pan_post,commodity,Papaya,vegetables and fruits,,Papaya,,4,4,18.68,100.0,18.87,,,False
+pan_post,commodity,Pineapples,vegetables and fruits,,Pineapples,,13,13,19.37,100.0,19.45,11.04,36.84,True
+pan_post,commodity,Potatoes (Irish),cereals and tubers,,Potatoes (Irish),,76,76,38.39,98.7,38.85,34.5,41.48,True
+pan_post,commodity,"Rice (regular, milled)",cereals and tubers,,"Rice (regular, milled)",,82,82,20.19,100.0,20.23,18.87,21.38,True
+pan_post,commodity,Rice (special),cereals and tubers,,Rice (special),,79,79,15.82,98.7,15.69,14.19,19.38,True
+pan_post,commodity,Rice (well milled),cereals and tubers,,Rice (well milled),,81,81,21.26,100.0,21.34,20.18,23.21,True
+pan_post,commodity,Semolina (white),cereals and tubers,,Semolina (white),,11,11,20.52,100.0,19.94,16.69,25.49,True
+pan_post,commodity,Semolina (yellow),cereals and tubers,,Semolina (yellow),,10,10,11.38,90.0,11.37,7.3,15.37,True
+pan_post,commodity,Shrimp (endeavor),"meat, fish and eggs",,Shrimp (endeavor),,17,17,4.18,58.8,4.15,-1.86,12.85,True
+pan_post,commodity,Shrimp (tiger),"meat, fish and eggs",,Shrimp (tiger),,56,56,5.43,64.3,5.36,0.71,7.4,True
+pan_post,commodity,Squashes,vegetables and fruits,,Squashes,,66,66,23.96,98.5,22.04,18.95,27.67,True
+pan_post,commodity,Sweet Potato leaves,vegetables and fruits,,Sweet Potato leaves,,10,10,28.72,100.0,28.88,18.34,55.41,True
+pan_post,commodity,Sweet potatoes,cereals and tubers,,Sweet potatoes,,11,11,29.47,100.0,29.4,17.94,37.66,True
+pan_post,commodity,Taro,cereals and tubers,,Taro,,7,7,14.52,100.0,14.94,10.18,25.79,True
+pan_post,commodity,Tomatoes,vegetables and fruits,,Tomatoes,,76,76,36.18,97.4,35.98,31.28,38.99,True
+pan_post,commodity,Water spinach,vegetables and fruits,,Water spinach,,9,9,21.09,100.0,20.8,15.11,40.41,True
+pan_post,market,Abra,,Cordillera Administrative region,,Abra,31,1,20.66,87.1,20.8,,,False
+pan_post,market,Agusan del Norte,,Region XIII,,Agusan del Norte,33,1,19.52,87.9,19.43,,,False
+pan_post,market,Agusan del Sur,,Region XIII,,Agusan del Sur,31,1,18.01,93.5,18.04,,,False
+pan_post,market,Aklan,,Region VI,,Aklan,29,1,23.11,100.0,23.22,,,False
+pan_post,market,Albay,,Region V,,Albay,36,1,21.09,94.4,20.9,,,False
+pan_post,market,Antique,,Region VI,,Antique,20,1,22.34,95.0,22.39,,,False
+pan_post,market,Apayao,,Cordillera Administrative region,,Apayao,25,1,21.65,92.0,21.84,,,False
+pan_post,market,Aurora,,Region III,,Aurora,37,1,17.35,91.9,17.34,,,False
+pan_post,market,Basilan,,Autonomous region in Muslim Mindanao,,Basilan,28,1,16.66,82.1,16.88,,,False
+pan_post,market,Bataan,,Region III,,Bataan,34,1,17.91,94.1,17.86,,,False
+pan_post,market,Batangas,,Region IV-A,,Batangas,33,1,17.75,97.0,17.8,,,False
+pan_post,market,Benguet,,Cordillera Administrative region,,Benguet,36,1,15.82,88.9,15.83,,,False
+pan_post,market,Biliran,,Region VIII,,Biliran,35,1,16.84,94.3,16.86,,,False
+pan_post,market,Bohol,,Region VII,,Bohol,30,1,16.67,100.0,16.26,,,False
+pan_post,market,Bukidnon,,Region X,,Bukidnon,27,1,22.75,100.0,22.89,,,False
+pan_post,market,Bulacan,,Region III,,Bulacan,36,1,20.33,100.0,20.42,,,False
+pan_post,market,Cagayan,,Region II,,Cagayan,31,1,23.25,96.8,22.78,,,False
+pan_post,market,Camarines Norte,,Region V,,Camarines Norte,33,1,24.73,97.0,24.86,,,False
+pan_post,market,Camarines Sur,,Region V,,Camarines Sur,30,1,25.25,96.7,25.38,,,False
+pan_post,market,Camiguin,,Region X,,Camiguin,29,1,20.51,96.6,20.61,,,False
+pan_post,market,Capiz,,Region VI,,Capiz,32,1,21.67,96.9,21.7,,,False
+pan_post,market,Catanduanes,,Region V,,Catanduanes,30,1,19.21,100.0,18.88,,,False
+pan_post,market,Cavite,,Region IV-A,,Cavite,40,1,19.54,95.0,19.73,,,False
+pan_post,market,Cebu,,Region VII,,Cebu,31,1,14.07,93.5,14.1,,,False
+pan_post,market,Cotabato,,Region XII,,Cotabato,30,1,23.71,90.0,23.96,,,False
+pan_post,market,Davao City,,Region XI,,Davao City,34,1,16.52,82.4,15.47,,,False
+pan_post,market,Davao Occidental,,Region XI,,Davao Occidental,11,1,4.94,90.9,4.73,,,False
+pan_post,market,Davao Oriental,,Region XI,,Davao Oriental,29,1,22.06,93.1,20.61,,,False
+pan_post,market,Davao de Oro,,Region XI,,Davao de Oro,30,1,19.12,100.0,19.09,,,False
+pan_post,market,Davao del Norte,,Region XI,,Davao del Norte,30,1,21.14,93.3,20.02,,,False
+pan_post,market,Davao del Sur,,Region XI,,Davao del Sur,34,1,24.31,94.1,24.4,,,False
+pan_post,market,Dinagat Islands,,Region XIII,,Dinagat Islands,29,1,18.35,100.0,19.39,,,False
+pan_post,market,Eastern Samar,,Region VIII,,Eastern Samar,33,1,19.35,87.9,19.32,,,False
+pan_post,market,Guimaras,,Region VI,,Guimaras,40,1,15.55,92.5,15.6,,,False
+pan_post,market,Ifugao,,Cordillera Administrative region,,Ifugao,31,1,19.28,96.8,19.46,,,False
+pan_post,market,Ilocos Norte,,Region I,,Ilocos Norte,31,1,15.0,83.9,14.92,,,False
+pan_post,market,Ilocos Sur,,Region I,,Ilocos Sur,31,1,22.83,93.5,22.91,,,False
+pan_post,market,Iloilo,,Region VI,,Iloilo,32,1,24.26,90.6,24.35,,,False
+pan_post,market,Isabela,,Region II,,Isabela,26,1,17.81,92.3,17.84,,,False
+pan_post,market,Kalinga,,Cordillera Administrative region,,Kalinga,27,1,13.26,85.2,13.24,,,False
+pan_post,market,La Union (Ilocos Region),,Region I,,La Union (Ilocos Region),28,1,21.01,96.4,20.87,,,False
+pan_post,market,Laguna,,Region IV-A,,Laguna,40,1,16.67,90.0,16.64,,,False
+pan_post,market,Lanao del Norte,,Region X,,Lanao del Norte,33,1,21.43,87.9,21.48,,,False
+pan_post,market,Lanao del Sur,,Autonomous region in Muslim Mindanao,,Lanao del Sur,21,1,10.36,81.0,11.46,,,False
+pan_post,market,Leyte,,Region VIII,,Leyte,33,1,18.44,97.0,18.5,,,False
+pan_post,market,Maguindanao,,Autonomous region in Muslim Mindanao,,Maguindanao,33,1,10.38,66.7,10.37,,,False
+pan_post,market,Marinduque,,Region IV-B,,Marinduque,28,1,12.25,78.6,12.88,,,False
+pan_post,market,Masbate,,Region V,,Masbate,37,1,17.46,91.9,17.49,,,False
+pan_post,market,Metro Manila,,National Capital region,,Metro Manila,43,1,17.3,95.3,17.35,,,False
+pan_post,market,Misamis Occidental,,Region X,,Misamis Occidental,30,1,20.09,83.3,20.21,,,False
+pan_post,market,Misamis Oriental,,Region X,,Misamis Oriental,35,1,31.71,94.3,31.73,,,False
+pan_post,market,Mountain Province,,Cordillera Administrative region,,Mountain Province,30,1,17.66,93.3,17.59,,,False
+pan_post,market,Negros Occidental,,Region VI,,Negros Occidental,32,1,20.39,96.9,20.25,,,False
+pan_post,market,Negros Oriental,,Region VII,,Negros Oriental,26,1,14.24,88.5,14.31,,,False
+pan_post,market,Northern Samar,,Region VIII,,Northern Samar,35,1,22.54,97.1,22.72,,,False
+pan_post,market,Nueva Ecija,,Region III,,Nueva Ecija,34,1,18.84,91.2,18.97,,,False
+pan_post,market,Nueva Vizcaya,,Region II,,Nueva Vizcaya,40,1,18.78,90.0,18.41,,,False
+pan_post,market,Occidental Mindoro,,Region IV-B,,Occidental Mindoro,34,1,17.57,94.1,17.98,,,False
+pan_post,market,Oriental Mindoro,,Region IV-B,,Oriental Mindoro,36,1,16.02,100.0,16.12,,,False
+pan_post,market,Palawan,,Region IV-B,,Palawan,34,1,17.9,100.0,17.75,,,False
+pan_post,market,Pampanga,,Region III,,Pampanga,37,1,18.03,97.3,18.16,,,False
+pan_post,market,Pangasinan,,Region I,,Pangasinan,30,1,18.4,96.7,18.6,,,False
+pan_post,market,Quezon,,Region IV-A,,Quezon,35,1,16.69,97.1,16.11,,,False
+pan_post,market,Quirino,,Region II,,Quirino,24,1,19.33,100.0,19.27,,,False
+pan_post,market,Rizal,,Region IV-A,,Rizal,31,1,16.23,90.3,16.34,,,False
+pan_post,market,Romblon,,Region IV-B,,Romblon,29,1,15.82,82.8,15.78,,,False
+pan_post,market,Samar,,Region VIII,,Samar,31,1,13.52,93.5,13.55,,,False
+pan_post,market,Sarangani,,Region XII,,Sarangani,29,1,22.92,96.6,21.46,,,False
+pan_post,market,Siquijor,,Region VII,,Siquijor,27,1,21.96,96.3,21.75,,,False
+pan_post,market,Sorsogon,,Region V,,Sorsogon,24,1,18.95,95.8,18.98,,,False
+pan_post,market,South Cotabato,,Region XII,,South Cotabato,31,1,17.39,87.1,17.4,,,False
+pan_post,market,Southern Leyte,,Region VIII,,Southern Leyte,32,1,19.64,93.8,19.87,,,False
+pan_post,market,Sultan Kudarat,,Region XII,,Sultan Kudarat,36,1,18.32,94.4,18.1,,,False
+pan_post,market,Sulu,,Autonomous region in Muslim Mindanao,,Sulu,21,1,-12.74,33.3,-11.43,,,False
+pan_post,market,Surigao del Norte,,Region XIII,,Surigao del Norte,34,1,16.53,88.2,16.6,,,False
+pan_post,market,Surigao del Sur,,Region XIII,,Surigao del Sur,34,1,20.13,88.2,19.96,,,False
+pan_post,market,Tarlac,,Region III,,Tarlac,35,1,26.29,100.0,26.39,,,False
+pan_post,market,Tawi-Tawi,,Autonomous region in Muslim Mindanao,,Tawi-Tawi,17,1,20.13,88.2,20.72,,,False
+pan_post,market,Zambales,,Region III,,Zambales,37,1,23.93,94.6,24.05,,,False
+pan_post,market,Zamboanga City,,Region IX,,Zamboanga City,37,1,15.04,83.8,15.06,,,False
+pan_post,market,Zamboanga Sibugay,,Region IX,,Zamboanga Sibugay,38,1,18.51,89.5,17.79,,,False
+pan_post,market,Zamboanga del Norte,,Region IX,,Zamboanga del Norte,30,1,15.59,80.0,15.27,,,False
+pan_post,market,Zamboanga del Sur,,Region IX,,Zamboanga del Sur,39,1,22.7,97.4,22.83,,,False
+pan_post,category_region,Autonomous region in Muslim Mindanao | cereals and tubers,cereals and tubers,Autonomous region in Muslim Mindanao,,,21,5,15.37,85.7,15.52,9.55,17.94,True
+pan_post,category_region,"Autonomous region in Muslim Mindanao | meat, fish and eggs","meat, fish and eggs",Autonomous region in Muslim Mindanao,,,31,5,14.29,71.0,14.29,-16.33,17.09,True
+pan_post,category_region,Autonomous region in Muslim Mindanao | pulses and nuts,pulses and nuts,Autonomous region in Muslim Mindanao,,,7,5,12.27,71.4,12.32,-11.44,20.69,True
+pan_post,category_region,Autonomous region in Muslim Mindanao | vegetables and fruits,vegetables and fruits,Autonomous region in Muslim Mindanao,,,61,5,10.36,63.9,10.93,-3.22,19.65,True
+pan_post,category_region,Cordillera Administrative region | cereals and tubers,cereals and tubers,Cordillera Administrative region,,,29,6,21.53,100.0,21.59,17.82,25.32,True
+pan_post,category_region,"Cordillera Administrative region | meat, fish and eggs","meat, fish and eggs",Cordillera Administrative region,,,57,6,15.7,94.7,15.77,13.9,18.58,True
+pan_post,category_region,Cordillera Administrative region | pulses and nuts,pulses and nuts,Cordillera Administrative region,,,6,5,9.4,66.7,9.31,-3.75,14.46,True
+pan_post,category_region,Cordillera Administrative region | vegetables and fruits,vegetables and fruits,Cordillera Administrative region,,,88,6,25.01,86.4,25.28,22.64,27.71,True
+pan_post,category_region,National Capital region | cereals and tubers,cereals and tubers,National Capital region,,,5,1,17.3,100.0,17.35,,,False
+pan_post,category_region,"National Capital region | meat, fish and eggs","meat, fish and eggs",National Capital region,,,17,1,12.37,100.0,12.4,,,False
+pan_post,category_region,National Capital region | pulses and nuts,pulses and nuts,National Capital region,,,2,1,20.57,100.0,20.58,,,False
+pan_post,category_region,National Capital region | vegetables and fruits,vegetables and fruits,National Capital region,,,19,1,32.72,89.5,32.06,,,False
+pan_post,category_region,Region I | cereals and tubers,cereals and tubers,Region I,,,16,4,19.09,100.0,19.12,14.56,21.56,True
+pan_post,category_region,"Region I | meat, fish and eggs","meat, fish and eggs",Region I,,,45,4,18.35,95.6,18.44,16.9,19.76,True
+pan_post,category_region,Region I | pulses and nuts,pulses and nuts,Region I,,,5,3,9.13,80.0,9.15,0.01,13.86,True
+pan_post,category_region,Region I | vegetables and fruits,vegetables and fruits,Region I,,,54,4,22.79,88.9,22.87,18.41,33.4,True
+pan_post,category_region,Region II | cereals and tubers,cereals and tubers,Region II,,,20,4,18.68,100.0,18.8,12.01,24.93,True
+pan_post,category_region,"Region II | meat, fish and eggs","meat, fish and eggs",Region II,,,45,4,16.71,93.3,16.67,14.53,19.18,True
+pan_post,category_region,Region II | pulses and nuts,pulses and nuts,Region II,,,8,4,20.9,100.0,21.05,8.25,23.65,True
+pan_post,category_region,Region II | vegetables and fruits,vegetables and fruits,Region II,,,48,4,33.21,91.7,33.65,28.72,37.91,True
+pan_post,category_region,Region III | cereals and tubers,cereals and tubers,Region III,,,26,7,20.67,100.0,20.76,14.93,25.84,True
+pan_post,category_region,"Region III | meat, fish and eggs","meat, fish and eggs",Region III,,,98,7,16.39,96.9,16.3,14.7,18.91,True
+pan_post,category_region,Region III | pulses and nuts,pulses and nuts,Region III,,,9,6,13.45,100.0,13.44,7.58,14.34,True
+pan_post,category_region,Region III | vegetables and fruits,vegetables and fruits,Region III,,,117,7,33.59,93.2,33.19,25.86,38.94,True
+pan_post,category_region,Region IV-A | cereals and tubers,cereals and tubers,Region IV-A,,,25,5,18.75,96.0,18.73,17.04,21.26,True
+pan_post,category_region,"Region IV-A | meat, fish and eggs","meat, fish and eggs",Region IV-A,,,63,5,13.24,98.4,13.16,12.03,14.03,True
+pan_post,category_region,Region IV-A | pulses and nuts,pulses and nuts,Region IV-A,,,3,2,16.69,66.7,16.78,,,False
+pan_post,category_region,Region IV-A | vegetables and fruits,vegetables and fruits,Region IV-A,,,88,5,24.54,90.9,24.13,22.26,27.78,True
+pan_post,category_region,Region IV-B | cereals and tubers,cereals and tubers,Region IV-B,,,22,5,19.14,100.0,19.24,15.56,21.39,True
+pan_post,category_region,"Region IV-B | meat, fish and eggs","meat, fish and eggs",Region IV-B,,,66,5,16.49,95.5,16.75,15.41,17.88,True
+pan_post,category_region,Region IV-B | pulses and nuts,pulses and nuts,Region IV-B,,,10,5,14.96,80.0,14.94,11.02,20.4,True
+pan_post,category_region,Region IV-B | vegetables and fruits,vegetables and fruits,Region IV-B,,,63,5,15.4,87.3,15.68,10.72,25.07,True
+pan_post,category_region,Region IX | cereals and tubers,cereals and tubers,Region IX,,,21,4,23.21,100.0,23.33,17.86,25.57,True
+pan_post,category_region,"Region IX | meat, fish and eggs","meat, fish and eggs",Region IX,,,49,4,12.06,77.6,11.96,6.37,17.76,True
+pan_post,category_region,Region IX | pulses and nuts,pulses and nuts,Region IX,,,5,4,10.88,100.0,10.78,5.77,23.01,True
+pan_post,category_region,Region IX | vegetables and fruits,vegetables and fruits,Region IX,,,69,4,18.82,91.3,18.85,17.59,21.6,True
+pan_post,category_region,Region V | cereals and tubers,cereals and tubers,Region V,,,27,6,24.69,100.0,24.73,21.07,25.79,True
+pan_post,category_region,"Region V | meat, fish and eggs","meat, fish and eggs",Region V,,,58,6,16.61,98.3,16.63,13.42,17.47,True
+pan_post,category_region,Region V | pulses and nuts,pulses and nuts,Region V,,,13,6,12.69,92.3,13.3,5.97,21.2,True
+pan_post,category_region,Region V | vegetables and fruits,vegetables and fruits,Region V,,,92,6,27.65,93.5,27.85,21.55,33.29,True
+pan_post,category_region,Region VI | cereals and tubers,cereals and tubers,Region VI,,,28,6,21.65,100.0,21.76,15.66,23.59,True
+pan_post,category_region,"Region VI | meat, fish and eggs","meat, fish and eggs",Region VI,,,81,6,18.65,91.4,18.66,17.91,20.5,True
+pan_post,category_region,Region VI | pulses and nuts,pulses and nuts,Region VI,,,2,2,14.57,100.0,14.49,,,False
+pan_post,category_region,Region VI | vegetables and fruits,vegetables and fruits,Region VI,,,74,6,23.0,97.3,23.06,20.17,27.45,True
+pan_post,category_region,Region VII | cereals and tubers,cereals and tubers,Region VII,,,18,4,21.5,100.0,21.4,19.65,25.98,True
+pan_post,category_region,"Region VII | meat, fish and eggs","meat, fish and eggs",Region VII,,,33,4,14.07,93.9,14.1,12.64,23.19,True
+pan_post,category_region,Region VII | pulses and nuts,pulses and nuts,Region VII,,,5,4,10.12,100.0,10.1,5.31,39.02,True
+pan_post,category_region,Region VII | vegetables and fruits,vegetables and fruits,Region VII,,,58,4,16.52,93.1,15.53,14.85,17.0,True
+pan_post,category_region,Region VIII | cereals and tubers,cereals and tubers,Region VIII,,,26,6,20.42,100.0,20.51,19.62,23.86,True
+pan_post,category_region,"Region VIII | meat, fish and eggs","meat, fish and eggs",Region VIII,,,72,6,15.51,93.1,15.62,13.99,17.67,True
+pan_post,category_region,Region VIII | pulses and nuts,pulses and nuts,Region VIII,,,11,6,5.59,90.9,5.51,0.93,13.03,True
+pan_post,category_region,Region VIII | vegetables and fruits,vegetables and fruits,Region VIII,,,90,6,21.88,93.3,22.08,16.21,28.44,True
+pan_post,category_region,Region X | cereals and tubers,cereals and tubers,Region X,,,22,5,25.98,100.0,26.01,20.21,29.85,True
+pan_post,category_region,"Region X | meat, fish and eggs","meat, fish and eggs",Region X,,,49,5,17.51,91.8,17.5,15.31,22.91,True
+pan_post,category_region,Region X | pulses and nuts,pulses and nuts,Region X,,,5,5,13.99,100.0,14.07,2.5,18.78,True
+pan_post,category_region,Region X | vegetables and fruits,vegetables and fruits,Region X,,,78,5,27.57,89.7,27.57,22.51,36.19,True
+pan_post,category_region,Region XI | cereals and tubers,cereals and tubers,Region XI,,,24,6,26.8,100.0,26.68,24.54,28.19,True
+pan_post,category_region,"Region XI | meat, fish and eggs","meat, fish and eggs",Region XI,,,57,6,16.46,91.2,16.49,9.71,18.44,True
+pan_post,category_region,Region XI | pulses and nuts,pulses and nuts,Region XI,,,9,5,14.48,77.8,14.58,-2.94,19.41,True
+pan_post,category_region,Region XI | vegetables and fruits,vegetables and fruits,Region XI,,,78,6,24.88,92.3,24.94,17.91,29.13,True
+pan_post,category_region,Region XII | cereals and tubers,cereals and tubers,Region XII,,,16,4,25.94,100.0,26.15,23.75,28.12,True
+pan_post,category_region,"Region XII | meat, fish and eggs","meat, fish and eggs",Region XII,,,42,4,17.05,88.1,17.11,10.86,19.9,True
+pan_post,category_region,Region XII | pulses and nuts,pulses and nuts,Region XII,,,6,3,9.34,100.0,9.22,7.77,10.93,True
+pan_post,category_region,Region XII | vegetables and fruits,vegetables and fruits,Region XII,,,62,4,21.95,91.9,21.52,19.58,25.51,True
+pan_post,category_region,Region XIII | cereals and tubers,cereals and tubers,Region XIII,,,24,5,21.29,100.0,21.38,20.59,25.76,True
+pan_post,category_region,"Region XIII | meat, fish and eggs","meat, fish and eggs",Region XIII,,,52,5,13.89,88.5,13.46,12.66,14.17,True
+pan_post,category_region,Region XIII | pulses and nuts,pulses and nuts,Region XIII,,,4,2,-0.16,50.0,-0.26,,,False
+pan_post,category_region,Region XIII | vegetables and fruits,vegetables and fruits,Region XIII,,,81,5,20.13,92.6,20.46,19.48,20.59,True
+pre_pan,overall,All,,,,,38,3,43.92,94.7,41.09,,,True
+pre_pan,category,cereals and tubers,cereals and tubers,,,,9,3,42.22,77.8,36.73,,,True
+pre_pan,category,"meat, fish and eggs","meat, fish and eggs",,,,12,3,35.43,100.0,35.57,,,True
+pre_pan,category,pulses and nuts,pulses and nuts,,,,3,3,22.45,100.0,22.41,,,False
+pre_pan,category,vegetables and fruits,vegetables and fruits,,,,14,3,88.15,100.0,83.65,,,True
+pre_pan,region,National Capital region,,National Capital region,,,14,1,24.38,100.0,25.49,,,False
+pre_pan,region,Region IX,,Region IX,,,12,1,52.81,91.7,54.11,,,False
+pre_pan,region,Region XI,,Region XI,,,12,1,71.14,91.7,71.51,,,False
+pre_pan,commodity,Beans (mung),pulses and nuts,,Beans (mung),,3,3,22.45,100.0,22.41,,,False
+pre_pan,commodity,Cabbage,vegetables and fruits,,Cabbage,,3,3,60.98,100.0,63.02,,,False
+pre_pan,commodity,Carrots,vegetables and fruits,,Carrots,,3,3,45.61,100.0,47.9,,,False
+pre_pan,commodity,Eggs,"meat, fish and eggs",,Eggs,,3,3,30.55,100.0,29.8,,,False
+pre_pan,commodity,Garlic,vegetables and fruits,,Garlic,,1,1,7.25,100.0,6.93,,,False
+pre_pan,commodity,"Meat (beef, chops with bones)","meat, fish and eggs",,"Meat (beef, chops with bones)",,3,3,79.2,100.0,80.21,,,False
+pre_pan,commodity,"Meat (chicken, whole)","meat, fish and eggs",,"Meat (chicken, whole)",,3,3,34.05,100.0,34.86,,,False
+pre_pan,commodity,Meat (pork),"meat, fish and eggs",,Meat (pork),,3,3,63.08,100.0,62.8,,,False
+pre_pan,commodity,Onions (red),vegetables and fruits,,Onions (red),,3,3,137.92,100.0,127.94,,,False
+pre_pan,commodity,Onions (white),vegetables and fruits,,Onions (white),,1,1,83.71,100.0,83.48,,,False
+pre_pan,commodity,Potatoes (Irish),cereals and tubers,,Potatoes (Irish),,3,3,47.12,100.0,46.98,,,False
+pre_pan,commodity,"Rice (regular, milled)",cereals and tubers,,"Rice (regular, milled)",,3,3,-0.92,33.3,-0.77,,,False
+pre_pan,commodity,Sweet potatoes,cereals and tubers,,Sweet potatoes,,3,3,56.01,100.0,45.44,,,False
+pre_pan,commodity,Tomatoes,vegetables and fruits,,Tomatoes,,3,3,92.58,100.0,83.81,,,False
+pre_pan,market,Davao City,,Region XI,,Davao City,12,1,71.14,91.7,71.51,,,False
+pre_pan,market,Metro Manila,,National Capital region,,Metro Manila,14,1,24.38,100.0,25.49,,,False
+pre_pan,market,Zamboanga City,,Region IX,,Zamboanga City,12,1,52.81,91.7,54.11,,,False
+pre_pan,category_region,National Capital region | cereals and tubers,cereals and tubers,National Capital region,,,3,1,17.5,100.0,18.57,,,False
+pre_pan,category_region,"National Capital region | meat, fish and eggs","meat, fish and eggs",National Capital region,,,4,1,33.06,100.0,33.17,,,False
+pre_pan,category_region,National Capital region | pulses and nuts,pulses and nuts,National Capital region,,,1,1,22.45,100.0,22.41,,,False
+pre_pan,category_region,National Capital region | vegetables and fruits,vegetables and fruits,National Capital region,,,6,1,19.4,100.0,21.89,,,False
+pre_pan,category_region,Region IX | cereals and tubers,cereals and tubers,Region IX,,,3,1,42.22,66.7,36.73,,,False
+pre_pan,category_region,"Region IX | meat, fish and eggs","meat, fish and eggs",Region IX,,,4,1,47.22,100.0,47.8,,,False
+pre_pan,category_region,Region IX | pulses and nuts,pulses and nuts,Region IX,,,1,1,8.82,100.0,8.86,,,False
+pre_pan,category_region,Region IX | vegetables and fruits,vegetables and fruits,Region IX,,,4,1,76.78,100.0,73.42,,,False
+pre_pan,category_region,Region XI | cereals and tubers,cereals and tubers,Region XI,,,3,1,56.01,66.7,45.44,,,False
+pre_pan,category_region,"Region XI | meat, fish and eggs","meat, fish and eggs",Region XI,,,4,1,49.43,100.0,49.41,,,False
+pre_pan,category_region,Region XI | pulses and nuts,pulses and nuts,Region XI,,,1,1,33.01,100.0,33.22,,,False
+pre_pan,category_region,Region XI | vegetables and fruits,vegetables and fruits,Region XI,,,4,1,132.27,100.0,133.8,,,False
+pre_post,overall,All,,,,,36,3,73.4,100.0,74.33,,,True
+pre_post,category,cereals and tubers,cereals and tubers,,,,7,3,61.75,100.0,63.36,,,True
+pre_post,category,"meat, fish and eggs","meat, fish and eggs",,,,12,3,55.85,100.0,56.21,,,True
+pre_post,category,pulses and nuts,pulses and nuts,,,,3,3,37.54,100.0,37.49,,,False
+pre_post,category,vegetables and fruits,vegetables and fruits,,,,14,3,88.56,100.0,88.45,,,True
+pre_post,region,National Capital region,,National Capital region,,,14,1,60.21,100.0,61.28,,,False
+pre_post,region,Region IX,,Region IX,,,11,1,81.56,100.0,81.55,,,False
+pre_post,region,Region XI,,Region XI,,,11,1,97.04,100.0,98.02,,,False
+pre_post,commodity,Beans (mung),pulses and nuts,,Beans (mung),,3,3,37.54,100.0,37.49,,,False
+pre_post,commodity,Cabbage,vegetables and fruits,,Cabbage,,3,3,89.28,100.0,89.37,,,False
+pre_post,commodity,Carrots,vegetables and fruits,,Carrots,,3,3,95.06,100.0,95.51,,,False
+pre_post,commodity,Eggs,"meat, fish and eggs",,Eggs,,3,3,53.02,100.0,53.23,,,False
+pre_post,commodity,Garlic,vegetables and fruits,,Garlic,,1,1,18.52,100.0,18.22,,,False
+pre_post,commodity,"Meat (beef, chops with bones)","meat, fish and eggs",,"Meat (beef, chops with bones)",,3,3,97.04,100.0,98.02,,,False
+pre_post,commodity,"Meat (chicken, whole)","meat, fish and eggs",,"Meat (chicken, whole)",,3,3,36.82,100.0,36.94,,,False
+pre_post,commodity,Meat (pork),"meat, fish and eggs",,Meat (pork),,3,3,78.36,100.0,78.49,,,False
+pre_post,commodity,Onions (red),vegetables and fruits,,Onions (red),,3,3,87.84,100.0,87.53,,,False
+pre_post,commodity,Onions (white),vegetables and fruits,,Onions (white),,1,1,77.53,100.0,76.46,,,False
+pre_post,commodity,Potatoes (Irish),cereals and tubers,,Potatoes (Irish),,3,3,91.92,100.0,91.88,,,False
+pre_post,commodity,"Rice (regular, milled)",cereals and tubers,,"Rice (regular, milled)",,3,3,16.11,100.0,16.51,,,False
+pre_post,commodity,Sweet potatoes,cereals and tubers,,Sweet potatoes,,1,1,61.75,100.0,63.36,,,False
+pre_post,commodity,Tomatoes,vegetables and fruits,,Tomatoes,,3,3,130.64,100.0,131.08,,,False
+pre_post,market,Davao City,,Region XI,,Davao City,11,1,97.04,100.0,98.02,,,False
+pre_post,market,Metro Manila,,National Capital region,,Metro Manila,14,1,60.21,100.0,61.28,,,False
+pre_post,market,Zamboanga City,,Region IX,,Zamboanga City,11,1,81.56,100.0,81.55,,,False
+pre_post,category_region,National Capital region | cereals and tubers,cereals and tubers,National Capital region,,,3,1,61.75,100.0,63.36,,,False
+pre_post,category_region,"National Capital region | meat, fish and eggs","meat, fish and eggs",National Capital region,,,4,1,52.41,100.0,52.67,,,False
+pre_post,category_region,National Capital region | pulses and nuts,pulses and nuts,National Capital region,,,1,1,37.54,100.0,37.49,,,False
+pre_post,category_region,National Capital region | vegetables and fruits,vegetables and fruits,National Capital region,,,6,1,73.4,100.0,74.33,,,False
+pre_post,category_region,Region IX | cereals and tubers,cereals and tubers,Region IX,,,2,1,48.83,100.0,49.03,,,False
+pre_post,category_region,"Region IX | meat, fish and eggs","meat, fish and eggs",Region IX,,,4,1,58.48,100.0,58.55,,,False
+pre_post,category_region,Region IX | pulses and nuts,pulses and nuts,Region IX,,,1,1,33.85,100.0,33.93,,,False
+pre_post,category_region,Region IX | vegetables and fruits,vegetables and fruits,Region IX,,,4,1,92.17,100.0,92.44,,,False
+pre_post,category_region,Region XI | cereals and tubers,cereals and tubers,Region XI,,,2,1,92.26,100.0,92.97,,,False
+pre_post,category_region,"Region XI | meat, fish and eggs","meat, fish and eggs",Region XI,,,4,1,66.88,100.0,67.01,,,False
+pre_post,category_region,Region XI | pulses and nuts,pulses and nuts,Region XI,,,1,1,63.36,100.0,62.24,,,False
+pre_post,category_region,Region XI | vegetables and fruits,vegetables and fruits,Region XI,,,4,1,159.38,100.0,161.27,,,False
